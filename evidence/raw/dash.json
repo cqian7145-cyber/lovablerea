@@ -1,0 +1,713 @@
+{
+ "info": {
+  "url": "https://lovable.dev/dashboard",
+  "title": "Home | Lovable",
+  "text": "Skip to main content\n陈\n陈芊's Lovable\nNew\nSearch\nCtrl\nK\nProjects\nProjects\nConnectors\nChats\nProjects\nP\nPixel Perfect Picture\nPixel Perfect Picture\nWaiting for approval\nP\nPixel Perfect Replica\nPixel Perfect Replica\nM\nMouse Tank Tactics\nMouse Tank Tactics\nSee all projects\nRecent chats\nNo chats yet\nUpgrade to Pro\nUnlock more features\n\nShare Lovable\n\nUp to 400 credits per referral\n\n陈\nAdd AI to your apps\nGot an idea, 陈芊?\nAsk Lovable to build a prototype.\n\n\n\n\nBuild\nSearch\nMy projects\nRecently viewed\nLovable templates\nBrowse all\n陈\nPixel Perfect Picture\nEdited 11 hours ago\n陈\nPixel Perfect Replica\nEdited 1 day ago\nPublished\n陈\nMouse Tank Tactics\nEdited 26 days ago\nChat for free\n\nThe new Chat mode lets you ask questions and explore ideas without spending credits. Pick it from the mode menu right here.\n\nTry it",
+  "testids": [
+   "workspace-menu-trigger",
+   "sidebar-nav-home",
+   "sidebar-nav-search",
+   "sidebar-rail-projects",
+   "sidebar-nav-all-projects",
+   "sidebar-nav-connectors",
+   "sidebar-rail-chats",
+   "sidebar-project-item",
+   "sidebar-project-item-actions",
+   "sidebar-recent-chats-new-chat",
+   "sidebar-user-menu-trigger",
+   "rail-edge-drag-handle",
+   "dashboard-mobile-back-home",
+   "dashboard-layout-background",
+   "background-frame",
+   "ai-apps-banner-pill",
+   "composer-glow-halo",
+   "chat-composer",
+   "chat-composer-editor",
+   "chat-composer-button-row",
+   "create-form-plus-menu-trigger",
+   "create-form-chat-mode",
+   "dashboard-projects-search-close",
+   "dashboard-projects-browse-all",
+   "project-card-pixel-perfect-picture-0038",
+   "project-card",
+   "project-card-mouse-maze-blaster",
+   "glasshouse-root-pending",
+   "glasshouse-connectors-pending",
+   "glasshouse-composer-pending"
+  ],
+  "ariaLabels": [
+   "Sidebar",
+   "Close sidebar",
+   "陈芊's Lovable workspace menu",
+   "Main menu",
+   "Filter projects",
+   "Project actions",
+   "New chat",
+   "Account menu",
+   "Halloween game",
+   "Go to dashboard",
+   "Lovable",
+   "Chat input",
+   "Additional actions",
+   "Attach files",
+   "Transcribe",
+   "Search projects...",
+   "Close",
+   "Pixel Perfect Picture",
+   "Select Pixel Perfect Picture",
+   "Pin project",
+   "Open profile for 陈芊",
+   "More options for Pixel Perfect Picture",
+   "Pixel Perfect Replica",
+   "Select Pixel Perfect Replica",
+   "More options for Pixel Perfect Replica",
+   "Mouse Tank Tactics",
+   "Select Mouse Tank Tactics",
+   "View published site",
+   "More options for Mouse Tank Tactics",
+   "",
+   "Chat for free",
+   "Dismiss chat mode tip"
+  ],
+  "buttons": [
+   {
+    "text": "陈 陈芊's Lovable",
+    "aria": "陈芊's Lovable workspace menu",
+    "testid": "workspace-menu-trigger",
+    "disabled": false,
+    "rect": {
+     "x": 8,
+     "y": 48,
+     "w": 240,
+     "h": 32
+    }
+   },
+   {
+    "text": "Search Ctrl K",
+    "aria": null,
+    "testid": "sidebar-nav-search",
+    "disabled": false,
+    "rect": {
+     "x": 8,
+     "y": 120,
+     "w": 240,
+     "h": 32
+    }
+   },
+   {
+    "text": "Connectors",
+    "aria": null,
+    "testid": "sidebar-nav-connectors",
+    "disabled": false,
+    "rect": {
+     "x": 8,
+     "y": 184,
+     "w": 240,
+     "h": 32
+    }
+   },
+   {
+    "text": "Projects",
+    "aria": null,
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 8,
+     "y": 228,
+     "w": 86,
+     "h": 32
+    }
+   },
+   {
+    "text": "",
+    "aria": "Filter projects",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 220,
+     "y": 232,
+     "w": 24,
+     "h": 24
+    }
+   },
+   {
+    "text": "",
+    "aria": "Project actions",
+    "testid": "sidebar-project-item-actions",
+    "disabled": false,
+    "rect": {
+     "x": 220,
+     "y": 264,
+     "w": 24,
+     "h": 24
+    }
+   },
+   {
+    "text": "",
+    "aria": "Project actions",
+    "testid": "sidebar-project-item-actions",
+    "disabled": false,
+    "rect": {
+     "x": 220,
+     "y": 296,
+     "w": 24,
+     "h": 24
+    }
+   },
+   {
+    "text": "",
+    "aria": "Project actions",
+    "testid": "sidebar-project-item-actions",
+    "disabled": false,
+    "rect": {
+     "x": 220,
+     "y": 328,
+     "w": 24,
+     "h": 24
+    }
+   },
+   {
+    "text": "Recent chats",
+    "aria": null,
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 8,
+     "y": 400,
+     "w": 117,
+     "h": 32
+    }
+   },
+   {
+    "text": "Upgrade to Pro Unlock more features",
+    "aria": null,
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 8,
+     "y": 789,
+     "w": 240,
+     "h": 56
+    }
+   },
+   {
+    "text": "Share Lovable Up to 400 credits per referral",
+    "aria": null,
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 14,
+     "y": 798,
+     "w": 228,
+     "h": 53
+    }
+   },
+   {
+    "text": "陈",
+    "aria": "Account menu",
+    "testid": "sidebar-user-menu-trigger",
+    "disabled": false,
+    "rect": {
+     "x": 8,
+     "y": 861,
+     "w": 32,
+     "h": 32
+    }
+   },
+   {
+    "text": "",
+    "aria": "Halloween game",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 220,
+     "y": 861,
+     "w": 28,
+     "h": 28
+    }
+   },
+   {
+    "text": "Add AI to your apps",
+    "aria": null,
+    "testid": "ai-apps-banner-pill",
+    "disabled": false,
+    "rect": {
+     "x": 722,
+     "y": 40,
+     "w": 231,
+     "h": 36
+    }
+   },
+   {
+    "text": "",
+    "aria": "Additional actions",
+    "testid": "create-form-plus-menu-trigger",
+    "disabled": false,
+    "rect": {
+     "x": 514,
+     "y": 393,
+     "w": 32,
+     "h": 32
+    }
+   },
+   {
+    "text": "Build",
+    "aria": null,
+    "testid": "create-form-chat-mode",
+    "disabled": false,
+    "rect": {
+     "x": 1046,
+     "y": 393,
+     "w": 75,
+     "h": 32
+    }
+   },
+   {
+    "text": "",
+    "aria": "Transcribe",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 1129,
+     "y": 393,
+     "w": 32,
+     "h": 32
+    }
+   },
+   {
+    "text": "Search",
+    "aria": null,
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 333,
+     "y": 853,
+     "w": 91,
+     "h": 32
+    }
+   },
+   {
+    "text": "My projects",
+    "aria": null,
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 424,
+     "y": 853,
+     "w": 95,
+     "h": 32
+    }
+   },
+   {
+    "text": "Recently viewed",
+    "aria": null,
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 519,
+     "y": 853,
+     "w": 124,
+     "h": 32
+    }
+   },
+   {
+    "text": "Lovable templates",
+    "aria": null,
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 643,
+     "y": 853,
+     "w": 136,
+     "h": 32
+    }
+   },
+   {
+    "text": "",
+    "aria": "Close",
+    "testid": "dashboard-projects-search-close",
+    "disabled": false,
+    "rect": {
+     "x": 747,
+     "y": 853,
+     "w": 32,
+     "h": 32
+    }
+   },
+   {
+    "text": "",
+    "aria": "Select Pixel Perfect Picture",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 345,
+     "y": 929,
+     "w": 16,
+     "h": 16
+    }
+   },
+   {
+    "text": "",
+    "aria": "Pin project",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 612,
+     "y": 921,
+     "w": 32,
+     "h": 32
+    }
+   },
+   {
+    "text": "",
+    "aria": "More options for Pixel Perfect Picture",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 624,
+     "y": 1106,
+     "w": 28,
+     "h": 28
+    }
+   },
+   {
+    "text": "",
+    "aria": "Select Pixel Perfect Replica",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 692,
+     "y": 929,
+     "w": 16,
+     "h": 16
+    }
+   },
+   {
+    "text": "",
+    "aria": "Pin project",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 959,
+     "y": 921,
+     "w": 32,
+     "h": 32
+    }
+   },
+   {
+    "text": "",
+    "aria": "More options for Pixel Perfect Replica",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 971,
+     "y": 1106,
+     "w": 28,
+     "h": 28
+    }
+   },
+   {
+    "text": "",
+    "aria": "Select Mouse Tank Tactics",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 1039,
+     "y": 929,
+     "w": 16,
+     "h": 16
+    }
+   },
+   {
+    "text": "",
+    "aria": "Pin project",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 1305,
+     "y": 921,
+     "w": 32,
+     "h": 32
+    }
+   },
+   {
+    "text": "",
+    "aria": "More options for Mouse Tank Tactics",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 1317,
+     "y": 1106,
+     "w": 28,
+     "h": 28
+    }
+   },
+   {
+    "text": "",
+    "aria": "Dismiss chat mode tip",
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 1081,
+     "y": 445,
+     "w": 32,
+     "h": 32
+    }
+   },
+   {
+    "text": "Try it",
+    "aria": null,
+    "testid": null,
+    "disabled": false,
+    "rect": {
+     "x": 1055,
+     "y": 705,
+     "w": 50,
+     "h": 28
+    }
+   }
+  ],
+  "inputs": [
+   {
+    "tag": "DIV",
+    "placeholder": null,
+    "aria": "Chat input",
+    "type": null,
+    "testid": null
+   },
+   {
+    "tag": "INPUT",
+    "placeholder": "Search projects...",
+    "aria": "Search projects...",
+    "type": "text",
+    "testid": null
+   }
+  ],
+  "regions": [
+   {
+    "tag": "HEADER",
+    "role": null,
+    "aria": "Sidebar",
+    "testid": null,
+    "text": "陈 陈芊's Lovable New Search Ctrl K Projects Projects Connectors Chats Projects P P",
+    "rect": {
+     "x": 0,
+     "y": 0,
+     "w": 256,
+     "h": 901
+    }
+   },
+   {
+    "tag": "NAV",
+    "role": null,
+    "aria": "Main menu",
+    "testid": null,
+    "text": "New Search Ctrl K Projects Projects Connectors Chats Projects P Pixel Perfect Pi",
+    "rect": {
+     "x": 8,
+     "y": 88,
+     "w": 240,
+     "h": 693
+    }
+   },
+   {
+    "tag": "MAIN",
+    "role": null,
+    "aria": null,
+    "testid": null,
+    "text": "Add AI to your apps Got an idea, 陈芊? Ask Lovable to build a prototype. Build Sea",
+    "rect": {
+     "x": 257,
+     "y": 8,
+     "w": 1160,
+     "h": 1214
+    }
+   }
+  ],
+  "scrollHeight": 1230,
+  "storage": {
+   "local": [
+    "projects-paused-banner-dismissed:6d86bb7d60c07b233945:",
+    "sweden-student-offer-invitation:back-to-school-sweden-2609:juARPstgCPYlfESgfwyLQ0b13ll1:6d86bb7d60c07b233945",
+    "_uetvid_exp",
+    "lastUsedSSOProviderId",
+    "rudder_30uiF44drV1UnRmUEUVhfQ2L500.6f758c67-f3ed-4714-85d3-3f763e66fb41.inProgress",
+    "resurrection-gift-checked-juARPstgCPYlfESgfwyLQ0b13ll1-6d86bb7d60c07b233945-3",
+    "lovable:removed-recent-projects:juARPstgCPYlfESgfwyLQ0b13ll1:6d86bb7d60c07b233945",
+    "rl_trait",
+    "chat-mode-coachmark-dismissed:juARPstgCPYlfESgfwyLQ0b13ll1",
+    "rudder_30uiF44drV1UnRmUEUVhfQ2L500.6f758c67-f3ed-4714-85d3-3f763e66fb41.batchQueue",
+    "out-of-cloud-credits-banner-dismissed:6d86bb7d60c07b233945",
+    "rl_user_id",
+    "_gcl_ls",
+    "rl_anonymous_id",
+    "_uetvid",
+    "rl_session",
+    "lastExternalReferrer",
+    "li_adsId",
+    "launch_card_state_juARPstgCPYlfESgfwyLQ0b13ll1_v1",
+    "rudder_30uiF44drV1UnRmUEUVhfQ2L500.6f758c67-f3ed-4714-85d3-3f763e66fb41.ack",
+    "bhpx_processed_events",
+    "rl_page_init_referrer",
+    "lovable:sidebar-projects-filter",
+    "lastUsedAuthMethod",
+    "rudder_30uiF44drV1UnRmUEUVhfQ2L500.6f758c67-f3ed-4714-85d3-3f763e66fb41.queue",
+    "_uetsid",
+    "news_read_status_juARPstgCPYlfESgfwyLQ0b13ll1_v2",
+    "__cuid",
+    "editor-store-create-form",
+    "lovable:removed-recent-chats:juARPstgCPYlfESgfwyLQ0b13ll1:6d86bb7d60c07b233945",
+    "has_seen_attach_image_modal",
+    "lastExternalReferrerTime",
+    "lastMutatedAt",
+    "_uetsid_exp",
+    "report-dialog-draft",
+    "lovable:sidebar-has-starred:6d86bb7d60c07b233945",
+    "lovable-use-tailscale",
+    "lovable:sidebar-has-chats:6d86bb7d60c07b233945",
+    "referral-bonus-announcement-seen",
+    "editor-mode-store:last"
+   ],
+   "session": [
+    "_cltk",
+    "active-workspace-offer-visit",
+    "__spdt",
+    "_rdt_cfg",
+    "tsr-scroll-restoration-v1_3"
+   ]
+  },
+  "cookieNames": [
+   "USER_COUNTRY",
+   "USER_CURRENCY",
+   "LOCALE",
+   "rs_visitor_id",
+   "__cuid",
+   "__cuid",
+   "__dpl",
+   "g_state",
+   "lovable-workspace-id",
+   "lovable-workspace-plan",
+   "lovable-flag-plan",
+   "lovable_consent_v1",
+   "IR_gbd",
+   "_bhp",
+   "_gcl_au",
+   "IR_49205",
+   "IR_PI",
+   "__spdt",
+   "__hstc",
+   "hubspotutk",
+   "__hssrc",
+   "__hssc",
+   "_rdt_uuid",
+   "_rdt_em",
+   "_ga",
+   "_ga_VW0TD1TTTK",
+   "_fbp",
+   "_uetsid",
+   "_uetvid"
+  ]
+ },
+ "network": [],
+ "sse": [],
+ "ws": [],
+ "console": [
+  {
+   "type": "log",
+   "args": [
+    "Initializing RudderStack Analytics"
+   ]
+  },
+  {
+   "type": "debug",
+   "args": [
+    "Error"
+   ]
+  },
+  {
+   "type": "debug",
+   "args": [
+    "Error"
+   ]
+  },
+  {
+   "type": "error",
+   "args": [
+    "%c RS SDK - Spotify Pixel %c No Spotify Pixel mapped event found. Aborting",
+    "font-weight: bold; background: black; color: white;",
+    "font-weight: normal;"
+   ]
+  },
+  {
+   "type": "error",
+   "args": [
+    "%c RS SDK - Spotify Pixel %c No Spotify Pixel mapped event found. Aborting",
+    "font-weight: bold; background: black; color: white;",
+    "font-weight: normal;"
+   ]
+  },
+  {
+   "type": "error",
+   "args": [
+    "%c RS SDK - Spotify Pixel %c No Spotify Pixel mapped event found. Aborting",
+    "font-weight: bold; background: black; color: white;",
+    "font-weight: normal;"
+   ]
+  },
+  {
+   "type": "error",
+   "args": [
+    "%c RS SDK - Spotify Pixel %c No Spotify Pixel mapped event found. Aborting",
+    "font-weight: bold; background: black; color: white;",
+    "font-weight: normal;"
+   ]
+  },
+  {
+   "type": "error",
+   "args": [
+    "%c RS SDK - Spotify Pixel %c No Spotify Pixel mapped event found. Aborting",
+    "font-weight: bold; background: black; color: white;",
+    "font-weight: normal;"
+   ]
+  },
+  {
+   "type": "error",
+   "args": [
+    "%c RS SDK - Spotify Pixel %c No Spotify Pixel mapped event found. Aborting",
+    "font-weight: bold; background: black; color: white;",
+    "font-weight: normal;"
+   ]
+  },
+  {
+   "type": "error",
+   "args": [
+    "%c RS SDK - Spotify Pixel %c No Spotify Pixel mapped event found. Aborting",
+    "font-weight: bold; background: black; color: white;",
+    "font-weight: normal;"
+   ]
+  },
+  {
+   "type": "error",
+   "args": [
+    "%c RS SDK - Spotify Pixel %c No Spotify Pixel mapped event found. Aborting",
+    "font-weight: bold; background: black; color: white;",
+    "font-weight: normal;"
+   ]
+  },
+  {
+   "type": "error",
+   "args": [
+    "%c RS SDK - Spotify Pixel %c No Spotify Pixel mapped event found. Aborting",
+    "font-weight: bold; background: black; color: white;",
+    "font-weight: normal;"
+   ]
+  },
+  {
+   "type": "warning",
+   "args": [
+    "[Meta Pixel] - Removed parameters from custom data due to potential violations. Go to Events Manager to learn more."
+   ]
+  }
+ ],
+ "errors": []
+}

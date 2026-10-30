@@ -1,0 +1,4733 @@
+{
+ "info": {
+  "url": "https://lovable.dev/projects/053a133e-76d8-4c7c-b418-2ab5f486a673",
+  "title": "Lovable",
+  "text": "Skip to chat input\nPixel Perfect Picture",
+  "testids": [
+   "rail-edge-drag-handle",
+   "mobile-chat-skeleton",
+   "editor-fallback-nav-logo",
+   "editor-fallback-chat-column",
+   "editor-fallback-preview-card"
+  ],
+  "ariaLabels": [
+   "Loading...",
+   ""
+  ],
+  "buttons": [],
+  "inputs": [],
+  "regions": [
+   {
+    "tag": "MAIN",
+    "role": null,
+    "aria": null,
+    "testid": null,
+    "text": "Pixel Perfect Picture",
+    "rect": {
+     "x": 1,
+     "y": 0,
+     "w": 1440,
+     "h": 901
+    }
+   },
+   {
+    "tag": "NAV",
+    "role": null,
+    "aria": null,
+    "testid": null,
+    "text": "Pixel Perfect Picture",
+    "rect": {
+     "x": 1,
+     "y": 0,
+     "w": 1440,
+     "h": 48
+    }
+   }
+  ],
+  "scrollHeight": 900,
+  "storage": {
+   "local": [
+    "projects-paused-banner-dismissed:6d86bb7d60c07b233945:",
+    "rudder_30uiF44drV1UnRmUEUVhfQ2L500.b5382aad-5169-4cc2-8a15-f79e374c85a3.ack",
+    "sweden-student-offer-invitation:back-to-school-sweden-2609:juARPstgCPYlfESgfwyLQ0b13ll1:6d86bb7d60c07b233945",
+    "_uetvid_exp",
+    "sweden-student-offer-invitation:back-to-school-sweden-2609::",
+    "lastUsedSSOProviderId",
+    "resurrection-gift-checked-juARPstgCPYlfESgfwyLQ0b13ll1-6d86bb7d60c07b233945-3",
+    "lovable:removed-recent-projects:juARPstgCPYlfESgfwyLQ0b13ll1:6d86bb7d60c07b233945",
+    "rl_trait",
+    "_gcl_ls",
+    "chat-mode-coachmark-dismissed:juARPstgCPYlfESgfwyLQ0b13ll1",
+    "lovable.gitsync.syncNotice.053a133e-76d8-4c7c-b418-2ab5f486a673.fallback:",
+    "out-of-cloud-credits-banner-dismissed:6d86bb7d60c07b233945",
+    "rl_user_id",
+    "rl_anonymous_id",
+    "draft-accept-queue-expanded",
+    "_uetvid",
+    "lastExternalReferrer",
+    "rl_session",
+    "rudder_30uiF44drV1UnRmUEUVhfQ2L500.b5382aad-5169-4cc2-8a15-f79e374c85a3.batchQueue",
+    "li_adsId",
+    "firebase:host:gpt-engineer-390607-default-rtdb.firebaseio.com",
+    "launch_card_state_juARPstgCPYlfESgfwyLQ0b13ll1_v1",
+    "rudder_30uiF44drV1UnRmUEUVhfQ2L500.b5382aad-5169-4cc2-8a15-f79e374c85a3.queue",
+    "editor-store-juARPstgCPYlfESgfwyLQ0b13ll1:053a133e-76d8-4c7c-b418-2ab5f486a673:main",
+    "bhpx_processed_events",
+    "rl_page_init_referrer",
+    "lovable:sidebar-projects-filter",
+    "lastUsedAuthMethod",
+    "rudder_30uiF44drV1UnRmUEUVhfQ2L500.b5382aad-5169-4cc2-8a15-f79e374c85a3.inProgress",
+    "_uetsid",
+    "news_read_status_juARPstgCPYlfESgfwyLQ0b13ll1_v2",
+    "__cuid",
+    "editor-store-create-form",
+    "lastExternalReferrerTime",
+    "has_seen_attach_image_modal",
+    "projects-paused-banner-dismissed::",
+    "lovable:removed-recent-chats:juARPstgCPYlfESgfwyLQ0b13ll1:6d86bb7d60c07b233945",
+    "lastMutatedAt",
+    "_uetsid_exp",
+    "report-dialog-draft",
+    "cloud-instance-053a133e-76d8-4c7c-b418-2ab5f486a673",
+    "lovable:sidebar-has-starred:6d86bb7d60c07b233945",
+    "out-of-cloud-credits-banner-dismissed:",
+    "lovable-use-tailscale",
+    "lovable:sidebar-has-chats:6d86bb7d60c07b233945",
+    "sweden-student-offer-invitation:back-to-school-sweden-2609::6d86bb7d60c07b233945",
+    "referral-bonus-announcement-seen",
+    "editor-mode-store:last"
+   ],
+   "session": []
+  },
+  "cookieNames": [
+   "USER_COUNTRY",
+   "USER_CURRENCY",
+   "LOCALE",
+   "rs_visitor_id",
+   "__cuid",
+   "__cuid",
+   "g_state",
+   "lovable-workspace-id",
+   "lovable_consent_v1",
+   "IR_gbd",
+   "_bhp",
+   "__spdt",
+   "__hstc",
+   "hubspotutk",
+   "__hssrc",
+   "_ga",
+   "_fbp",
+   "_gcl_au",
+   "editor_sidebar_pct",
+   "__hssc",
+   "_rdt_uuid",
+   "_rdt_em",
+   "_ga_VW0TD1TTTK",
+   "IR_49205",
+   "IR_PI",
+   "_uetsid",
+   "_uetvid",
+   "__dpl",
+   "lovable-flag-plan",
+   "lovable-workspace-plan"
+  ]
+ },
+ "network": [
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/projects/053a133e-76d8-4c7c-b418-2ab5f486a673",
+   "s": 200,
+   "mime": "text/html",
+   "type": "Document",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/globals-B369QPMp.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/fonts-yKhYizLu.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/index-4PBh0cLs.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/app-boot-LZ075GGe.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/app-shared-BCkUO16J.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/rolldown-runtime-CSz5w8F5.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-tanstack-D6yZ0yGH.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-react-Fx2PtaaM.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/flag-catalog-Dfgce4dg.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-overlay-WeHoSqo7.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-firebase-IHs4l-D7.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-protobuf-BvDTVJFg.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-motion-DwXY1EMP.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-sync-store-hJwz-_Wy.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-base-ui-field-Cn_B3UdU.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-base-ui-eager-BEgWHTBu.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-util-bDkZRKmn.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-es-toolkit-CQNapaF9.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-schema-CqY_I52z.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-firebase-core-ChSZSTvC.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-datefns-PYvVVSwq.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-floating-ui-D0AC_O_Q.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ui-password-input-BI-t7jJ0.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/dashboard-shared-PAOUoimL.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/index-Bi46xoZT.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/app-boot-CG0Kns83.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/_eager-Cm415-Dn.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/app-shared-DA_lzx6f.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/_dashboard-shell-B19jEvCp.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/WarmSurfaceScope-BCkzU3uH.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ProjectsCreateMenu-BDMxoI8L.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useFolderAccess-Vw0fpa0k.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/folderUtils-F3RG-axD.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/route-shared-leaves-CS9PuzvT.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ui-alert-CTKeJz5h.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-base-ui-chrome-D6zJntFf.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/login-shared-leaves-Qoa2e9oo.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ui-password-input-KE4C5UH7.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ui-split-button-D3suaVST.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/FlushSurfaceMarker-B-VMEkTQ.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/OutOfCloudCreditsX-BxvEWO4k.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/dashboard-shared-CvfAbWUF.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/marketing-landing-app-shared-OyoXS13R.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ui-shared-leaves-B3cHMy_F.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-hook-form-BLQXKauk.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/settings-shared-leaves-BKu6VdiJ.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-base-ui-lazy-BsT_qRdJ.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/-dashboard-runtime-tKq-5h-U.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DashboardConnectorsDialogHost-9VfQbEdi.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/documentTitle-BiuU-RZn.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useLatchTruthy-C1hEYCFK.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/meteredTermsDialogStore-BcaM7s8Y.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/auth-shared-leaves-BNvra50z.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/NoWorkspaceDialog-BlFRQtoI.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useHasWorkEmail-B0Fp-N_x.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/email-BFu2NnHr.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/isPublicEmailDomain-DKXOM7ri.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useCanCreateWorkspace-Dh8je5Ua.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useDeclineWorkspaceInvite-6cb4K0uq.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useAcceptWorkspaceInvite-3Z1aUHf1.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/dashboard-icons-3gU_0vY4.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/BillingConfirmation-BOMSvnAQ.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/create-form-shared-kB2p5Lc3.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/hook-typewriter-DWU4leik.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/create-form--createForm-p501QEn2.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ui-icon-gift-D11PIaiz.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ui-icon-sidebar-CPVu8DxD.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/createForm-C9YWy1wl.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/WorkspaceClaimX-KpKxw05T.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/workspaceClaimNoticeQueries-DS7Wjw-K.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/workspace_claims_pb-DfrAsd__.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/decodeConnectErrorBody-CraHJA0H.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/campaignEligibilityQuery-BDO2clmK.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/viewerRegistrarDomainVerificationX-CpNb68Wg.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/announcementXVisibility-BC5g5dec.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useLongPress-BjordIKv.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useStaleKeyboardPanReset-D7EvthM_.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/sidebarRailRef-2rtfzGdN.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/projectRowIdAttribute-D4iirf_r.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/security2FAXVisibility-C5Gtu8SN.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/types-Bo-Q1Dki.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useFolderCollaborators-BzkyjZmW.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useProjectFolderId-BYqO7y_b.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useFolderAccessDiff-Cqw5oD8C.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/folderColors-bQjhFwjH.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/projectDndContext-BM1hrxUK.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useXSidebarToggled-CuemuMvA.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/sidebarVariantContext-CY7kSDTd.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/sidebar_pb-CEV3u-C5.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/modifiers.esm-BUIHC6WN.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/core.esm-5kcN1pNw.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/resizable-accent-gxyEJ8cC.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/registry-DKmiXld1.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/dashboard--projectDnd-BiB6bYIR.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/_dashboard-shell-Ca1Wc4kR.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CameraPlainVariable-c48bd243-BhPypTEq.woff2",
+   "s": 200,
+   "mime": "font/woff2",
+   "type": "Font",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/sentry-client-C0gZ4LoB.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-sentry-DMYBbyUZ.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/diagnosticsTracing-D4c7Ex7Y.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/favicon-status/inset/dark/production-idle-32.png",
+   "s": 200,
+   "mime": "image/png",
+   "type": "Other",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "POST",
+   "u": "https://identitytoolkit.googleapis.com/v1/accounts:lookup?key=AIzaSyBQNjlw9Vp4tP4VVeANzyPJnqbG2wLbYPw",
+   "s": 200,
+   "mime": "application/json",
+   "type": "Fetch",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "OPTIONS",
+   "u": "https://identitytoolkit.googleapis.com/v1/accounts:lookup?key=AIzaSyBQNjlw9Vp4tP4VVeANzyPJnqbG2wLbYPw",
+   "s": 200,
+   "mime": "text/html",
+   "type": "Other",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/_projectId-SEaVE5yf.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CYcyYN0n.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-DaJr9ndG.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/otaPageChoice-D7c8_jhK.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/force-editor-shell-flag-CVh2PdAp.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ProjectLayoutHintProvider-hzV2NCPh.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/WarmSurfaces-ugU59skp.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/_projectId-DJ27mZnP.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "POST",
+   "u": "https://lovable.dev/_serverFn/211901082757233263d525b0c144b7da530d9bdd94bf14d522a3ef5ada9bc0f8",
+   "s": 200,
+   "mime": "application/json",
+   "type": "Fetch",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "POST",
+   "u": "https://lovable.dev/_serverFn/b4ee4bbc7fb7eba7af269f2b2fc10cc3a1f1fc1d6689f745e42ced907a548bbe",
+   "s": 200,
+   "mime": "application/json",
+   "type": "Fetch",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "POST",
+   "u": "https://lovable.dev/_serverFn/25f21284a8220bc2934b22b8433083c63294396e142d39639493b429ead3ff15",
+   "s": 200,
+   "mime": "application/json",
+   "type": "Fetch",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "POST",
+   "u": "https://lovable.dev/_serverFn/a5fe56af54adec2156a2adbce88f7bb02d19d7f4e544dd41ecaa7e23bb036c64",
+   "s": 200,
+   "mime": "application/json",
+   "type": "Fetch",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "POST",
+   "u": "https://lovable.dev/_serverFn/01bab9e87678d1f984391b66e720a9e6e961d3ae1ee0c09e1c3d335adf66b086",
+   "s": 200,
+   "mime": "application/json",
+   "type": "Fetch",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/VoiceSoundCuesHost-D4D4Ni-m.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/VoiceSoundCuesHost-C_cNfSXj.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/app-lazy-shared-CkH6zJaQ.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/x-PPvLPvQ6.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/builderChrome-BoSIg4vh.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/draftDialog-Crhhe5Ow.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/editor-BkGJToHk.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/mentionDropdown-O0E_o9Oo.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/previewInteractionToolbar-DBiNMcX1.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/publish-C5q0LSQy.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/security-CRHHiXRP.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/seoReview-D5c3zfNj.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/settings-CqH4zhu8.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/_misc-Cg4vvHdL.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/dashboard-boot-shared-CdNdRY97.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/creditLimitReached-DVsx6ECS.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/dashboard-uEHDKXsM.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/editorNav-UVYshguj.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/filesBrowse-D-hobMYP.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/projectFilters-Bjm-56Yg.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/projectMenu-DCofL8nk.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/share-CL0NvY0-.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/workspaceChat-C5Ra_1qg.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/files--filesBrowse-CUygyaWZ.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/files--filesCollections-BkoMEHxU.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/files--filesView-CIrsjSdG.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/dashboard-boot-shared-Boe2Kd3I.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/dashboard-boot-icons-BPG2tL5b.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-radix-lazy-BcZ7vF7y.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-tslib-CeDFfI6J.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/x--xChangesetCard-_QzcCZl6.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/x--xChangesetField-BUS1D3hb.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/x--xChangesetOutcome-CfRUwO4m.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/x--xSetupCard-BuSuj1dX.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/x--googleXCreateCard-CqTcqGro.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/drafts--draftDialog-B6xhcv6C.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/drafts--editorNav-qVh8KCBR.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/marketing-landing-app-shared-DGTwz3I5.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/app-lazy-shared-DBNxXqt-.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/voiceSessionStore-BJywFWl7.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--workspaceChatVoice-W2RP377m.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CSonPksN.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useWorkspaceChatTitle-BzjgnvMu.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-Bxter4QN.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/VoiceOrb-BwAGluUb.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/voiceSessionTypes-DPeRzpta.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/voiceSoundCues-Bhn9vNdp.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/pendingChatAction-Ckz4Z8uj.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/app-shared-editor-DUBYMzWH.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/app-lazy-surfaces-B2E1g14-.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/tools-h_1PHf69.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/usePendingCheckIn-rXnketx2.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-C-ohLrDh.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/HashPromptProcessor-Bt5XgMKw.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ActiveWorkspaceOfferEngine-H3qHf3Zb.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useResurrectionGift-H110tBZ0.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useCampaignSeen-Dd9gY5Cx.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/visit-BDvmaKBc.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ChangeNoticeEngine-D4iOg3HP.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/metrics-Du0--bTN.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/app-D3RR9Ao3.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/emailVerified-DDJeRAxN.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/esm-u3JdbO5w.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd",
+   "s": 200,
+   "mime": "application/json",
+   "type": "Fetch",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/AppMessagingHost-Bs9fAkrN.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/marketingAgentProjectsDialogStore-BLmDSnDC.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/appMessagingStore-CWVElgMS.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-DXUjevcS.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useMessageVisibility-OPsb0Lck.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/messageTypes-MDxhuvbJ.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/openAnnouncementDialogStore-ClrU4LEj.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/Coachmark-CXA0jTuJ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useOneTimeCoachmark-BzLzzHPM.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/collectWebVitals-D7TAoj1I.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/favicon-status/corner/dark/production-working-16.png",
+   "type": "Image"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/favicon-status/corner/dark/production-attention-16.png",
+   "type": "Image"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/favicon-status/corner/dark/production-done-16.png",
+   "type": "Image"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ConsentUI-B0Qi6SnF.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/consentX-DN3hmGWA.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/consentPreferences-Bk94XMb0.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ConsentPreferencesForm--aawq5D5.js",
+   "type": "Script"
+  },
+  {
+   "m": "POST",
+   "u": "https://lovable.dev/_serverFn/c0d2b93bf60ac5cc52e4e4721e74c8a4253b5fce1b3ad2d1a9f0d4ed39af9128",
+   "s": 200,
+   "mime": "application/json",
+   "type": "Fetch",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lh3.googleusercontent.com/a/ACg8ocLGYLqtXL8gntvHNNVp9ywMGHVofMXWZcw5YvHKdd70hEJ48gE=s24-c",
+   "type": "Image"
+  },
+  {
+   "m": "POST",
+   "u": "https://api.lovable.dev/lovable.freebuildhour.v1.FreeBuildHourService/GetStatus",
+   "type": "Fetch"
+  },
+  {
+   "m": "GET",
+   "u": "https://api.lovable.dev/user/workspaces",
+   "type": "Fetch"
+  },
+  {
+   "m": "GET",
+   "u": "https://api.lovable.dev/projects/053a133e-76d8-4c7c-b418-2ab5f486a673/workspace",
+   "type": "Fetch"
+  },
+  {
+   "m": "OPTIONS",
+   "u": "https://api.lovable.dev/lovable.freebuildhour.v1.FreeBuildHourService/GetStatus",
+   "s": 200,
+   "mime": "",
+   "type": "Other",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "OPTIONS",
+   "u": "https://api.lovable.dev/user/workspaces",
+   "s": 200,
+   "mime": "",
+   "type": "Other",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "OPTIONS",
+   "u": "https://api.lovable.dev/projects/053a133e-76d8-4c7c-b418-2ab5f486a673/workspace",
+   "s": 200,
+   "mime": "",
+   "type": "Other",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://api.lovable.dev/workspaces/6d86bb7d60c07b233945/enterprise-self-serve-offer",
+   "type": "Fetch"
+  },
+  {
+   "m": "OPTIONS",
+   "u": "https://api.lovable.dev/workspaces/6d86bb7d60c07b233945/enterprise-self-serve-offer",
+   "s": 200,
+   "mime": "",
+   "type": "Other",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "POST",
+   "u": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+   "s": 200,
+   "mime": "application/json",
+   "type": "Fetch",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "POST",
+   "u": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+   "s": 200,
+   "mime": "application/json",
+   "type": "Fetch",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DesktopSidebar-BrMMDin8.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/dashboardSidebar-B9qVnNio.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--workspaceChat-h5SXz7LH.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/editor--editorNav-0aJ86W24.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/dashboard--dashboardSidebar-CnkjvQgG.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/dashboard--dashboard-CLjQkJ4V.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/dashboard--projectsTabs-DGOpv5pr.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/dashboard--sidebarLaunchCard-CLziCXoB.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/settings--settingsSidebar-CZf-Zwd9.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/InboxIcon-S5S_xu58.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/lovableOnLovablePullRequestQueries-Wv_RYUWn.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useInfiniteListSentinel-BdCAExBr.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/workspaceChatPresentation-BBKg53eN.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/chatIcon-DWgIXGH0.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ChatIcon-BdMCGMqf.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useProjectAgentActivity-Cmx_qu65.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/chatRowAgentActivity-Dtxx8fog.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/leadingEmoji-Df-dxZfU.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/WorkspaceChatActions-DDLf0f6o.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--chatIcon-CtjUWpVe.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/asyncWorkRuns-ySlXcjU0.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--asyncWork-D948geIF.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/AsyncWorkProvider-C62JFisN.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useStopAsyncWorkRun-jRZLjH6l.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/chat_panel_pb-Bcl_UaAo.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CreditsIndicator-Dwiu5ANo.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/NewCreditsProgress-DJcHc_bX.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/creditsProgressHelpers-fBo86gdH.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/WorkspaceCreditsRow-DQe246hH.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CreditsLeftLine-DRiD94BT.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/MobileMenuSheet-Ci5l0YyI.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/backNavigation-DCfKj0Z6.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useCopyLinkWithToast-E6WUbiXs.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/renameShortcut-BwB9cNch.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/workspaceChatListHooks-BI0tExlH.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useRemovedRecentChats-CX5ateqf.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/hiddenChatsFlag-WlUghwpZ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useWorkspaceChatMutations-ChdK2ORF.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/EmojiPanel-TZxPqIIA.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/WorkspaceChatActivityIndicator-A3SBTh-d.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/WorkspaceChatListMenus-DFTR3JLA.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DelegatedContextMenu-DpJ5GDwR.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CofounderAvatar-BSm3vtBb.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CofounderAvatar-8-ggXmoa.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/preventMultiClickSelection-Di_jkhLc.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/notifications-kLrlrhIB.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/growth_pb-DiWaGuJ9.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useUnreadNotificationCount-DkzxgbQB.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/agentIntegrationsLaunch-gnGGgZsh.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/InboxCountBadge-DHIGtIL_.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/newChatLink-D5LpElHG.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useProjectClickHandlers-DKe1TaLS.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/HalloweenGameButton-BlXSGSK7.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useHalloweenGameX-DR1Q70UV.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useHalloweenGameX-Cl316Cyk.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useWelcomeBackChecklistAutoOpen-uOc9fGWW.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/WelcomeBackTourHost-ZYi0ByWI.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/getFirstName-DLIALqyw.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CollapsibleSidebarSection-k99oFIsk.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/WorkspaceSelector-BD8dYnRT.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSearchWorkspaceMembers-DN6OctMC.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useXSidebarItemClick-Cvdn8nIg.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSelectWorkspace-DJd2aCdw.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/_components-B1TtDIMD.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/glassNav-DtNMd4Gz.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/paywall-BTmwdraP.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/credits_pb-CrQq9oTE.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/sortable.esm-wz-rxCA-.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/WorkspaceAvatarUpload-cL7iYZoT.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useCanInviteWorkspaceMembers-CZkRaBht.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useUserOrgs-B2dDNv77.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/SidebarContributionsProvider-DY-PEXlS.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/sidebarProjectStatus-D_UTfUxK.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/lovableOnLovablePullRequests-Chprg9H7.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/SidebarProjectMenuRoots-DOZWRLpY.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSafeAreaCollisionPadding-k2St4I3t.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/SidebarPreviewCardContent-D-8hS70P.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/BaseSidebarProjectItem-C9mMfJ9h.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useProjectPermissionsPreload-DgGMA-VP.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DraggableProject-BCRQJ2wa.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useStrictDoubleClick-BjPBqkoK.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/cofounderStatus-DANeSM_J.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/cofounder--cofounder-DlqaKABr.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useGoogleAccountSwitch-D_KzQK_Q.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/googleAccountSwitch-m_ZMcPLG.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/warmXRedirectResolver-BGfl0Ot_.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useCofounderNavEntry-B1J2BOne.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/cofounderSettings-Bt8W16u3.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/anomalyFindingKeys-CMBiGyrB.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/policyQueries-C69rhulO.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useLibraryCollection-DXpZkgH0.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/library--onlyChatsLibrary-C2O7IzXS.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/fileChatPrompt-CjVsyz0d.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/libraryLocation-CsyvizvC.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/libraryReturn-HIuqAAOM.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CreateProjectButton-D7nmPyMc.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ContrastIcon-GACOYXxs.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CurrentUserAvatar-8QCkBEKx.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useInboxData--HYZ16e-.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/rewards_ui_pb-DrgvGi94.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useCanUseRewards-BjblVvcx.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/rewards--rewards-B6KK6nw_.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/InboxPopover-DhXNQksZ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useReferralEntryVisible-BtNrXhMn.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/referral-flower-BhfuR142.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DesktopSidebarContributions-BMa-VUxR.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/sidebarContributions-RC1F-QE6.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ProjectEditorClientBody-Cs5kveYX.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chatInput-C_kvJa_w.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--chatNudge-BwJtleY8.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--summaryView-DJg9W1mu.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-BetQVkQS.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/chart-legend-DieF7OSO.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaf-icons-DixoBCJh.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CMNJkNBW.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-BlnfvDrm.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--chat-CGHVi3Qq.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--editor-Bgoj9MgW.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--inviteTeam-CylFK0_m.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/editor--projectAbandonedX-D0Wto5hm.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/editor--publicIdAccessRequired-Ch83D66w.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/editor--visualEdits-CmKQlgbs.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaf-icons-Co1fVftE.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/status-checklist-J92uLNAF.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaf-icons-Dkuvhg2e.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/resizable-BTocqjhr.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/marketing-landing-app-shared-DPuPil0a.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/marketing-landing-app-shared-5-Cvc8Uj.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/marketing-landing-app-shared-DPLJ0cRh.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/brand-dialog-DV45xCyg.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/pam-request-command-palette-CaEhiEte.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useDismissTip-C0BUBLyr.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/files--filesImageEdit-DcNTJbyb.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useAgentBrowser-CuHhBD6_.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CNvx7_5G.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ArtifactPanelChrome-Dp0p702R.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-EviJ0Yxf.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--activityView-DMxQCXw1.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaf-icons-DO_WqQtc.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/marketing-landing-app-shared-BPWzZE7K.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/marketing-landing-app-shared-BwhfRtxJ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaf-icons-nvRXatP7.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaf-icons-ra309v2q.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-lgpgSG9Z.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/mockupComponentPath-CdZ6sleP.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-DggbLQGe.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-BGcVz9gY.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/tip-animations--editor-DtoZRlOC.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CsgyRM58.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaf-icons-DnLpDg99.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CTPFOmW-.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useLatestProjectSurface-U_Mv_bhT.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useIsAgentBusy-DenHHmbl.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useIsMergedDraftThread-C_djjb_-.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/RestoreVersionPopoverConfirmation-BkDZk8k7.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSnapshotPreviewTarget-DSLbt6ft.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-Betwv3pS.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/lolMobilePreviewStore-Bm4Ny5Lz.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-DtMdp2SW.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-rOPFpck9.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/PopoverSubpageHeader-Bwnl-6L_.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useMatchingNativeDeviceTarget-BOd-dFXR.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useOpenDevicePreviewSession-BhERU0zM.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/devClientState-Dazmdeqt.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-JoTFJsPH.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/morePresentation-qe3Z0f1F.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CsrQJB3s.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSaveCodeEditorAndSync-DdL5X5hj.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useQuickEdit-DrPq7sDU.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/visual-edit-x-1j5igjpg.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-DxUh3oCO.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DevicePresetPopover-C76qhDEY.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useExpoDeviceFrame-DKj46tdY.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useViewArtifactsForCurrentProject-DBbCXVI-.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/preview--editor-CJ9UcExU.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/icons-B5eC73u5.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-BZKBxvzb.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/subviews-BifOXyuR.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useXReview-COpwbMeh.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useIsIntegrationsSubviewEnabled-BcEtNEG9.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ViewContextPill-oCCpkIjM.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-qZlsp-8k.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSecurityNavigationAccess-CZhbaFac.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-DZ8WoiI-.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-Crtyt19K.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ToolViewSwitcherBar-BVnsRSyf.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/PlanVersionNav-De80MgBU.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useQueueDocReviewComment-CWqgmqE-.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-Cxji3xe5.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/plan--planRevisionDiff-CDCyytAh.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/usePlanVersions-BjGx-uul.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/usePlanShowFileContent-D2B9Ull7.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/fetchProjectFileSeam-CuEBa8bo.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useCommitHashAtToolCall-BK49Cide.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/security--security-CZZKV4Jp.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-DE7iK1zW.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/annotations--annotations-5naxfJDP.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-DoZO8VdQ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/AnnotationProvider-nLDyv5fP.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/RichCommentContent-CG40x262.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-editor-VjijQguA.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/vendor-editor-core-yRANuKn8.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/UserMention-ppfD6vfn.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CoCSOKkr.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-D_K9HEXw.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--interjections-D4GmUp1Y.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaf-icons-aadRCCZ8.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/drafts--draftsGuide-IxS7jdvs.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useDraftActionGates-DryTY16P.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useDraftOperations-gumpgR89.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-O8KhFy2U.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-W4wv1ZRv.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DraftSyncDialog-BbbymmfC.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chatHistory-D9ZfAIRX.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useAutoPagedThreadHistory-UHN64-Rd.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DraftDialogSection-CCnWcjJi.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useCurrentDraft-CXAhLlO6.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-DczvaaWu.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/getMessageUIState-Da0nK3Iy.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/visualExplanationResult-BE06TH6S.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/buildErrors-ByZBTESA.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/hasApprovedInlineCard-B0t5lTZg.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useAddAnnotationToChat-SeNVHuec.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/imageInputCompressionJobs-skUAQlHr.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useOpenHistory-BJvLei6o.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CncecyBa.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-BF5tKdFD.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--addToQueueButton-DpV5AbAL.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-Bd8qsNG6.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-Di1UjImx.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/githubAppActions-DD-VhQtD.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/usePendingUserAction-5ICbmq5O.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/messageFeedbackProvider-BGrGj4FS.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/messageFeedbackDialog-CbYGLVSA.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ChatFileAttachmentsProvider-DkoP_ghK.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/figImport-lRZQoX5J.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/clipboardImage-C1wS8eB2.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useCatalogDocumentPage-Dq3CGEvV.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/library--loveLibrary-BJrQ-Vsm.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/voiceCallMotion-B_5adNzr.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/StopChatButtonBase-Db23Xxcb.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/panelStoreContext-CSmG-7bp.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/voiceTimeline-CqTjJXDb.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/turnBoundary-BBDRlwJh.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-8aL9EGa8.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--pastedText-DJ78icfF.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-DAn2cyhP.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/builderDelegation-DR_C0Vka.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/inlineTools-CAdYmscs.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-C838gu7n.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-C599GPKr.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/tipsPreference-D0h_Ie0B.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CQk4wqhY.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/PreviewStateX-CQmfLtdS.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/shared-BwZPLctm.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/BuildJobLogViewer-fyCukLub.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/deviceBuildReadout-D7_efU5a.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/preview--builderChrome-CWQrL4FW.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useDeviceSessionReconcile-CJ06SsIf.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useStopDevicePreviewSession-DzOKNfuJ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/RuntimeErrorToast-B3ukOy4S.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/fixableError-D58Pdj-K.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/freeFixEligibility-CY4ZwOuF.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useIsCurrentThreadSending-h0QOZ9s-.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useAIFixMutation-BO7XoIM0.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useLiveDeviceBuildProgress-CxPg10dl.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useWorkspaceComposerPlusMenuRows-De5KuBPH.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useComposerSketch-vuw4KKOq.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/SketchDialogFrame-BuX8bKuu.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/workspaceChatModelSubMenu-BpPS6Wu1.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/connected-computer--connectedComputer-B8XYQEJ4.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/computerSetup-CIO_Fbas.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useComputerChange-Di5Htzoj.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSandboxEditorSession-CaXh385Q.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/SidebarPeekLogo-B-8sVKdf.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CbmuQY_4.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/gitRecoveryDialog-APeuFg1n.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSupabaseConnection-BJ156_v_.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ProjectSupabaseConnectDialog-BMHcraQE.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/row-EfQLP6P5.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSupabaseOrganizations-Duu8uznH.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/SharedInstanceWarning-D3t1l0xJ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/supabaseSharedInstanceWarning-CvHW868a.js",
+   "s": 200,
+   "mime": "text/javascript",
+   "type": "Script",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/SupabaseLogo-CsAE5-V4.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/connectors--connectorsSeamlessCta-DdaYcilN.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/util-vcRLNPwE.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ProjectStatus-DsUBNwkY.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/sendChatMessageMutation-BO1Mi-j4.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useChatRateLimitStatus-DW3xupV4.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/agentFinalizingRetry-DUYJNemX.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-BLZq4EIM.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSupabaseProjectStatus-BjpPczvO.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ComposerVoiceButton-DVA0W4Hq.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useComposerVoice-fkDLWdqK.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useProjectInvite-C0PUvCsM.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/share--share-D3iStTbP.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/SecurityProvider-CUbp6e0t.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-B1278NjM.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/checkIn-BQouhZxQ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/projectRename-inZAYlzD.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/editor--gitSyncFallbackNotice-ymLcUvOe.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/editor--previewInteractionToolbar-DUG60J2K.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-Cu6KBXX4.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useIsStreamStale-DkUWxmdi.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useIframeMessages-BpWGnmqc.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-Cw0iCn1A.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/FilterComboboxItem-D93RpiAQ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-By2IMjve.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/tablet-smartphone-DRMyTqJk.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/createLucideIcon-Kpt0u7gu.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DeviceFrame-BUnwE81_.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-DqkuYAmx.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-D8QTNBsF.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/deviceFrameShellStyles-B4dsAsuW.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/SimulatorUpdateBadge-D0yz0GBE.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DeviceFrameShell-Dy3e-5_7.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-DnuKvMIq.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-DYfiw-TJ.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaf-icons-TbS4QBee.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/canvas--canvasToolbar-BHEUu36O.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DismissAPIKeyDialog-qcTu-F24.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/usePublishTriggerState-DOmdK86U.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/utils-BPWhfZl2.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/SelectedElementPill-BwNLeZKC.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/composerPullRequest-BaMfNY5t.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useLinkedPullRequest-DzvEgkqL.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-8atO1L2i.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DraftStatusGlyph-DTcqRXnm.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DraftStatusIcon-qzRXiFTf.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/collaboration_ui_pb-6cFSTxlj.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useChatSendButtonState-DEdQng8z.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useChatModeBlockedByRun-Buy7DtZe.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/square-CnioVPhU.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DraftOwnershipTabs-C6N2EO1u.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DraftFarewellParts-ZV7JEh1O.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useDraftArrivals-MrGD0_t_.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/SwitcherRow-BGv1EwPU.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/draftListLayout-BiUvokte.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useRenameDraft-CbJ8KSnZ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useDocReviewCommentHighlights-Bxcf9FJP.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-DsLPBjLZ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-O2iGytWW.css",
+   "s": 200,
+   "mime": "text/css",
+   "type": "Stylesheet",
+   "ip": "127.0.0.1",
+   "proto": "h2"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/docReviewCommentHighlight-Had9If-Q.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/GitRecoveryNotice-CajGJCXH.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/gitRecoveryNotice-BYVO7Nnn.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/TrailingActionButton-CNORfSbs.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-D0L_Gaxf.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useDraftUnavailableReason-29oxrbAM.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useOrderedDrafts-Ddxnrj42.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DraftRowActionMenu-BDj6IeNI.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/mainRowGlyph-RqORaj2r.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DeploymentStatusProvider-B7cLm-A5.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useHasActiveDeployment-BL_rNBg-.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-BLhVNUSh.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/RunOnDeviceSimulationScope-dzluaHov.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useDeviceInstallPlatforms-Cy-JY91S.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-DoiPrwaX.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/previewAssetUrl-GM7L9kAS.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/preview--routePreview-BlpUhWMn.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/SeoPreviewCard-CteGKqde.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/lovableOnLovablePublish-Ch7Dl_On.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSharePanelX-CUkEClQm.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/AndroidRobotLogo-BvPfkM6t.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-BvBGR7_1.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/filesUiX-CkoqGjUO.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/MissingPermissionsDialog-Cje42NAo.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/BrandedAuthDialog-C1XZniev.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/access-request-BCoLUmoP.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useAccessRequest-BTIZ733S.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useInviteWorkspaceMember-C_gUTQDO.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ShopifyClaimSuccessDialogGate-CGnV9qHz.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useShopifyIntegrationData-uaXl9gy8.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useReconnectHandler-Ch0nLYQn.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/gitlabReconnect-CgKGGvBe.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/gitSyncProgressStoreContext-FVEZLw2I.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useGitSync-CDrC8EBf.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/AddContextMenu-BvKF87or.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useWorkspaceChatMentionItems-BYNQDn7h.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useVoiceTimeline-D9pX3hBK.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/EuFixApprovalQueryParamHandler-GWwsRC8K.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/editor--euFixApproval-D-GH-NGy.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/settings--tiering-DF_7_W1U.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useWorkspaceChatSendMutation-yj7WbefM.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-rFqism-Q.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/TierExplanation-D74oforI.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ProjectNameSwitcherTrigger-S_U6zTiQ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/LovableOnLovablePill-COXN3aVh.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/projectCard-5OpA8b-t.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/glow-model-DjWK8naG.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CurrentDraftBadge-B0MtiSVj.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-CZDQpVRD.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chatNudge-BmnFLQkt.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/draftAcceptQueue-V66I4z9D.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--chatInputActionMenu-Ba7U2M1h.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--piiWarning-DDl8YE21.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--roadmapPanel-D6WIqD-r.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/outcome-dialog-BnE1d70o.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/unstable-gradient-icon-badge-LDYM4LEg.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ChatActionButton-DL6wiO8K.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CS0z88uW.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/chatItemRendering-CcZdAZqF.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--builderChrome-DVzoIfWL.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/MessagePromptButton-CP92zSmq.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-Do1bkxWH.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/scheduledTaskRunLifecycle-xVnXwU75.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CnYPSyhI.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/MermaidCard-CAhWOe4z.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/workspaceChatToolRegistry-CJU-4Q-p.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/asyncQuestionState-B_YJNaCC.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/connectorPillNavigationSources-D4v6aVUl.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useDesignAssets-BbSJNLk_.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/sentMessageHistory-B7ar9KNt.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-body-shared-D3MBANxz.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/presentationToolCall-QTrc71-k.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/MessageQueueList-BO3csyqR.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--imageEditChip-CBkpVlSb.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--userMessage-BmrtxoNM.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/messagePreview-BTWH06wf.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ImageEditRequestChip-DvB2bo20.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/queuedIntentLabel-mW9p5X4Y.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--intentBadge-C0kgN8UD.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/UserMessage-CR6aVa7L.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CheckInCard-dkEWW-jw.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ApprovalCardSwitch-B5BSom2L.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/FeatureSuggestionsRow-QCoCT7kl.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useAvailableFeatureSuggestions-zDc3ZHfD.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ChatTopUpRow-DI-zp6gl.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useAutoTopup-C-jqS9fe.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useBuildCreditConfig-DjsgfYjG.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useHasUsedChatMode-D9hyAcpS.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/AnchoredCoachmark-CZf5uuAL.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/inputActionMenu-COrAqDY5.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/es-CpGQ2qhN.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/FigmaIcon-BVRzCBq1.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useGatedCustomDomainCta-Dr0ZxdCA.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSecurityFinding-BqMcUjki.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/securityScanPresets-Ve-oMmI0.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useIsProjectPublishVisibilityPrivate-DmACyV34.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSeoReview-Ct62B4-n.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/MigrateToTanStackConfirmDialog-DysxnDx6.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/responsive-action-menu-BWlmQxvw.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/GitHubLogo-DCwbwJYG.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-DM4_FXO8.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/support--contactSupportDialog-BJTKKzjk.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/PublishedBadge-Qx9cPeYT.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/chat--chatHistory-Du19ecZr.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ProjectResultBar-C43ZUqPo.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ProjectResultDeck-DlG4ND3s.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/pendingQuestionsSlot-B8TP-fcE.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useLiveRun-wr-bcuIK.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/getWorkspaceInlineMessageUIState-BhZwERTy.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ChatInputMediaRow-Cd3H6AzM.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/PastedTextCard-dGkrsL52.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/design-asset-bundle-card-wdkJFSfV.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSignedFileUrls-BE51BHeg.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/usePastedTextArtifacts-ThjtIwLx.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/slashCommandArmedContext-vso1_Anq.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ComposerLiveActivity-BSto4uuX.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useSubAgentEffectiveStatus-hOaqpl0A.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/builderThreadActivity-DT3xwLBR.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/WorkspaceChatActivityX-D8AViuAi.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ProjectTrajectoryStreamProvider-DHjCyQfU.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ModelOverridePill-B-uxMOf_.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ComposerPillReveal-DlPURuTf.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DocReviewContextPills-C5gmC3DI.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ChatNudgeSlot-CmhebtmS.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DownloadCodebaseSection-I0AxToWB.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/DownloadZip-CNv-JK6O.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ProjectProvider-65fRmRpv.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ChatRenderProviders-lxJuXUUs.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CollectionResourceCard-DUi_DJ2O.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ProjectCollectionCardPreview-CACvvdCZ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/FileThumbnail-DWisbzKC.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CollectionProviderBadges-OOaPUqU-.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/files--collectionIntegrations-BAMT-jKe.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/CollectionMentionPill-l4HiHxCJ.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/registry-3cbS7kxn.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/x--xAssetUpload-VS5XGwNa.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/x--googleXTool-DonKklDl.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/x--metaXTool-CZZURxLF.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/goalCategories-BlxLUcds.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/x--googleXGoalCategory-COn3q-M7.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/searchResultData-2QsButPR.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/setupResultData-C7XNhlYq.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/x--googleXSetupCard-CqtZj87Z.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/uploadAssetData-DWUeTrJc.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/setupResultData-D53kuBzs.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/cronstrue-zv2LRul5.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/i18n-fn/tools--tools-BnnwJsdG.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/creditTopupOutcome-DrmnI6tg.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/legacyCallConnection-DJudzoxp.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-BxlBzr4f.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/mediaJobCommand-BvBoD57N.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/editor-leaves-CEDjnnZD2.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/webSearchResults--xFz1s3-.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useComposerFocusDecorations-BhwUNusD.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ChangeThumbnail-B2ciqivi.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/admin-command-project-data-sync-9wKFwPLd.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/ChatInputTiptap-BNKpz6il.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useIsLovableAIEnabledForWorkspace-CO_LHdf4.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/WorkspaceFileMention-M1NQ_g1c.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/useMentionSuggestion-Cv_KryL-.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/embedFilename-D22W2Pmz.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/securityFindingMention-Dpzme3d2.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://lovable.dev/assets/yieldsFocusToComposer-EPlolPrf.js",
+   "type": "Script"
+  },
+  {
+   "m": "GET",
+   "u": "https://rs.lovable.dev/sourceConfig?p=npm&v=3.34.3&build=modern&writeKey=30uiF44drV1UnRmUEUVhfQ2L500&lockIntegrationsVersion=true&lockPluginsVersion=true",
+   "type": "XHR"
+  }
+ ],
+ "sse": [],
+ "ws": [],
+ "console": [
+  {
+   "type": "info",
+   "args": [
+    "[perf] mark editor:nav-start @ 3107.3ms"
+   ]
+  },
+  {
+   "type": "log",
+   "args": [
+    "Initializing RudderStack Analytics"
+   ]
+  },
+  {
+   "type": "info",
+   "args": [
+    "[perf] mark editor:loader-flags-settled @ 3693.6ms"
+   ]
+  },
+  {
+   "type": "info",
+   "args": [
+    "[perf] mark editor:loader-shell-settled @ 3693.9ms"
+   ]
+  },
+  {
+   "type": "info",
+   "args": [
+    "[perf] mark editor:workspace-body-first @ 4593.4ms"
+   ]
+  },
+  {
+   "type": "info",
+   "args": [
+    "[perf] measure editor:workspace:nav-to-body-first: 1486.2ms"
+   ]
+  },
+  {
+   "type": "info",
+   "args": [
+    "[perf] mark editor:workspace-membership-first @ 4594.3ms"
+   ]
+  },
+  {
+   "type": "info",
+   "args": [
+    "[perf] measure editor:workspace:nav-to-membership-first: 1487.2ms"
+   ]
+  },
+  {
+   "type": "info",
+   "args": [
+    "[perf] mark editor:shell-rendered @ 6717.0ms"
+   ]
+  },
+  {
+   "type": "info",
+   "args": [
+    "[perf] measure editor:trunk:to-shell-rendered: 3609.7ms"
+   ]
+  }
+ ],
+ "errors": []
+}

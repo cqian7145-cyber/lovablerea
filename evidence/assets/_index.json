@@ -1,0 +1,102 @@
+{
+  "results": [
+    {
+      "url": "https://lovable.dev/assets/index-DaWAvAnJ.js",
+      "status": 200,
+      "bytes": 377,
+      "file": "index-DaWAvAnJ.js"
+    },
+    {
+      "url": "https://lovable.dev/assets/app-boot-6sD_1shz.js",
+      "status": 200,
+      "bytes": 438081,
+      "file": "app-boot-6sD_1shz.js"
+    },
+    {
+      "url": "https://lovable.dev/assets/create-form-rhIDTxAb.js",
+      "status": 200,
+      "bytes": 423,
+      "file": "create-form-rhIDTxAb.js"
+    },
+    {
+      "url": "https://lovable.dev/assets/dashboard-boot-shared-C3xkdAOt.js",
+      "status": 200,
+      "bytes": 245560,
+      "file": "dashboard-boot-shared-C3xkdAOt.js"
+    },
+    {
+      "url": "https://lovable.dev/assets/app-shared-Db1aCW-1.js",
+      "status": 200,
+      "bytes": 1449777,
+      "file": "app-shared-Db1aCW-1.js"
+    },
+    {
+      "url": "https://lovable.dev/assets/app-lazy-surfaces-D99rc_9P.js",
+      "status": 200,
+      "bytes": 131704,
+      "file": "app-lazy-surfaces-D99rc_9P.js"
+    },
+    {
+      "url": "https://lovable.dev/assets/editor-leaves-DEp7jeUv.js",
+      "status": 200,
+      "bytes": 18440,
+      "file": "editor-leaves-DEp7jeUv.js"
+    },
+    {
+      "url": "https://lovable.dev/assets/vendor-protobuf-BvDTVJFg.js",
+      "status": 200,
+      "bytes": 90391,
+      "file": "vendor-protobuf-BvDTVJFg.js"
+    }
+  ],
+  "mapProbe": [
+    {
+      "mapUrl": "https://lovable.dev/assets/index-DaWAvAnJ.js.map",
+      "status": 404,
+      "len": 9,
+      "head": "Not Found"
+    },
+    {
+      "mapUrl": "https://lovable.dev/assets/app-boot-6sD_1shz.js.map",
+      "status": 404,
+      "len": 9,
+      "head": "Not Found"
+    },
+    {
+      "mapUrl": "https://lovable.dev/assets/create-form-rhIDTxAb.js.map",
+      "status": 404,
+      "len": 9,
+      "head": "Not Found"
+    },
+    {
+      "mapUrl": "https://lovable.dev/assets/dashboard-boot-shared-C3xkdAOt.js.map",
+      "status": 404,
+      "len": 9,
+      "head": "Not Found"
+    },
+    {
+      "mapUrl": "https://lovable.dev/assets/app-shared-Db1aCW-1.js.map",
+      "status": 404,
+      "len": 9,
+      "head": "Not Found"
+    },
+    {
+      "mapUrl": "https://lovable.dev/assets/app-lazy-surfaces-D99rc_9P.js.map",
+      "status": 404,
+      "len": 9,
+      "head": "Not Found"
+    },
+    {
+      "mapUrl": "https://lovable.dev/assets/editor-leaves-DEp7jeUv.js.map",
+      "status": 404,
+      "len": 9,
+      "head": "Not Found"
+    },
+    {
+      "mapUrl": "https://lovable.dev/assets/vendor-protobuf-BvDTVJFg.js.map",
+      "status": 404,
+      "len": 9,
+      "head": "Not Found"
+    }
+  ]
+}

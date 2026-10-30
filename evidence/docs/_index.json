@@ -1,0 +1,1612 @@
+[
+  {
+    "title": "Welcome to Lovable",
+    "url": "https://docs.lovable.dev/introduction/welcome.md",
+    "desc": "Lovable is a full-stack AI development platform for building, iterating on, and deploying web applications using natural language, with real code, security, and enterprise governance."
+  },
+  {
+    "title": "Create an account",
+    "url": "https://docs.lovable.dev/introduction/create-an-account.md",
+    "desc": "Create your Lovable account to start building and iterating on full-stack web applications using natural language."
+  },
+  {
+    "title": "Quick start",
+    "url": "https://docs.lovable.dev/introduction/getting-started.md",
+    "desc": "Build and publish your first Lovable app in about ten minutes, from your first prompt to a live URL you can share."
+  },
+  {
+    "title": "Dashboard overview",
+    "url": "https://docs.lovable.dev/introduction/dashboard-overview.md",
+    "desc": "Learn how to navigate the Lovable dashboard, start new projects, and access your workspace settings."
+  },
+  {
+    "title": "Lovable for Enterprise",
+    "url": "https://docs.lovable.dev/introduction/lovable-for-enterprise.md",
+    "desc": "Build and ship AI-generated apps at organizational scale with the security, governance, identity, and compliance controls your security team expects."
+  },
+  {
+    "title": "Lovable desktop app",
+    "url": "https://docs.lovable.dev/integrations/desktop-app.md",
+    "desc": "Use Lovable as a native desktop application. Connect local tools, switch between your chats and projects, and work faster with keyboard shortcuts."
+  },
+  {
+    "title": "Lovable mobile app",
+    "url": "https://docs.lovable.dev/integrations/lovable-mobile-app.md",
+    "desc": "Use the Lovable app for iOS and Android to build projects, chat with Lovable, and review your work from your phone or tablet."
+  },
+  {
+    "title": "Lovable API",
+    "url": "https://docs.lovable.dev/integrations/lovable-api.md",
+    "desc": "Use the Lovable API to deploy Lovable projects, manage your workspace, query security scans, and embed projects in your product."
+  },
+  {
+    "title": "Lovable MCP server",
+    "url": "https://docs.lovable.dev/integrations/lovable-mcp-server.md",
+    "desc": "Connect AI agents and developer tools to Lovable using the Model Context Protocol. Build, iterate, and deploy apps programmatically."
+  },
+  {
+    "title": "Lovable ChatGPT app",
+    "url": "https://docs.lovable.dev/tips-tricks/chatgpt-app.md",
+    "desc": "Turn your ChatGPT brainstorms into full-stack apps by tagging @Lovable directly in your conversations."
+  },
+  {
+    "title": "Chat with Lovable in Slack",
+    "url": "https://docs.lovable.dev/integrations/lovable-for-slack.md",
+    "desc": "Chat with Lovable directly in Slack. Mention @Lovable in a channel or send it a DM to create projects, update your apps, and get answers about them."
+  },
+  {
+    "title": "Chat with Lovable in Telegram",
+    "url": "https://docs.lovable.dev/tips-tricks/lovable-telegram-bot.md",
+    "desc": "Chat with the Lovable bot in Telegram to build and manage your projects. Not for integrating Telegram messaging into your apps."
+  },
+  {
+    "title": "Build with URL",
+    "url": "https://docs.lovable.dev/integrations/build-with-url.md",
+    "desc": "Build and share Lovable apps from simple URLs, with reference images and web pages."
+  },
+  {
+    "title": "Sign in with Lovable",
+    "url": "https://docs.lovable.dev/integrations/sign-in-with-lovable.md",
+    "desc": "Let people sign in to your site with their Lovable account, with a drop-in button or the standard OpenID Connect flow. Available on all plans."
+  },
+  {
+    "title": "Projects in Lovable",
+    "url": "https://docs.lovable.dev/features/projects/overview.md",
+    "desc": "What a project is in Lovable and how to work with one: create, organize, and publish projects, manage roles and ownership, and safely move or delete them."
+  },
+  {
+    "title": "Find your way around the Lovable editor",
+    "url": "https://docs.lovable.dev/features/projects/editor.md",
+    "desc": "A guided map of the Lovable editor: where every tool lives, from the chat panel and live preview to the project toolbar, More menu, and keyboard shortcuts."
+  },
+  {
+    "title": "Work with Lovable in the project chat",
+    "url": "https://docs.lovable.dev/features/projects/chat.md",
+    "desc": "Everything you can do in the project chat panel in the editor. Write or dictate prompts, attach files, send follow-ups to steer Lovable while it works, answer Lovable's questions, undo changes, and fix errors."
+  },
+  {
+    "title": "Preview and test your app in Lovable",
+    "url": "https://docs.lovable.dev/features/projects/preview.md",
+    "desc": "See your app running live while you build. Test phone, tablet, and desktop sizes, try complete flows before you publish, and share progress with a preview link."
+  },
+  {
+    "title": "Explore changes with drafts",
+    "url": "https://docs.lovable.dev/features/drafts.md",
+    "desc": "Create drafts to try changes in a separate copy of your project, compare ideas, and add the ones you like back to your project."
+  },
+  {
+    "title": "View and edit your project's code",
+    "url": "https://docs.lovable.dev/features/code-mode.md",
+    "desc": "Open the code editor in Lovable to browse and search your app's source code, make manual edits, reference exact lines in the project chat, and download your codebase."
+  },
+  {
+    "title": "Revert and restore your project with version history",
+    "url": "https://docs.lovable.dev/features/projects/history.md",
+    "desc": "Lovable saves every change as a version automatically. Preview old versions of your project, revert to an earlier state, and bookmark stable versions."
+  },
+  {
+    "title": "Project settings",
+    "url": "https://docs.lovable.dev/features/projects/settings.md",
+    "desc": "Every Lovable project setting in one reference: rename a project, change its URL, control publishing and sharing, connect Git, manage domains, or delete a project."
+  },
+  {
+    "title": "Delete a project",
+    "url": "https://docs.lovable.dev/features/projects/delete-project.md",
+    "desc": "Delete a project you no longer need, learn what happens to its app and data, and restore it within 60 days if you change your mind."
+  },
+  {
+    "title": "Remix a project",
+    "url": "https://docs.lovable.dev/features/projects/remix.md",
+    "desc": "Remix a Lovable project to create your own independent copy. Learn what carries over to the copy, who can remix your project, and how to move projects between accounts."
+  },
+  {
+    "title": "Import a project from Replit, Bolt, v0, or another tool",
+    "url": "https://docs.lovable.dev/features/projects/import-project.md",
+    "desc": "Bring an app from Replit, Manus, Bolt, Base44, v0, or any ZIP of code into Lovable. Lovable migrates the code and moves your database and users to Lovable's built-in backend."
+  },
+  {
+    "title": "Import a website into Lovable from its URL",
+    "url": "https://docs.lovable.dev/features/projects/import-website.md",
+    "desc": "Rebuild a website you own from its URL as a Lovable project you can edit in chat. Learn what Lovable reads from the page and how to add more pages."
+  },
+  {
+    "title": "Upgrade a project to TanStack Start",
+    "url": "https://docs.lovable.dev/features/upgrade-to-tanstack-start.md",
+    "desc": "Upgrade an older React + Vite project to TanStack Start, Lovable's latest template, so your pages render on the server, improving search visibility and social link previews."
+  },
+  {
+    "title": "Find and search projects",
+    "url": "https://docs.lovable.dev/introduction/project-search-and-find.md",
+    "desc": "Use the command palette, filters, and sorting to quickly find any project in your workspace."
+  },
+  {
+    "title": "Organize projects in folders",
+    "url": "https://docs.lovable.dev/introduction/project-folders.md",
+    "desc": "Group related projects into folders to keep your workspace organized."
+  },
+  {
+    "title": "Chat with Lovable across your workspace",
+    "url": "https://docs.lovable.dev/features/chats.md",
+    "desc": "Chats is where you work with Lovable outside a project: think through ideas, ask about your apps and workspace, use your connected tools, create files, talk by voice, and send work to a project when you are ready to build."
+  },
+  {
+    "title": "Discuss your app in Chat mode",
+    "url": "https://docs.lovable.dev/features/chat-mode.md",
+    "desc": "Chat mode is the Chat option in the project chat. Discuss the app you have open and decide what to change without changing any code. Each message is priced as a chat message, covered first by the daily chat allowance."
+  },
+  {
+    "title": "Plan a change in Plan mode",
+    "url": "https://docs.lovable.dev/features/plan-mode.md",
+    "desc": "Plan mode investigates your project and writes a structured plan you can review, edit, and approve before any code is written. Use it for larger or riskier changes where you want to see and shape the approach first."
+  },
+  {
+    "title": "Implement changes in Build mode",
+    "url": "https://docs.lovable.dev/features/agent-mode.md",
+    "desc": "Build mode lets Lovable implement and verify changes directly in your project, handling execution end to end with minimal supervision."
+  },
+  {
+    "title": "Set a goal for Lovable",
+    "url": "https://docs.lovable.dev/features/goal-runs.md",
+    "desc": "Type /goal in a Build mode message, or pick Goal from the Skills list, to set that message as a goal. Lovable works on it until the goal is achieved, so a large task can be finished completely in a single message."
+  },
+  {
+    "title": "Subagents",
+    "url": "https://docs.lovable.dev/features/subagents.md",
+    "desc": "Subagents help Lovable investigate complex tasks faster by splitting research, code exploration, and review into focused investigations."
+  },
+  {
+    "title": "Instructions",
+    "url": "https://docs.lovable.dev/features/knowledge.md",
+    "desc": "Define persistent instructions for Lovable using workspace instructions and project instructions. Set shared coding standards, architecture rules, and project context that Lovable remembers across conversations and projects."
+  },
+  {
+    "title": "Memory: what Lovable remembers as you build",
+    "url": "https://docs.lovable.dev/features/memory.md",
+    "desc": "Lovable saves the preferences, decisions, and facts you state while you build, and applies them in later conversations without you repeating them."
+  },
+  {
+    "title": "Define reusable instructions with skills",
+    "url": "https://docs.lovable.dev/features/skills.md",
+    "desc": "Define reusable, on-demand workflows for Lovable using workspace skills. Package focused instructions, playbooks, and checklists that Lovable applies whenever a matching task comes up across every project in your workspace."
+  },
+  {
+    "title": "Cross-project referencing",
+    "url": "https://docs.lovable.dev/features/cross-project-referencing.md",
+    "desc": "Reuse implementations across projects in your workspace, including code, assets, files, and chat history. Maintain consistency and avoid rebuilding the same features."
+  },
+  {
+    "title": "Generate files and analyze data",
+    "url": "https://docs.lovable.dev/features/generate-files.md",
+    "desc": "Analyze data, generate files, and build from the results directly in the project chat."
+  },
+  {
+    "title": "Edit from the preview",
+    "url": "https://docs.lovable.dev/features/preview-toolbar.md",
+    "desc": "Select, edit, annotate, and comment directly on your app preview."
+  },
+  {
+    "title": "Design guidance",
+    "url": "https://docs.lovable.dev/features/design-guidance.md",
+    "desc": "Answer Lovable's design questions about color, typography, and layout before it builds, so the first version matches the look you want."
+  },
+  {
+    "title": "Design templates",
+    "url": "https://docs.lovable.dev/features/business/design-templates.md",
+    "desc": "Reuse Lovable projects as design templates. Templates copy the full codebase, including design, components, and structure, to maintain consistency and accelerate development."
+  },
+  {
+    "title": "Design systems",
+    "url": "https://docs.lovable.dev/features/design-systems.md",
+    "desc": "Create reusable design systems in Lovable to standardize React component libraries, styling guidelines, and setup across projects."
+  },
+  {
+    "title": "Use custom fonts",
+    "url": "https://docs.lovable.dev/tips-tricks/custom-fonts.md",
+    "desc": "Apply web-safe fonts like Arial or Courier New, or use any Google Font by name or link to customize your project's typography."
+  },
+  {
+    "title": "Use 21st.dev components in Lovable",
+    "url": "https://docs.lovable.dev/tips-tricks/21stdev.md",
+    "desc": "Copy pre-built hero sections, navigation bars, testimonials, and other UI components from 21st.dev directly into your projects."
+  },
+  {
+    "title": "Bring Figma designs into Lovable",
+    "url": "https://docs.lovable.dev/integrations/figma.md",
+    "desc": "Three ways to import Figma designs, tokens, and components into Lovable: use the Figma plugin, connect via Figma MCP, or upload a .fig file."
+  },
+  {
+    "title": "Built-in backend",
+    "url": "https://docs.lovable.dev/features/cloud.md",
+    "desc": "Lovable hosts your app and includes a built-in backend with database, authentication, storage, edge functions, and AI, no infrastructure setup required."
+  },
+  {
+    "title": "Database",
+    "url": "https://docs.lovable.dev/features/database.md",
+    "desc": "View and edit your app's data in the Database view: browse tables, edit records, run SQL, change your data structure, and open the tools around your database."
+  },
+  {
+    "title": "Control who can access your app's data",
+    "url": "https://docs.lovable.dev/features/database-access.md",
+    "desc": "Review the row level security policies that decide which rows each user can see or change, ask Lovable to change one, and rotate your database password."
+  },
+  {
+    "title": "Fix a slow database and choose the right capacity",
+    "url": "https://docs.lovable.dev/features/database-performance.md",
+    "desc": "Read the high-load notices Lovable shows, find the slow queries behind them, and decide whether your database needs a larger instance or more storage."
+  },
+  {
+    "title": "Back up, restore, and export your project's database",
+    "url": "https://docs.lovable.dev/features/database-backups.md",
+    "desc": "Restore your app's database from a daily backup, export a full copy of it, and learn what backups and exports include before you move your backend elsewhere."
+  },
+  {
+    "title": "Pause, resume, or remove your project's database",
+    "url": "https://docs.lovable.dev/features/database-pause-remove.md",
+    "desc": "Pause a project's database to save credits, wake it up again from the paused card, and learn what removing the database deletes before you do it."
+  },
+  {
+    "title": "Users and authentication",
+    "url": "https://docs.lovable.dev/features/authentication.md",
+    "desc": "Manage your app's users and configure how they sign in: email, phone, Google, Apple, Microsoft, Lovable, SAML SSO, and OIDC, all part of the built-in backend."
+  },
+  {
+    "title": "Email authentication for your app",
+    "url": "https://docs.lovable.dev/features/email-auth.md",
+    "desc": "Configure email sign-in for your app's built-in backend: confirmation, password rules, one-time codes, and sending limits."
+  },
+  {
+    "title": "Phone authentication for your app",
+    "url": "https://docs.lovable.dev/features/phone-auth.md",
+    "desc": "Let users sign in to your app with their phone number and an SMS one-time code, using your own SMS provider."
+  },
+  {
+    "title": "Add Google authentication to your app",
+    "url": "https://docs.lovable.dev/features/google-auth.md",
+    "desc": "Add Google authentication to your app using managed Google OAuth or your own Google Cloud credentials."
+  },
+  {
+    "title": "Add Apple authentication to your app",
+    "url": "https://docs.lovable.dev/features/apple-auth.md",
+    "desc": "Add Sign in with Apple to your app using managed Apple OAuth or your own Apple Developer credentials."
+  },
+  {
+    "title": "Add Microsoft authentication to your app",
+    "url": "https://docs.lovable.dev/features/microsoft-auth.md",
+    "desc": "Add Microsoft sign-in to your app using managed Microsoft OAuth or your own Azure app registration."
+  },
+  {
+    "title": "Add Sign in with Lovable to your app",
+    "url": "https://docs.lovable.dev/features/lovable-auth.md",
+    "desc": "Let your app's users sign in with their Lovable account. Lovable registers and maintains the OAuth credentials for your project, so there is nothing to configure."
+  },
+  {
+    "title": "Add SAML single sign-on to your app",
+    "url": "https://docs.lovable.dev/features/saml-sso.md",
+    "desc": "Let end users of your app sign in with their company identity provider, such as Okta, Microsoft Entra ID, Google Workspace, or any SAML 2.0 IdP."
+  },
+  {
+    "title": "Add OpenID Connect (OIDC) sign-in to your app",
+    "url": "https://docs.lovable.dev/features/oidc-auth.md",
+    "desc": "Let your app's users sign in with your own OpenID Connect provider, such as Auth0, Okta, Microsoft Entra ID, or Keycloak, on the built-in backend (Cloud)."
+  },
+  {
+    "title": "Reuse Lovable workspace identity in your app",
+    "url": "https://docs.lovable.dev/features/lovable-workspace-identity-reuse.md",
+    "desc": "Let apps you build for your team recognize the logged-in Lovable user automatically, without a separate login flow."
+  },
+  {
+    "title": "Storage",
+    "url": "https://docs.lovable.dev/features/storage.md",
+    "desc": "Store and manage your app's files in the built-in backend: create buckets, upload and organize files, and control public access."
+  },
+  {
+    "title": "Secrets",
+    "url": "https://docs.lovable.dev/features/secrets.md",
+    "desc": "Store API keys and other sensitive values securely in your app's built-in backend, and understand the difference between secrets and VITE_ environment variables."
+  },
+  {
+    "title": "Jobs",
+    "url": "https://docs.lovable.dev/features/jobs.md",
+    "desc": "Review the scheduled background jobs in your app's built-in backend, check their run history, and enable or disable them."
+  },
+  {
+    "title": "Edge functions",
+    "url": "https://docs.lovable.dev/features/edge-functions.md",
+    "desc": "Run serverless backend code in your app, part of the built-in backend, and monitor invocations, success rates, and logs."
+  },
+  {
+    "title": "Logs",
+    "url": "https://docs.lovable.dev/features/logs.md",
+    "desc": "Debug errors and track activity in your app with searchable built-in backend logs across functions, database, auth, and storage."
+  },
+  {
+    "title": "Project usage and costs",
+    "url": "https://docs.lovable.dev/features/project-usage.md",
+    "desc": "See what drives your project's run credit usage across hosting and the built-in backend (Cloud), and how monthly grants work."
+  },
+  {
+    "title": "AI features for your app",
+    "url": "https://docs.lovable.dev/features/ai.md",
+    "desc": "Add AI features such as chatbots, summaries, and image generation to your Lovable app with the built-in AI connector. No API keys or provider setup required."
+  },
+  {
+    "title": "Add chatbots and text generation to your app",
+    "url": "https://docs.lovable.dev/features/ai-chat.md",
+    "desc": "Pick a chat model for chatbots, summaries, and document questions in your app, show the model's thinking as it answers, and ask for priority processing."
+  },
+  {
+    "title": "Let users generate and edit images in your app",
+    "url": "https://docs.lovable.dev/features/ai-images.md",
+    "desc": "Add image generation and editing to your app: the models available, what each is best for, masks and transparent backgrounds, and the speed and quality levels."
+  },
+  {
+    "title": "Let users generate and edit videos in your app",
+    "url": "https://docs.lovable.dev/features/ai-video.md",
+    "desc": "Add video generation to your app: the models and what they differ on, starting from your own images, editing and extending a clip, and what generation costs."
+  },
+  {
+    "title": "Let users create music in your app",
+    "url": "https://docs.lovable.dev/features/ai-music.md",
+    "desc": "Add music generation to your app: the two models, how to describe a track in the prompt, how long a finished track stays available, and what a track costs."
+  },
+  {
+    "title": "Help users find relevant content in your app",
+    "url": "https://docs.lovable.dev/features/ai-search.md",
+    "desc": "Add semantic search, retrieval-augmented generation (RAG), and knowledge bases to your app with embedding models, and see which model fits which workload."
+  },
+  {
+    "title": "Automate classification, routing, and scoring in your app",
+    "url": "https://docs.lovable.dev/features/ai-decisions.md",
+    "desc": "Use typed decision models to turn text your app already has into a category, a score, or a yes/no probability it can act on in code, instead of generated prose."
+  },
+  {
+    "title": "Let users listen to your app's content",
+    "url": "https://docs.lovable.dev/features/ai-text-to-speech.md",
+    "desc": "Add spoken audio to your app with text-to-speech models: read articles aloud, narrate generated text, and describe the tone or pacing you want."
+  },
+  {
+    "title": "Add transcription and voice input to your app",
+    "url": "https://docs.lovable.dev/features/ai-speech-to-text.md",
+    "desc": "Turn recordings, voice notes, and spoken input into text with speech-to-text models, including the file size each model accepts and how to split long audio."
+  },
+  {
+    "title": "Build voice assistants your users can talk to",
+    "url": "https://docs.lovable.dev/features/ai-live-voice.md",
+    "desc": "Add a two-way spoken conversation to your app: people talk and interrupt, your backend does work during the call, and your app speaks the result back."
+  },
+  {
+    "title": "Replace deprecated AI models in your app",
+    "url": "https://docs.lovable.dev/features/ai-deprecated-models.md",
+    "desc": "Check which AI models are being retired, what happens to your app's requests after the retirement date, and how to move your app to a current model."
+  },
+  {
+    "title": "Test and verify your app",
+    "url": "https://docs.lovable.dev/features/testing.md",
+    "desc": "Lovable provides browser testing, frontend tests, and edge function verification to help understand system behavior, validate user workflows, and ensure backend logic works as expected."
+  },
+  {
+    "title": "Test your app in a browser",
+    "url": "https://docs.lovable.dev/features/browser-testing.md",
+    "desc": "Learn how Lovable uses browser testing to verify your app by clicking buttons, filling forms, testing flows, and checking behavior across screen sizes."
+  },
+  {
+    "title": "Security overview",
+    "url": "https://docs.lovable.dev/features/security.md",
+    "desc": "Protect your apps with built-in security scans, API key protection, database access checks, dependency audits, and optional security integrations."
+  },
+  {
+    "title": "Project security view",
+    "url": "https://docs.lovable.dev/features/security-view.md",
+    "desc": "Review scan results, fix vulnerabilities, and manage dependency risks for a single project before and after publishing."
+  },
+  {
+    "title": "Trust center",
+    "url": "https://docs.lovable.dev/features/trust-center.md",
+    "desc": "Share security checks verified by Lovable for your published app, with a page at /.well-known/trust.html and machine-readable results at /.well-known/trust.json."
+  },
+  {
+    "title": "Security best practices for Lovable apps",
+    "url": "https://docs.lovable.dev/tips-tricks/security-best-practices.md",
+    "desc": "Secure coding best practices for Lovable apps, including frontend security, Edge Functions, row-level security (RLS), authentication, and workspace protection."
+  },
+  {
+    "title": "Using npm packages",
+    "url": "https://docs.lovable.dev/tips-tricks/npm-packages.md",
+    "desc": "Add drag-and-drop, charts, animations, and other advanced features by asking Lovable to integrate npm packages into your project."
+  },
+  {
+    "title": "Build secrets",
+    "url": "https://docs.lovable.dev/features/build-secrets.md",
+    "desc": "Store encrypted, workspace-level environment variables that Lovable injects when your projects build, for example npm tokens for installing private packages."
+  },
+  {
+    "title": "Managed registry",
+    "url": "https://docs.lovable.dev/features/managed-registry.md",
+    "desc": "Set up a managed npm registry inside your Lovable workspace to publish and install packages without exposing them publicly."
+  },
+  {
+    "title": "Lovable connectors: Connect tools, services, and APIs",
+    "url": "https://docs.lovable.dev/integrations/introduction.md",
+    "desc": "Connect Lovable to external tools, services, and APIs. Choose between app + chat connectors, chat connectors, and app user connectors, or integrate any API."
+  },
+  {
+    "title": "App + chat connectors: Add capabilities to your published app and your chat",
+    "url": "https://docs.lovable.dev/integrations/app-connectors.md",
+    "desc": "Connect a tool like Slack, HubSpot, or Google Sheets once and use it everywhere: Lovable works with it while you build, and your published app uses it to send messages, read data, and take actions for your users."
+  },
+  {
+    "title": "App user connectors: let your users connect their own accounts",
+    "url": "https://docs.lovable.dev/integrations/app-user-connectors.md",
+    "desc": "App user connectors let each end user of your published Lovable app connect their own third-party account, so your app acts on their behalf with their own permissions. Authentication is handled securely through Lovable's connector gateway."
+  },
+  {
+    "title": "Create a custom connector",
+    "url": "https://docs.lovable.dev/integrations/create-connector.md",
+    "desc": "Build your own connector for any REST API, public or internal, and make it available to your Lovable workspace. Define the endpoint, authentication, and knowledge once, and let everyone in your workspace connect to it like any other app connector."
+  },
+  {
+    "title": "Chat connectors: Connect your tools to Lovable using MCP servers",
+    "url": "https://docs.lovable.dev/integrations/chat-connectors.md",
+    "desc": "Connect your own tool accounts to Lovable as chat connectors (MCP servers). Lovable reads real context from tools like Notion, Linear, Jira, or Miro while you build, so results match your actual work."
+  },
+  {
+    "title": "Connect a custom MCP server as a chat connector",
+    "url": "https://docs.lovable.dev/integrations/custom-mcp.md",
+    "desc": "Connect any remote MCP server to Lovable as a chat connector. Bring internal tools, private APIs, and custom data sources into the project chat and Chats as live context."
+  },
+  {
+    "title": "MCP registries",
+    "url": "https://docs.lovable.dev/integrations/mcp-registries.md",
+    "desc": "Add an MCP registry to your workspace so members can browse a directory of MCP servers and connect them as chat connectors without pasting URLs."
+  },
+  {
+    "title": "Manage connectors in your workspace",
+    "url": "https://docs.lovable.dev/integrations/admin-controls.md",
+    "desc": "Workspace admins control who can create connections and clients for each connector, which is also how connectors are made available or disabled. Learn the defaults per plan and every governance setting."
+  },
+  {
+    "title": "Integration security",
+    "url": "https://docs.lovable.dev/integrations/security.md",
+    "desc": "How Lovable stores and protects integration credentials, plus the gateway, IP allowlisting, and domain restrictions that secure connector traffic."
+  },
+  {
+    "title": "Connect your app to Algolia",
+    "url": "https://docs.lovable.dev/integrations/algolia.md",
+    "desc": "Connect your app to Algolia, a hosted search and indexing engine, to add full-text search, faceted filtering, and indexing to your Lovable app."
+  },
+  {
+    "title": "Connect your app to Apify",
+    "url": "https://docs.lovable.dev/integrations/apify.md",
+    "desc": "Connect your app to Apify, a web scraping and automation platform, to run Actors and read datasets from your Lovable app."
+  },
+  {
+    "title": "Connect ElevenLabs to enable voice AI in your app",
+    "url": "https://docs.lovable.dev/integrations/eleven-labs.md",
+    "desc": "Connect your app to ElevenLabs, an AI audio platform, to generate speech, transcribe audio, create music and sound effects, and build voice agents."
+  },
+  {
+    "title": "Connect Firecrawl to scrape web data for your app",
+    "url": "https://docs.lovable.dev/integrations/firecrawl.md",
+    "desc": "Connect your app to Firecrawl, a web scraping and crawling platform, to scrape pages, crawl sites, and extract structured data from websites."
+  },
+  {
+    "title": "Connect your app to Fireworks AI",
+    "url": "https://docs.lovable.dev/integrations/fireworks.md",
+    "desc": "Connect your app to Fireworks AI, an inference platform for open models, to run text generation, image generation, embeddings, and fine-tuning from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Gemini Enterprise",
+    "url": "https://docs.lovable.dev/integrations/gemini-enterprise.md",
+    "desc": "Connect your app to Gemini Enterprise, Google Cloud's enterprise search platform, to search connected data stores and show grounded answers with citations."
+  },
+  {
+    "title": "Connect your app to LlamaParse Platform",
+    "url": "https://docs.lovable.dev/integrations/llamaparse.md",
+    "desc": "Connect your app to LlamaParse, LlamaIndex's document parsing and extraction platform, to parse documents, extract structured data, and search your document indexes from your Lovable app. Use Lovable's managed connection for parsing and extraction, or your own LlamaParse API key for the full LlamaPa…"
+  },
+  {
+    "title": "Connect your app to Parallel",
+    "url": "https://docs.lovable.dev/integrations/parallel.md",
+    "desc": "Connect your app to Parallel, a web search and research API, to search the web, read pages, and run deep research with cited sources."
+  },
+  {
+    "title": "Connect your app to Perplexity",
+    "url": "https://docs.lovable.dev/integrations/perplexity.md",
+    "desc": "Connect your app to Perplexity, an AI search and answer engine, to return cited answers from live web, academic, and financial sources. Use Lovable's managed connection for web search, or your own API key for the full Perplexity API."
+  },
+  {
+    "title": "Connect your app to Replicate",
+    "url": "https://docs.lovable.dev/integrations/replicate.md",
+    "desc": "Connect your app to Replicate, a platform for running open-source AI models, to generate images, video, audio, and text from your Lovable app."
+  },
+  {
+    "title": "Connect to Supabase",
+    "url": "https://docs.lovable.dev/integrations/supabase.md",
+    "desc": "Connect Lovable with Supabase for seamless backend setup, database, auth, storage, real-time, and serverless functions."
+  },
+  {
+    "title": "Connect your app to Amazon Redshift",
+    "url": "https://docs.lovable.dev/integrations/amazon-redshift.md",
+    "desc": "Connect your app to Amazon Redshift, a cloud data warehouse, to run SQL queries and read results from your warehouse in your Lovable app."
+  },
+  {
+    "title": "Connect your app to AWS Athena",
+    "url": "https://docs.lovable.dev/integrations/aws-athena.md",
+    "desc": "Connect your app to AWS Athena, the serverless SQL query service for data in Amazon S3, to run queries and power dashboards from your data lake."
+  },
+  {
+    "title": "Connect your app to AWS S3",
+    "url": "https://docs.lovable.dev/integrations/aws-s3.md",
+    "desc": "Connect your app to AWS S3 to read and write CSV, JSON, Parquet, and other data files in S3 buckets from your Lovable apps."
+  },
+  {
+    "title": "Connect your app to BigQuery",
+    "url": "https://docs.lovable.dev/integrations/bigquery.md",
+    "desc": "Connect Google BigQuery to your Lovable app by signing in with Google (OAuth) or using Workload Identity Federation. Run SQL, explore datasets and schemas, and build analytics features without storing long-lived GCP keys in your project."
+  },
+  {
+    "title": "Connect your app to ClickHouse",
+    "url": "https://docs.lovable.dev/integrations/clickhouse.md",
+    "desc": "Connect a ClickHouse database to your Lovable app over the HTTP interface. Run SQL queries, explore schemas, and build analytics features against self-hosted or ClickHouse Cloud databases."
+  },
+  {
+    "title": "Connect your app to Cube",
+    "url": "https://docs.lovable.dev/integrations/cube.md",
+    "desc": "Connect your app to Cube to build dashboards and reports on the business metrics that your data team already defines."
+  },
+  {
+    "title": "Connect your app to Databricks",
+    "url": "https://docs.lovable.dev/integrations/databricks.md",
+    "desc": "Connect your app to Databricks to query warehouse data, build live dashboards, and power data-driven tools using your existing tables and views. Connect with a service principal or sign in with your own Databricks account."
+  },
+  {
+    "title": "Connect your app to the dbt Semantic Layer",
+    "url": "https://docs.lovable.dev/integrations/dbt-semantic-layer.md",
+    "desc": "Connect your app to the dbt Semantic Layer to query governed metrics defined in dbt, sliced by dimensions and time, without writing warehouse SQL."
+  },
+  {
+    "title": "Connect your app to GoodData",
+    "url": "https://docs.lovable.dev/integrations/gooddata.md",
+    "desc": "Connect your app to GoodData Cloud to browse your workspaces, metrics, and visualizations and run analytics queries from your Lovable app."
+  },
+  {
+    "title": "Connect your app to IBM Db2",
+    "url": "https://docs.lovable.dev/integrations/ibm-db2.md",
+    "desc": "Connect your app to IBM Db2 on Cloud to browse your schemas and tables and run SQL queries from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Looker",
+    "url": "https://docs.lovable.dev/integrations/looker.md",
+    "desc": "Connect your app to Looker to build dashboards and reporting tools using the metric definitions your analytics team maintains in LookML."
+  },
+  {
+    "title": "Connect your app to Metabase",
+    "url": "https://docs.lovable.dev/integrations/metabase.md",
+    "desc": "Connect your app to Metabase to run your team's saved questions and custom queries and show the results in your Lovable app."
+  },
+  {
+    "title": "Connect your app to Microsoft Fabric",
+    "url": "https://docs.lovable.dev/integrations/microsoft-fabric.md",
+    "desc": "Connect your app to Microsoft Fabric to query Lakehouses, Warehouses, SQL databases, and mirrored databases through Fabric's API for GraphQL."
+  },
+  {
+    "title": "Connect your app to MotherDuck",
+    "url": "https://docs.lovable.dev/integrations/motherduck.md",
+    "desc": "Connect your app to MotherDuck, the cloud service for DuckDB, to query your data with SQL and build dashboards and reports in your Lovable app."
+  },
+  {
+    "title": "Connect your app to Neon",
+    "url": "https://docs.lovable.dev/integrations/neon.md",
+    "desc": "Connect your app to Neon, a serverless Postgres platform, to read and write your own Neon database from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Omni",
+    "url": "https://docs.lovable.dev/integrations/omni.md",
+    "desc": "Connect your app to Omni, a business intelligence platform, to build dashboards and reports on the metrics your data team defines in Omni."
+  },
+  {
+    "title": "Connect your app to Oracle Autonomous AI Database",
+    "url": "https://docs.lovable.dev/integrations/oracle-autonomous.md",
+    "desc": "Connect your Lovable app to Oracle Autonomous AI Database to run SQL queries, explore schemas, and build dashboards and reports on your Oracle data."
+  },
+  {
+    "title": "Connect your app to Power BI",
+    "url": "https://docs.lovable.dev/integrations/power-bi.md",
+    "desc": "Connect your app to Power BI to query the semantic models behind your reports, or rebuild an existing report in your Lovable app with the same numbers."
+  },
+  {
+    "title": "Connect your app to Qlik Cloud",
+    "url": "https://docs.lovable.dev/integrations/qlik-cloud.md",
+    "desc": "Connect your app to Qlik Cloud to browse your Qlik Sense apps, export report data, ask Insight Advisor questions, and trigger reloads from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Snowflake",
+    "url": "https://docs.lovable.dev/integrations/snowflake.md",
+    "desc": "Connect Snowflake to your Lovable app using Snowflake OAuth. Run SQL, use the SQL REST API, and work with warehouses and data from your Snowflake account through Lovable's connector gateway."
+  },
+  {
+    "title": "Connect your app to Brevo",
+    "url": "https://docs.lovable.dev/integrations/brevo.md",
+    "desc": "Connect your app to Brevo to send transactional and marketing emails, manage contacts and lists, and trigger communication workflows from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Discord",
+    "url": "https://docs.lovable.dev/integrations/discord.md",
+    "desc": "Connect your app to Discord to post channel messages, list the servers a bot is in, and read recent channel history."
+  },
+  {
+    "title": "Connect your app to Firebase Cloud Messaging",
+    "url": "https://docs.lovable.dev/integrations/firebase-cloud-messaging.md",
+    "desc": "Connect your app to Firebase Cloud Messaging to send push notifications to devices and topics from your Lovable app."
+  },
+  {
+    "title": "Connect your app to GatewayAPI",
+    "url": "https://docs.lovable.dev/integrations/gatewayapi.md",
+    "desc": "Connect your app to GatewayAPI, an SMS and RCS messaging API, to send mobile messages, track delivery status, and handle inbound replies from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Mailgun",
+    "url": "https://docs.lovable.dev/integrations/mailgun.md",
+    "desc": "Connect your app to Mailgun to send transactional email, manage sending domains, and track delivery events from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Resend",
+    "url": "https://docs.lovable.dev/integrations/resend.md",
+    "desc": "Connect your app to Resend, an email API for developers, to send transactional and marketing emails from your own verified domain."
+  },
+  {
+    "title": "Connect your app to Slack",
+    "url": "https://docs.lovable.dev/integrations/slack.md",
+    "desc": "Connect your app to Slack by signing in with your Slack account, to send messages, read channels, automate alerts, and generate digests, or add the app you built to Slack as its own agent."
+  },
+  {
+    "title": "Connect your app to Telegram",
+    "url": "https://docs.lovable.dev/integrations/telegram.md",
+    "desc": "Send and receive Telegram messages in apps you build with Lovable. This is for app integrations, not for chatting with Lovable in Telegram."
+  },
+  {
+    "title": "Connect your app to Twilio",
+    "url": "https://docs.lovable.dev/integrations/twilio.md",
+    "desc": "Connect your app to Twilio to send SMS and MMS messages, make voice calls, and add phone-based communication flows directly to your Lovable app."
+  },
+  {
+    "title": "Connect your app to WhatsApp Business",
+    "url": "https://docs.lovable.dev/integrations/whatsapp.md",
+    "desc": "Connect your app to WhatsApp Business to receive customer messages, send replies and notifications, and manage message templates."
+  },
+  {
+    "title": "Connect your app to Apollo.io",
+    "url": "https://docs.lovable.dev/integrations/apollo.md",
+    "desc": "Connect your app to Apollo.io to search its B2B database of people and companies, enrich contact and organization data, and manage contacts, accounts, and deals from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Attention",
+    "url": "https://docs.lovable.dev/integrations/attention.md",
+    "desc": "Connect your app to Attention, a sales conversation intelligence platform, to read meeting transcripts and scorecards, write back snippets and QA results, and ask natural-language questions across your sales conversations."
+  },
+  {
+    "title": "Connect your app to Clay",
+    "url": "https://docs.lovable.dev/integrations/clay.md",
+    "desc": "Connect your app to Clay, a go-to-market data platform, to search people and companies, run enrichment routines, and query Clay tables from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Gong",
+    "url": "https://docs.lovable.dev/integrations/gong.md",
+    "desc": "Connect your app to Gong to work with sales call metadata, transcripts, conversation topics, interaction stats, and user data from your Gong account."
+  },
+  {
+    "title": "Connect your app to HubSpot",
+    "url": "https://docs.lovable.dev/integrations/hubspot.md",
+    "desc": "Connect your app to HubSpot, a CRM platform, to manage contacts, track deals, and automate sales and marketing workflows."
+  },
+  {
+    "title": "Connect your app to KLIPY",
+    "url": "https://docs.lovable.dev/integrations/klipy.md",
+    "desc": "Connect your app to KLIPY to search and embed GIFs, stickers, and clips, and generate AI emojis."
+  },
+  {
+    "title": "Connect your app to Pipedrive",
+    "url": "https://docs.lovable.dev/integrations/pipedrive.md",
+    "desc": "Connect your app to Pipedrive, a sales CRM, to manage deals, contacts, activities, leads, and sales pipeline data from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Salesforce",
+    "url": "https://docs.lovable.dev/integrations/salesforce.md",
+    "desc": "Connect your app to Salesforce, a CRM platform, to read and manage Accounts, Contacts, Cases, and other records."
+  },
+  {
+    "title": "Connect your app to Zendesk",
+    "url": "https://docs.lovable.dev/integrations/zendesk.md",
+    "desc": "Connect your app to Zendesk, the customer service platform, to list, search, create, and update support tickets, look up customers, and read help center articles from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Zoho CRM",
+    "url": "https://docs.lovable.dev/integrations/zoho-crm.md",
+    "desc": "Connect your app to Zoho CRM, a sales CRM platform, to read and manage leads, contacts, accounts, deals, and other CRM records."
+  },
+  {
+    "title": "Connect your app to AWS API",
+    "url": "https://docs.lovable.dev/integrations/aws.md",
+    "desc": "Connect your app to AWS API to call any Amazon Web Services API, such as EC2, DynamoDB, Lambda, SQS, and CloudWatch, from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Azure Cloud API",
+    "url": "https://docs.lovable.dev/integrations/azure.md",
+    "desc": "Connect your app to Azure Cloud API to inventory and manage Azure resources, inspect role assignments, and build cost and activity dashboards from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Azure Graph & Entra API",
+    "url": "https://docs.lovable.dev/integrations/azure-graph.md",
+    "desc": "Connect your app to Azure Graph & Entra API to read and administer your organization's Microsoft Entra directory and Microsoft 365 data through Microsoft Graph, without a signed-in user."
+  },
+  {
+    "title": "Connect your app to Cloudflare API",
+    "url": "https://docs.lovable.dev/integrations/cloudflare-api.md",
+    "desc": "Connect your app to Cloudflare with an API token to inventory zones and DNS records, build traffic and security dashboards, manage DNS, purge cache, and operate Workers, R2, and KV."
+  },
+  {
+    "title": "Connect your app to GitHub API",
+    "url": "https://docs.lovable.dev/integrations/github-api.md",
+    "desc": "Connect your app to GitHub by signing in with your GitHub account or with a personal access token, to read repositories, manage issues and pull requests, and build automations with the GitHub REST API."
+  },
+  {
+    "title": "Connect your app to GitLab API",
+    "url": "https://docs.lovable.dev/integrations/gitlab-api.md",
+    "desc": "Connect your app to GitLab.com, GitLab Self-Managed, or GitLab Dedicated to work with projects, issues, merge requests, pipelines, and repository files through the GitLab REST API."
+  },
+  {
+    "title": "Connect your app to Google Cloud API",
+    "url": "https://docs.lovable.dev/integrations/gcp.md",
+    "desc": "Connect your app to Google Cloud API to inventory resources, read monitoring and logging data, inspect IAM, and manage Google Cloud projects from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Inngest",
+    "url": "https://docs.lovable.dev/integrations/inngest.md",
+    "desc": "Connect your app to Inngest to add background jobs, scheduled tasks, and durable workflows to your Lovable apps using your own Inngest account."
+  },
+  {
+    "title": "Connect your app to Linear",
+    "url": "https://docs.lovable.dev/integrations/linear.md",
+    "desc": "Connect your app to Linear to create and update issues, read project and team data, and build issue tracking workflows in your Lovable apps."
+  },
+  {
+    "title": "Connect your app to Logo.dev",
+    "url": "https://docs.lovable.dev/integrations/logo-dev.md",
+    "desc": "Connect your app to Logo.dev to display company logos by domain, stock ticker, or crypto symbol directly in the browser from your Lovable app."
+  },
+  {
+    "title": "Connect your app to the Lovable API",
+    "url": "https://docs.lovable.dev/integrations/lovable-api-connector.md",
+    "desc": "Connect your app to the Lovable API to list and manage projects, publish, embed project previews, and read analytics, members, and security insights for a connected Lovable workspace."
+  },
+  {
+    "title": "Connect your app to n8n",
+    "url": "https://docs.lovable.dev/integrations/n8n.md",
+    "desc": "Connect your app to n8n, a workflow automation tool, to list workflows, read executions, and trigger webhooks from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Lightspeed",
+    "url": "https://docs.lovable.dev/integrations/lightspeed.md",
+    "desc": "Connect your app to Lightspeed Retail X-Series, a retail POS platform, to work with products, inventory, outlets, customers, and sales data from your Lovable app."
+  },
+  {
+    "title": "Connect your app to PrestaShop",
+    "url": "https://docs.lovable.dev/integrations/prestashop.md",
+    "desc": "Connect your app to PrestaShop, an open-source ecommerce platform, to read and manage store catalog, order, customer, and inventory data."
+  },
+  {
+    "title": "Build a Shopify store with AI",
+    "url": "https://docs.lovable.dev/integrations/shopify.md",
+    "desc": "Learn how to create a new Shopify store or connect an existing one to Lovable, then build and launch your storefront."
+  },
+  {
+    "title": "Connect your app to WooCommerce",
+    "url": "https://docs.lovable.dev/integrations/woocommerce.md",
+    "desc": "Connect your app to WooCommerce, an ecommerce plugin for WordPress, to read and manage store products, orders, customers, coupons, and reports."
+  },
+  {
+    "title": "Connect your app to Lexware",
+    "url": "https://docs.lovable.dev/integrations/lexware.md",
+    "desc": "Connect your app to Lexware, an accounting and invoicing platform, to work with contacts, invoices, vouchers, articles, and accounting events from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Sevdesk",
+    "url": "https://docs.lovable.dev/integrations/sevdesk.md",
+    "desc": "Connect your app to Sevdesk, an accounting and invoicing platform, to manage contacts, invoices, orders, vouchers, and bookkeeping workflows from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Wave",
+    "url": "https://docs.lovable.dev/integrations/wave.md",
+    "desc": "Connect your app to Wave, an accounting and invoicing platform, to build apps that work with customers, products, invoices, estimates, and business accounting data."
+  },
+  {
+    "title": "Connect your app to Xero",
+    "url": "https://docs.lovable.dev/integrations/xero.md",
+    "desc": "Connect your app to Xero, a cloud accounting platform, to work with contacts, invoices, bills, payments, bank transactions, and financial reports."
+  },
+  {
+    "title": "Connect your app to Zoho Books",
+    "url": "https://docs.lovable.dev/integrations/zoho-books.md",
+    "desc": "Connect your app to Zoho Books, an accounting platform, to read and manage customers, invoices, estimates, bills, expenses, and projects."
+  },
+  {
+    "title": "Connect your app to Google Maps Platform",
+    "url": "https://docs.lovable.dev/integrations/google-maps.md",
+    "desc": "Connect Google Maps Platform to your Lovable app to geocode addresses, calculate routes, search places, embed interactive maps, and pull location data like weather and air quality, using a managed connection or your own API keys."
+  },
+  {
+    "title": "Connect your app to Mapbox",
+    "url": "https://docs.lovable.dev/integrations/mapbox.md",
+    "desc": "Connect your app to Mapbox, a location platform, to embed interactive maps with Mapbox GL JS, geocode addresses, and calculate routes and directions from your Lovable app."
+  },
+  {
+    "title": "Connect your app to beehiiv",
+    "url": "https://docs.lovable.dev/integrations/beehiiv.md",
+    "desc": "Connect your app to beehiiv, a newsletter platform, to add subscribers and show posts from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Bing Webmaster Tools",
+    "url": "https://docs.lovable.dev/integrations/bing-webmaster-tools.md",
+    "desc": "Connect your app to Bing Webmaster Tools, Microsoft's service for Bing search performance, to read clicks, queries, and crawl stats and to submit URLs and sitemaps."
+  },
+  {
+    "title": "Connect your app to Google Analytics",
+    "url": "https://docs.lovable.dev/integrations/google-analytics.md",
+    "desc": "Connect your app to Google Analytics 4 to track page views, custom events, and conversions from your Lovable app using gtag.js."
+  },
+  {
+    "title": "Connect Google Business Profile to Lovable",
+    "url": "https://docs.lovable.dev/integrations/google-business-profile.md",
+    "desc": "Connect Google Business Profile to manage your business locations, opening hours, reviews, posts, and performance directly in Lovable or in your published app."
+  },
+  {
+    "title": "Connect your app to Google Search Console (GSC)",
+    "url": "https://docs.lovable.dev/integrations/google-search-console.md",
+    "desc": "Connect your app to Google Search Console (GSC), Google's free service for monitoring search performance, to verify domains, submit sitemaps, read search analytics, and answer SEO questions directly in the project chat, or to build SEO features into your Lovable app."
+  },
+  {
+    "title": "Connect your app to Klaviyo",
+    "url": "https://docs.lovable.dev/integrations/klaviyo.md",
+    "desc": "Connect your app to Klaviyo, an email and SMS platform, to sync profiles, lists, and events, and to read campaigns and flows."
+  },
+  {
+    "title": "Connect your app to LinkedIn",
+    "url": "https://docs.lovable.dev/integrations/linkedin.md",
+    "desc": "Connect your app to LinkedIn, a professional networking platform, to read member profile data and publish posts from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Loops",
+    "url": "https://docs.lovable.dev/integrations/loops.md",
+    "desc": "Connect your app to Loops, an email platform for contacts and transactional email, to create contacts, send events, and send transactional email from your Lovable app."
+  },
+  {
+    "title": "Connect your app to PostHog",
+    "url": "https://docs.lovable.dev/integrations/posthog.md",
+    "desc": "Connect your app to PostHog to capture product analytics events, evaluate feature flags, and send server-side events from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Semrush",
+    "url": "https://docs.lovable.dev/integrations/semrush.md",
+    "desc": "Connect your app to Semrush, an SEO and competitive analysis platform, to power apps with keyword research, domain analytics, backlink data, and project management."
+  },
+  {
+    "title": "Connect your app to TikTok",
+    "url": "https://docs.lovable.dev/integrations/tiktok.md",
+    "desc": "Connect your app to TikTok to read creator profiles, fetch published videos, and build social integrations from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Twitch",
+    "url": "https://docs.lovable.dev/integrations/twitch.md",
+    "desc": "Connect your app to Twitch to build custom stream overlays, display live stream data, track channel activity, and create tools for creators and communities directly from your Lovable app."
+  },
+  {
+    "title": "Connect your app to X (Twitter)",
+    "url": "https://docs.lovable.dev/integrations/x.md",
+    "desc": "Connect your app to X with an app-only Bearer token to look up users, search recent public posts, and build social integrations from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Chargebee",
+    "url": "https://docs.lovable.dev/integrations/chargebee.md",
+    "desc": "Connect your app to Chargebee, a subscription billing and revenue management platform, to manage customers, subscriptions, invoices, checkout, and billing workflows."
+  },
+  {
+    "title": "Connect your app to Pledge",
+    "url": "https://docs.lovable.dev/integrations/pledge.md",
+    "desc": "Connect your app to Pledge, a charitable giving platform, to search verified nonprofits worldwide, create donations, and manage fundraisers from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Ramp",
+    "url": "https://docs.lovable.dev/integrations/ramp.md",
+    "desc": "Connect your app to Ramp, a corporate card and spend management platform, to build apps that read transactions, cards, funds, users, and business data."
+  },
+  {
+    "title": "Connect your own Stripe account",
+    "url": "https://docs.lovable.dev/integrations/stripe.md",
+    "desc": "Accept one-time payments and subscriptions with a Stripe account you own. Lovable builds the checkout through chat using your Stripe API key."
+  },
+  {
+    "title": "Connect your app to Airtable",
+    "url": "https://docs.lovable.dev/integrations/airtable.md",
+    "desc": "Connect your app to Airtable, a spreadsheet-database hybrid, to read and write bases, tables, and records, and turn an Airtable base into a custom app interface."
+  },
+  {
+    "title": "Connect your app to Asana",
+    "url": "https://docs.lovable.dev/integrations/asana.md",
+    "desc": "Connect your app to Asana with a personal access token (PAT) to create and update tasks, read project and team data, and automate work tracking workflows in your Lovable apps."
+  },
+  {
+    "title": "Connect your app to Ashby",
+    "url": "https://docs.lovable.dev/integrations/ashby.md",
+    "desc": "Connect your app to Ashby, a recruiting and applicant tracking system, to work with jobs, candidates, applications, and hiring workflows."
+  },
+  {
+    "title": "Connect your app to Calendly",
+    "url": "https://docs.lovable.dev/integrations/calendly.md",
+    "desc": "Connect your app to Calendly, a scheduling automation platform, to build booking flows, event dashboards, and meeting workflows."
+  },
+  {
+    "title": "Connect your app to Fireflies",
+    "url": "https://docs.lovable.dev/integrations/fireflies.md",
+    "desc": "Connect your app to Fireflies to access meeting transcripts, summaries, and conversation insights."
+  },
+  {
+    "title": "Connect your app to Google Workspace",
+    "url": "https://docs.lovable.dev/integrations/google-workspace.md",
+    "desc": "Connect your app to Google Workspace to read and send email, manage calendars, store and create files, and use Google tools like Sheets, Docs, and Slides as part of your app's workflows."
+  },
+  {
+    "title": "Connect your app to Granola",
+    "url": "https://docs.lovable.dev/integrations/granola.md",
+    "desc": "Connect your app to Granola, an AI meeting notes platform, to bring meeting notes, AI summaries, and transcripts from your Granola workspace into your Lovable apps."
+  },
+  {
+    "title": "Connect your app to incident.io",
+    "url": "https://docs.lovable.dev/integrations/incidentio.md",
+    "desc": "Connect your app to incident.io to work with incidents, follow-ups, alerts, on-call schedules, status pages, and catalog data."
+  },
+  {
+    "title": "Connect your app to Microsoft 365",
+    "url": "https://docs.lovable.dev/integrations/microsoft.md",
+    "desc": "Connect Microsoft Outlook, Teams, OneDrive, SharePoint, Word, Excel, PowerPoint, and OneNote to your Lovable app. All use the same Microsoft sign-in and Microsoft Graph pattern, so one guide covers every Microsoft connector."
+  },
+  {
+    "title": "Build and publish apps to Microsoft Copilot Managed Runtime",
+    "url": "https://docs.lovable.dev/integrations/microsoft-copilot-managed-runtime.md",
+    "desc": "Build an app in Lovable and publish it to Microsoft Copilot Managed Runtime, where it runs inside your company's Microsoft Entra tenant under your organization's sign-in and IT policies."
+  },
+  {
+    "title": "Set up your Microsoft tenant for Copilot Managed Runtime",
+    "url": "https://docs.lovable.dev/integrations/microsoft-copilot-managed-runtime-tenant-setup.md",
+    "desc": "The one-time setup a Microsoft tenant admin completes so builders can publish Lovable apps into your organization using Copilot Managed Runtime."
+  },
+  {
+    "title": "Connect your app to Notion",
+    "url": "https://docs.lovable.dev/integrations/notion.md",
+    "desc": "Connect your app to Notion, an all-in-one workspace for docs, wikis, and databases, to read and write pages, query databases, and build apps backed by content your team manages in Notion."
+  },
+  {
+    "title": "Connect your app to Scrive for e-signatures and eID",
+    "url": "https://docs.lovable.dev/integrations/scrive.md",
+    "desc": "Connect your app to Scrive to send documents for e-signature with Scrive eSign, or verify user identities with BankID, MitID, and other eIDs through eID Hub."
+  },
+  {
+    "title": "Connect your app to Tally",
+    "url": "https://docs.lovable.dev/integrations/tally.md",
+    "desc": "Connect your app to Tally, the free-form builder, to create forms, fetch submissions, and manage form workflows from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Workday",
+    "url": "https://docs.lovable.dev/integrations/workday.md",
+    "desc": "Connect your app to Workday, the HR and workforce platform, to let each app user read worker, organization, and time off data with their own Workday permissions."
+  },
+  {
+    "title": "Run AI-powered penetration tests with Aikido",
+    "url": "https://docs.lovable.dev/integrations/aikido.md",
+    "desc": "Run AI-powered penetration tests on your Lovable projects with Aikido to identify real exploitable vulnerabilities and generate shareable security reports."
+  },
+  {
+    "title": "Scan your projects for vulnerabilities with Wiz",
+    "url": "https://docs.lovable.dev/integrations/wiz.md",
+    "desc": "Automatically scan your Lovable projects for vulnerabilities and code-security issues using Wiz to catch known CVEs and risky code patterns before you ship."
+  },
+  {
+    "title": "Connect your app to Contentful",
+    "url": "https://docs.lovable.dev/integrations/contentful.md",
+    "desc": "Connect your app to Contentful to fetch and display published content from your headless CMS, including entries, assets, and rich text."
+  },
+  {
+    "title": "Connect your app to Storyblok",
+    "url": "https://docs.lovable.dev/integrations/storyblok.md",
+    "desc": "Connect your app to Storyblok, a headless CMS and visual page builder, to deliver published content or create and publish stories from your Lovable app."
+  },
+  {
+    "title": "Connect your app to Wix",
+    "url": "https://docs.lovable.dev/integrations/wix.md",
+    "desc": "Connect your app to Wix, a website and business platform, to read and manage Wix sites, ecommerce, bookings, CRM, and CMS resources."
+  },
+  {
+    "title": "Connect your app to WordPress (self-hosted)",
+    "url": "https://docs.lovable.dev/integrations/wordpress.md",
+    "desc": "Connect your app to a self-hosted WordPress site to read and manage posts, pages, media, and users through the WordPress REST API."
+  },
+  {
+    "title": "Connect your app to WordPress.com",
+    "url": "https://docs.lovable.dev/integrations/wordpress-com.md",
+    "desc": "Connect your app to WordPress.com by signing in with your WordPress.com account, to read and manage posts, pages, and media on your WordPress.com sites."
+  },
+  {
+    "title": "Integrate any API with Lovable",
+    "url": "https://docs.lovable.dev/integrations/any-api.md",
+    "desc": "Connect any external service to your Lovable app, even one without a built-in connector. Create a custom connector so Lovable manages the credentials, or ask Lovable to connect the service directly."
+  },
+  {
+    "title": "Sync your Lovable project code with GitHub, GitLab, or Bitbucket",
+    "url": "https://docs.lovable.dev/integrations/git-sync-overview.md",
+    "desc": "Git sync keeps your Lovable project code in your own GitHub, GitLab, or Bitbucket repository with automatic two-way sync, so you can back up code, collaborate with developers, work in your IDE, and deploy anywhere."
+  },
+  {
+    "title": "Sync your Lovable project with GitHub",
+    "url": "https://docs.lovable.dev/integrations/github.md",
+    "desc": "Export and two-way sync your Lovable project code with github.com, GitHub Enterprise Cloud, or GitHub Enterprise Server for code backup, collaboration, and deployment."
+  },
+  {
+    "title": "Sync your Lovable project with GitLab",
+    "url": "https://docs.lovable.dev/integrations/gitlab.md",
+    "desc": "Export and two-way sync your Lovable project code with GitLab.com or a self-managed GitLab instance for code backup, collaboration, and deployment."
+  },
+  {
+    "title": "Sync your Lovable project with Bitbucket",
+    "url": "https://docs.lovable.dev/integrations/bitbucket.md",
+    "desc": "Export and two-way sync your Lovable project code with a Bitbucket Cloud workspace for code backup, collaboration, and deployment."
+  },
+  {
+    "title": "Collaboration",
+    "url": "https://docs.lovable.dev/features/collaboration.md",
+    "desc": "Invite teammates to projects or workspaces, assign roles and permissions, and see changes in real time as you build together."
+  },
+  {
+    "title": "Share a project with internal or external collaborators",
+    "url": "https://docs.lovable.dev/features/share-project.md",
+    "desc": "Manage project access, invite collaborators, and create protected preview links for external reviews."
+  },
+  {
+    "title": "Project comments",
+    "url": "https://docs.lovable.dev/features/project-comments.md",
+    "desc": "Leave comments directly on elements in your project."
+  },
+  {
+    "title": "Control project access",
+    "url": "https://docs.lovable.dev/features/project-visibility.md",
+    "desc": "Control who can view, remix, or collaborate on your projects. Choose whether projects are accessible to all workspace members, or restricted to invited users only."
+  },
+  {
+    "title": "How Lovable hosts your app",
+    "url": "https://docs.lovable.dev/features/hosting.md",
+    "desc": "Lovable hosts your published app for you: no servers to set up, HTTPS included, and delivery from locations around the world. Learn how hosting works."
+  },
+  {
+    "title": "Publish your Lovable project",
+    "url": "https://docs.lovable.dev/features/publish.md",
+    "desc": "Deploy your project to a live URL, control who can access the published app, configure site metadata, and update or unpublish at any time."
+  },
+  {
+    "title": "Set up a custom domain",
+    "url": "https://docs.lovable.dev/features/custom-domain.md",
+    "desc": "Learn how to buy, connect, verify, troubleshoot, and manage custom domains in Lovable."
+  },
+  {
+    "title": "Transfer a domain to Lovable",
+    "url": "https://docs.lovable.dev/features/transfer-domain.md",
+    "desc": "Move a domain from another registrar to Lovable, so Lovable becomes your domain registrar."
+  },
+  {
+    "title": "Publish every app in your workspace under your own domain",
+    "url": "https://docs.lovable.dev/features/publishing-domain.md",
+    "desc": "Publish your Enterprise workspace's apps under one domain or subdomain with a one-time setup."
+  },
+  {
+    "title": "Publish apps with branded URLs",
+    "url": "https://docs.lovable.dev/features/branded-workspace-urls.md",
+    "desc": "Create consistent, branded URLs for every app in your workspace."
+  },
+  {
+    "title": "Deployment, hosting, and ownership options with Lovable",
+    "url": "https://docs.lovable.dev/tips-tricks/deployment-hosting-ownership.md",
+    "desc": "What you own when you build with Lovable, which parts of an app can move to your own hosting or infrastructure, and which setup fits your requirements. For deployment and migration steps, see Deploying and hosting outside Lovable."
+  },
+  {
+    "title": "Deploying and hosting outside Lovable",
+    "url": "https://docs.lovable.dev/tips-tricks/external-deployment-hosting.md",
+    "desc": "How to take your code out of Lovable, deploy your app to your own hosting, verify it, migrate the built-in backend to your own Supabase project, and complete a move away from Lovable, with examples for managed platforms and your own infrastructure."
+  },
+  {
+    "title": "Growth tools",
+    "url": "https://docs.lovable.dev/features/growth-tools.md",
+    "desc": "Get help finding customers, improving search visibility, creating marketing content, and running ads on Google, YouTube, Facebook, and Instagram."
+  },
+  {
+    "title": "Optimize your app for SEO and AI search",
+    "url": "https://docs.lovable.dev/features/seo-aeo.md",
+    "desc": "Run an SEO and AI search review from the Analytics view, connect Google Search Console, and research keywords and content with Lovable to help your app rank on Google, Bing, and AI search engines."
+  },
+  {
+    "title": "Analytics",
+    "url": "https://docs.lovable.dev/features/analytics.md",
+    "desc": "Understand your app's traffic, search visibility, and ad campaign performance, and ask Lovable what to improve next."
+  },
+  {
+    "title": "Advertise your app",
+    "url": "https://docs.lovable.dev/features/ads.md",
+    "desc": "Create or import campaigns on Google, YouTube, Facebook, and Instagram. Lovable helps prepare your ads, manage campaigns, and improve performance over time."
+  },
+  {
+    "title": "Add payments to your app",
+    "url": "https://docs.lovable.dev/features/payments.md",
+    "desc": "Accept subscriptions and one-time payments in any Lovable app using built-in Paddle or Stripe integration."
+  },
+  {
+    "title": "Send branded emails from your own domain",
+    "url": "https://docs.lovable.dev/features/custom-emails.md",
+    "desc": "Send branded emails, including authentication emails and custom app emails, from your own email domain with automatic DNS, SPF, DKIM, and DMARC setup to improve deliverability, protect your domain reputation, and strengthen brand trust."
+  },
+  {
+    "title": "Publish your app as an MCP server",
+    "url": "https://docs.lovable.dev/features/agent-integrations.md",
+    "desc": "Turn a published Lovable app into an MCP server for ChatGPT, Claude, and other AI assistants. Configure tools, sign-in, permissions, and access."
+  },
+  {
+    "title": "Project monitoring",
+    "url": "https://docs.lovable.dev/features/project-monitoring.md",
+    "desc": "Let Lovable check your app on a schedule, catch bugs and visitor errors early, alert you by email, and help you fix them in the project chat."
+  },
+  {
+    "title": "Lovable workspace",
+    "url": "https://docs.lovable.dev/features/workspace.md",
+    "desc": "Manage your team's projects, members, billing, and settings in one central place."
+  },
+  {
+    "title": "Workspace admin settings",
+    "url": "https://docs.lovable.dev/features/workspace-admin-settings.md",
+    "desc": "Overview of settings available to workspace owners and admins, including workspace details, access and organization, templates, billing and usage, workspace domains, security and compliance, and development settings."
+  },
+  {
+    "title": "Show an announcement banner to your workspace",
+    "url": "https://docs.lovable.dev/features/workspace-announcements.md",
+    "desc": "Post one message, with links and a countdown timer, that every workspace member sees in Lovable."
+  },
+  {
+    "title": "Insights",
+    "url": "https://docs.lovable.dev/features/insights.md",
+    "desc": "See how your workspace adopts Lovable, with visits, active apps, active builders, connections added, top apps ranked by visits, and builders ranked by edits."
+  },
+  {
+    "title": "Delete a workspace",
+    "url": "https://docs.lovable.dev/introduction/delete-workspace.md",
+    "desc": "Delete a workspace you no longer need, learn what happens to its projects, members, and billing, and restore it within 60 days if you change your mind."
+  },
+  {
+    "title": "Organizations: run several workspaces as one company",
+    "url": "https://docs.lovable.dev/features/organizations.md",
+    "desc": "Manage several Enterprise workspaces under one organization: shared identity, one view of people and roles, and apps published to everyone in the company."
+  },
+  {
+    "title": "Set up organization identity: domains, SSO, and SCIM",
+    "url": "https://docs.lovable.dev/features/organization-identity.md",
+    "desc": "Verify domains, connect SSO, and provision members once for every workspace in your organization, and decide which workspaces the organization manages."
+  },
+  {
+    "title": "Manage people across the workspaces in your organization",
+    "url": "https://docs.lovable.dev/features/organization-people.md",
+    "desc": "See every member, role, and workspace assignment in your organization from one People page, add or remove people across workspaces, and manage org admins."
+  },
+  {
+    "title": "Manage workspace members from the People tab",
+    "url": "https://docs.lovable.dev/features/people.md",
+    "desc": "Manage workspace members, invitations, roles, access requests, and per-member credit limits."
+  },
+  {
+    "title": "Groups",
+    "url": "https://docs.lovable.dev/features/groups.md",
+    "desc": "Organize workspace members into groups for granular control over project access and published app visibility."
+  },
+  {
+    "title": "Manage workspace identity and user provisioning",
+    "url": "https://docs.lovable.dev/features/workspace-identity.md",
+    "desc": "Control how your team authenticates and joins your workspace: verified domains, SSO, enforced login, and automatic user provisioning."
+  },
+  {
+    "title": "Verify a domain for your workspace",
+    "url": "https://docs.lovable.dev/features/verified-domains.md",
+    "desc": "Prove ownership of your company's email domain with a DNS record to unlock SSO, automatic user provisioning, SCIM, and branded app URLs."
+  },
+  {
+    "title": "Set up workspace single sign-on (SSO)",
+    "url": "https://docs.lovable.dev/features/business/sso.md",
+    "desc": "Connect Okta, Auth0, Microsoft Entra ID, or any OIDC/SAML 2.0 provider to enable secure, centralized authentication for your workspace."
+  },
+  {
+    "title": "Set up enterprise-managed authentication",
+    "url": "https://docs.lovable.dev/features/enterprise-managed-auth.md",
+    "desc": "Let your team use Lovable from Claude through Okta single sign-on, without a separate Lovable sign-in. Configure access, test it, and disable it."
+  },
+  {
+    "title": "Set up SCIM user provisioning",
+    "url": "https://docs.lovable.dev/features/business/scim.md",
+    "desc": "Configure SCIM provisioning to automatically create, update, and remove users in Lovable using your identity provider. Manage user access, roles, and lifecycle centrally with Okta, Microsoft Entra ID, and other SCIM 2.0 providers."
+  },
+  {
+    "title": "Create and manage API keys",
+    "url": "https://docs.lovable.dev/features/api-keys.md",
+    "desc": "Create, scope, and revoke workspace API keys (access tokens) for the Lovable API, set per-key credit limits, and restrict keys to approved IP addresses."
+  },
+  {
+    "title": "Connect apps to Lovable with OAuth",
+    "url": "https://docs.lovable.dev/features/oauth-clients.md",
+    "desc": "Register OAuth clients to connect your apps to Lovable, choose scopes, request verification for sensitive scopes, and manage client credentials."
+  },
+  {
+    "title": "Privacy & security settings",
+    "url": "https://docs.lovable.dev/features/privacy-and-security-settings.md",
+    "desc": "Manage workspace-wide controls for member access, project publishing, external sharing, connected tools, security scans, and data protection."
+  },
+  {
+    "title": "Workspace policies",
+    "url": "https://docs.lovable.dev/features/workspace-policies.md",
+    "desc": "Require approval or block publishing in your Enterprise workspace. Set policies for public apps, connectors, external collaborators, and sensitive data findings."
+  },
+  {
+    "title": "Action center",
+    "url": "https://docs.lovable.dev/features/action-center.md",
+    "desc": "Approve or deny publish requests and review findings across your workspace in the Lovable Action center: assign owners, unpublish inactive apps, check spend and security."
+  },
+  {
+    "title": "EU inference",
+    "url": "https://docs.lovable.dev/features/eu-inference.md",
+    "desc": "Keep an Enterprise workspace's AI model requests on model endpoints in the European Union, while you build and for the AI features in your published apps."
+  },
+  {
+    "title": "Workspace security center",
+    "url": "https://docs.lovable.dev/features/security-center.md",
+    "desc": "Monitor security findings, scan coverage, scheduled scans, secrets, and dependency risks across every project in your workspace."
+  },
+  {
+    "title": "Security insights",
+    "url": "https://docs.lovable.dev/features/security-insights.md",
+    "desc": "Govern your Lovable workspace by identifying projects that need attention, with workspace-wide security, privacy, ownership, usage, and activity signals organized by review priority."
+  },
+  {
+    "title": "Audit logs",
+    "url": "https://docs.lovable.dev/features/audit-logs.md",
+    "desc": "Monitor workspace activity with Enterprise audit logs. Filter by action, member, resource, or time range to review events such as membership changes, project actions, authentication events, and workspace settings or configuration changes."
+  },
+  {
+    "title": "Export audit logs to your SIEM or cloud storage",
+    "url": "https://docs.lovable.dev/features/data-exports.md",
+    "desc": "Schedule exports of workspace audit logs to Amazon S3, Google Cloud Storage, Azure Blob Storage, Splunk, or Azure Log Analytics. Lovable delivers new data every hour or every 3 hours."
+  },
+  {
+    "title": "Export Lovable logs to Amazon S3",
+    "url": "https://docs.lovable.dev/features/data-exports-amazon-s3.md",
+    "desc": "Set up a scheduled data export from Lovable to an Amazon S3 bucket. Lovable assumes an IAM role through web identity federation and writes gzipped JSON Lines files."
+  },
+  {
+    "title": "Export Lovable logs to Azure Blob Storage",
+    "url": "https://docs.lovable.dev/features/data-exports-azure-blob-storage.md",
+    "desc": "Set up a scheduled data export from Lovable to an Azure Blob Storage container. Lovable signs in with a Microsoft Entra federated credential and writes gzipped JSON Lines files."
+  },
+  {
+    "title": "Export Lovable logs to Azure Log Analytics",
+    "url": "https://docs.lovable.dev/features/data-exports-azure-log-analytics.md",
+    "desc": "Set up a scheduled data export from Lovable to an Azure Log Analytics workspace. A setup script creates a table and data collection rule for each source."
+  },
+  {
+    "title": "Export Lovable logs to Google Cloud Storage",
+    "url": "https://docs.lovable.dev/features/data-exports-google-cloud-storage.md",
+    "desc": "Set up a scheduled data export from Lovable to a Google Cloud Storage bucket. Lovable writes gzipped JSON Lines files with short-lived tokens limited to your bucket and workspace path."
+  },
+  {
+    "title": "Export Lovable logs to Splunk",
+    "url": "https://docs.lovable.dev/features/data-exports-splunk.md",
+    "desc": "Set up a scheduled data export from Lovable to Splunk Cloud or Splunk Enterprise through the HTTP Event Collector (HEC). Lovable sends one JSON event per row with fields to search and remove duplicates."
+  },
+  {
+    "title": "Sensitive data scanning",
+    "url": "https://docs.lovable.dev/features/sensitive-data-scanning.md",
+    "desc": "Detect and manage personally identifiable information across chat messages, file uploads, project chat history, and the app's built-in database and storage."
+  },
+  {
+    "title": "Manage training data and privacy",
+    "url": "https://docs.lovable.dev/features/business/data-opt-out.md",
+    "desc": "Control whether your data is used to train Lovable's AI models, and understand how Lovable handles your personal data."
+  },
+  {
+    "title": "Account settings",
+    "url": "https://docs.lovable.dev/introduction/lovable-account-settings.md",
+    "desc": "Manage your personal identity, profile, preferences, and account security on Lovable from the Account settings dialog."
+  },
+  {
+    "title": "Two-factor authentication (2FA)",
+    "url": "https://docs.lovable.dev/introduction/two-factor-authentication-2-fa.md",
+    "desc": "Learn how to set up and manage two-factor authentication (2FA) on your Lovable account, and give your account an extra layer of security."
+  },
+  {
+    "title": "Delete account",
+    "url": "https://docs.lovable.dev/introduction/delete-account.md",
+    "desc": "Permanently delete your Lovable account, with a 30-day grace period to change your mind."
+  },
+  {
+    "title": "Subscription plans",
+    "url": "https://docs.lovable.dev/introduction/subscription-plans.md",
+    "desc": "Compare the Free, Pro, Business, and Enterprise subscription plans, see which features and credit tiers each plan includes, and find the student and teacher discount."
+  },
+  {
+    "title": "Change or cancel your subscription",
+    "url": "https://docs.lovable.dev/introduction/manage-subscription.md",
+    "desc": "Upgrade or downgrade your plan or credit tier, switch between monthly and annual billing, or cancel your Lovable subscription, and see what happens to your credits and features afterward."
+  },
+  {
+    "title": "Invoices, payments, and billing details",
+    "url": "https://docs.lovable.dev/introduction/invoices-and-billing.md",
+    "desc": "Find and download your Lovable invoices and receipts, update your payment method, billing address, and tax details, redeem a gift card, and fix a failed payment."
+  },
+  {
+    "title": "Credits and usage",
+    "url": "https://docs.lovable.dev/introduction/credits-and-usage.md",
+    "desc": "Understand how Lovable credits work: where credits come from, when they expire, what building, chat, Cloud, and AI usage cost, and how to check your balance."
+  },
+  {
+    "title": "Credit top-ups",
+    "url": "https://docs.lovable.dev/introduction/credit-top-ups.md",
+    "desc": "Buy more Lovable credits on Pro and Business with a one-time top-up, or set up auto top-up to add credits when your balance runs low."
+  },
+  {
+    "title": "Usage limits and alerts",
+    "url": "https://docs.lovable.dev/features/usage-limits-and-alerts.md",
+    "desc": "Set credit usage limits and low-balance alerts for your workspace, projects, members, groups, and access tokens. Get notified or block usage when a threshold is reached."
+  },
+  {
+    "title": "Low credit balance and out-of-credits recovery",
+    "url": "https://docs.lovable.dev/introduction/out-of-credits.md",
+    "desc": "Understand the low credit balance warnings, prevent running out of credits, and get building and your apps running again when your workspace credits run out."
+  },
+  {
+    "title": "How to build a real product with Lovable",
+    "url": "https://docs.lovable.dev/tips-tricks/from-idea-to-app.md",
+    "desc": "Shape the idea, plan, design, build in small loops, add a backend, test, publish, and keep improving your app once people are using it."
+  },
+  {
+    "title": "Launch your site on a custom domain",
+    "url": "https://docs.lovable.dev/tips-tricks/launch-on-a-custom-domain.md",
+    "desc": "Go from a finished project to a live site on your own domain: publish, buy or connect a domain, wait for it to go live, test it, and help people find it."
+  },
+  {
+    "title": "Prompting best practices",
+    "url": "https://docs.lovable.dev/prompting/prompting-one.md",
+    "desc": "Plan before you prompt, build by component, use real content, and apply design buzzwords to get consistent, high-quality results."
+  },
+  {
+    "title": "Prompt library",
+    "url": "https://docs.lovable.dev/prompting/prompting-library.md",
+    "desc": "Copy-paste prompts for the features people build most: authentication, dashboards, file uploads, payments, notifications, and AI, all built on the built-in backend."
+  },
+  {
+    "title": "Debug and improve your app",
+    "url": "https://docs.lovable.dev/prompting/prompting-debugging.md",
+    "desc": "Describe bugs so Lovable can fix them, investigate root causes in Plan mode, and improve a working app with codebase audits, performance checks, and careful changes."
+  },
+  {
+    "title": "Edit Google Docs, Sheets, and Slides in Lovable",
+    "url": "https://docs.lovable.dev/tips-tricks/google-workspace-editing.md",
+    "desc": "Add lightweight project instructions for embedding editable Google Docs, Sheets, and Slides files in Lovable previews, with connector setup guidance and iframe URL patterns."
+  },
+  {
+    "title": "FAQ",
+    "url": "https://docs.lovable.dev/introduction/faq.md",
+    "desc": "Common questions about Lovable: what it builds, what each feature does, what it costs, how your account works, and how Lovable handles security and your data."
+  },
+  {
+    "title": "Glossary",
+    "url": "https://docs.lovable.dev/glossary.md",
+    "desc": "Definitions of Lovable-specific terms, features, and the general web development concepts you'll encounter in the documentation."
+  },
+  {
+    "title": "Video tutorials and courses",
+    "url": "https://docs.lovable.dev/introduction/video-tutorials.md",
+    "desc": "Watch short video walkthroughs of Lovable features, follow a guided learning path in the Lovable Academy, or browse tutorials from the Lovable community."
+  },
+  {
+    "title": "Support policy",
+    "url": "https://docs.lovable.dev/introduction/support-policy.md",
+    "desc": "How to get help with Lovable: self-help resources, what support covers on each plan, how to contact the support team, response times, and enterprise support levels."
+  },
+  {
+    "title": "API basics",
+    "url": "https://docs.lovable.dev/api-reference/introduction.md",
+    "desc": "All the basics to get started with the Lovable API."
+  },
+  {
+    "title": "API changelog",
+    "url": "https://docs.lovable.dev/api-reference/changelog.md",
+    "desc": "Track stable versions and changes to the Lovable API."
+  },
+  {
+    "title": "List workspaces",
+    "url": "https://docs.lovable.dev/api-reference/workspaces/list-workspaces.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Get workspace",
+    "url": "https://docs.lovable.dev/api-reference/workspaces/get-workspace.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "List project collaborators",
+    "url": "https://docs.lovable.dev/api-reference/members-access/list-project-collaborators.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "List workspace groups",
+    "url": "https://docs.lovable.dev/api-reference/members-access/list-workspace-groups.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "List workspace members",
+    "url": "https://docs.lovable.dev/api-reference/members-access/list-workspace-members.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Get workspace member",
+    "url": "https://docs.lovable.dev/api-reference/members-access/get-workspace-member.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "List projects",
+    "url": "https://docs.lovable.dev/api-reference/projects/list-projects.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Get project",
+    "url": "https://docs.lovable.dev/api-reference/projects/get-project.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Delete project",
+    "url": "https://docs.lovable.dev/api-reference/projects/delete-project.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Update project",
+    "url": "https://docs.lovable.dev/api-reference/projects/update-project.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Create embed URL",
+    "url": "https://docs.lovable.dev/api-reference/projects/create-embed-url.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Publish project",
+    "url": "https://docs.lovable.dev/api-reference/deploy-domains/publish-project.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Unpublish project",
+    "url": "https://docs.lovable.dev/api-reference/deploy-domains/unpublish-project.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Update publish settings",
+    "url": "https://docs.lovable.dev/api-reference/deploy-domains/update-publish-settings.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Get publish status",
+    "url": "https://docs.lovable.dev/api-reference/deploy-domains/get-publish-status.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "List personal data findings",
+    "url": "https://docs.lovable.dev/api-reference/security-governance/list-personal-data-findings.md",
+    "desc": "**Plan:** `Enterprise`"
+  },
+  {
+    "title": "List security scans",
+    "url": "https://docs.lovable.dev/api-reference/security-governance/list-security-scans.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Get security scan",
+    "url": "https://docs.lovable.dev/api-reference/security-governance/get-security-scan.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "List security scan findings",
+    "url": "https://docs.lovable.dev/api-reference/security-governance/list-security-scan-findings.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Get workspace security insights",
+    "url": "https://docs.lovable.dev/api-reference/security-governance/get-workspace-security-insights.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "List workspace security project inventory",
+    "url": "https://docs.lovable.dev/api-reference/security-governance/list-workspace-security-project-inventory.md",
+    "desc": "**Plan:** `Enterprise`"
+  },
+  {
+    "title": "Get project analytics",
+    "url": "https://docs.lovable.dev/api-reference/analytics/get-project-analytics.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Get project analytics breakdowns",
+    "url": "https://docs.lovable.dev/api-reference/analytics/get-project-analytics-breakdowns.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Get project realtime analytics",
+    "url": "https://docs.lovable.dev/api-reference/analytics/get-project-realtime-analytics.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Get workspace analytics",
+    "url": "https://docs.lovable.dev/api-reference/analytics/get-workspace-analytics.md",
+    "desc": "**Plan:** `Business or higher`"
+  },
+  {
+    "title": "Events & hooks",
+    "url": "https://docs.lovable.dev/api-reference/events-and-hooks.md",
+    "desc": "Receive signed notifications when things happen in Lovable, or check actions before they proceed."
+  },
+  {
+    "title": "Before message submission",
+    "url": "https://docs.lovable.dev/api-reference/hooks/message-before-submit-v1.md",
+    "desc": "Return a decision from your HTTPS endpoint before this action continues."
+  },
+  {
+    "title": "Project created",
+    "url": "https://docs.lovable.dev/api-reference/events/project-created-v1.md",
+    "desc": "Receive a signed notification at your HTTPS endpoint."
+  },
+  {
+    "title": "Project deleted",
+    "url": "https://docs.lovable.dev/api-reference/events/project-deleted-v1.md",
+    "desc": "Receive a signed notification at your HTTPS endpoint."
+  },
+  {
+    "title": "Project published",
+    "url": "https://docs.lovable.dev/api-reference/events/project-published-v1.md",
+    "desc": "Receive a signed notification at your HTTPS endpoint."
+  },
+  {
+    "title": "Project transferred to another workspace",
+    "url": "https://docs.lovable.dev/api-reference/events/project-workspace-transferred-v1.md",
+    "desc": "Receive a signed notification at your HTTPS endpoint."
+  },
+  {
+    "title": "Lovable changelog",
+    "url": "https://docs.lovable.dev/changelog.md",
+    "desc": "Lovable changelog and product updates. Stay up to date with new features, improvements, and bug fixes shipped in Lovable."
+  }
+]

@@ -1,0 +1,745 @@
+{
+ "url": "https://lovable.dev/projects/053a133e-76d8-4c7c-b418-2ab5f486a673",
+ "chatItems": [
+  {
+   "tid": "chat-item-user_message",
+   "rect": {
+    "x": 1,
+    "y": 48,
+    "w": 429,
+    "h": 184
+   },
+   "text": ""
+  },
+  {
+   "tid": "chat-item-ai_message",
+   "rect": {
+    "x": 1,
+    "y": 232,
+    "w": 429,
+    "h": 64
+   },
+   "text": ""
+  }
+ ],
+ "buttons": [
+  {
+   "t": "陈 陈芊's Lovable",
+   "aria": "陈芊's Lovable workspace menu",
+   "tid": "workspace-menu-trigger"
+  },
+  {
+   "t": "Search Ctrl K",
+   "aria": null,
+   "tid": "sidebar-nav-search"
+  },
+  {
+   "t": "Connectors",
+   "aria": null,
+   "tid": "sidebar-rail-connectors"
+  },
+  {
+   "t": "Projects",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Filter projects",
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Project actions",
+   "tid": "sidebar-project-item-actions"
+  },
+  {
+   "t": "",
+   "aria": "Project actions",
+   "tid": "sidebar-project-item-actions"
+  },
+  {
+   "t": "",
+   "aria": "Project actions",
+   "tid": "sidebar-project-item-actions"
+  },
+  {
+   "t": "Recent chats",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "Upgrade to Pro Unlock more features",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "Share Lovable Up to 400 credits per referral",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "陈",
+   "aria": "Account menu",
+   "tid": "sidebar-user-menu-trigger"
+  },
+  {
+   "t": "",
+   "aria": "Halloween game",
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Open sidebar",
+   "tid": "rail-peek-logo"
+  },
+  {
+   "t": "Pixel Perfect Picture",
+   "aria": null,
+   "tid": "editor-nav-project-menu"
+  },
+  {
+   "t": "",
+   "aria": "Show history",
+   "tid": "editor-nav-history-toggle"
+  },
+  {
+   "t": "",
+   "aria": "Hide chat panel",
+   "tid": "editor-nav-sidebar-toggle"
+  },
+  {
+   "t": "Preview",
+   "aria": "Preview",
+   "tid": "view-switcher-preview"
+  },
+  {
+   "t": "Files",
+   "aria": "Files",
+   "tid": "view-switcher-files"
+  },
+  {
+   "t": "Code",
+   "aria": "Code",
+   "tid": "view-switcher-codeEditor"
+  },
+  {
+   "t": "More",
+   "aria": "More",
+   "tid": "view-switcher-more"
+  },
+  {
+   "t": "",
+   "aria": "Desktop view",
+   "tid": "preview-url-bar-device-toggle"
+  },
+  {
+   "t": "",
+   "aria": "Refresh",
+   "tid": "preview-url-bar-refresh"
+  },
+  {
+   "t": "Homepage",
+   "aria": "Homepage — current page, switch pages",
+   "tid": "preview-url-bar-page-trigger"
+  },
+  {
+   "t": "Share",
+   "aria": null,
+   "tid": "collaboration-invite-trigger"
+  },
+  {
+   "t": "Upgrade",
+   "aria": null,
+   "tid": "upgrade-button"
+  },
+  {
+   "t": "Publish",
+   "aria": "Publish",
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Reference",
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Copy message link",
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "Finish up",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "Add credits",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Chat actions",
+   "tid": "chat-input-action-menu-trigger"
+  },
+  {
+   "t": "Build",
+   "aria": null,
+   "tid": "chat-input-mode-selector"
+  },
+  {
+   "t": "",
+   "aria": "Transcribe",
+   "tid": "chat-input-voice-record"
+  },
+  {
+   "t": "",
+   "aria": "Send message",
+   "tid": "chat-input-send"
+  },
+  {
+   "t": "",
+   "aria": "Select elements",
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Edit text inline",
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Draw annotation",
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Add a comment",
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Undo",
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Redo",
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": null,
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Close",
+   "tid": null
+  },
+  {
+   "t": "",
+   "aria": "Select elements",
+   "tid": "preview-toolbar-mode-selection"
+  },
+  {
+   "t": "",
+   "aria": "Edit text inline",
+   "tid": "preview-toolbar-mode-text"
+  },
+  {
+   "t": "",
+   "aria": "Draw annotation",
+   "tid": "preview-toolbar-mode-drawing"
+  },
+  {
+   "t": "",
+   "aria": "Add a comment",
+   "tid": "preview-toolbar-mode-comment"
+  },
+  {
+   "t": "",
+   "aria": "Toolbar options",
+   "tid": "preview-toolbar-options"
+  },
+  {
+   "t": "",
+   "aria": "Minimize toolbar",
+   "tid": "preview-toolbar-minimize-button"
+  }
+ ],
+ "dialogs": [],
+ "panels": [
+  {
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 1441,
+    "h": 901
+   },
+   "len": 611,
+   "tids": [
+    "workspace-menu-trigger",
+    "sidebar-nav-home",
+    "sidebar-nav-search",
+    "sidebar-rail-projects",
+    "sidebar-nav-all-projects",
+    "sidebar-rail-connectors",
+    "sidebar-rail-chats",
+    "sidebar-project-item",
+    "sidebar-project-item-actions",
+    "sidebar-recent-chats-new-chat",
+    "sidebar-user-menu-trigger",
+    "rail-edge-drag-handle"
+   ]
+  },
+  {
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 1441,
+    "h": 901
+   },
+   "len": 611,
+   "tids": [
+    "workspace-menu-trigger",
+    "sidebar-nav-home",
+    "sidebar-nav-search",
+    "sidebar-rail-projects",
+    "sidebar-nav-all-projects",
+    "sidebar-rail-connectors",
+    "sidebar-rail-chats",
+    "sidebar-project-item",
+    "sidebar-project-item-actions",
+    "sidebar-recent-chats-new-chat",
+    "sidebar-user-menu-trigger",
+    "rail-edge-drag-handle"
+   ]
+  },
+  {
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 1441,
+    "h": 901
+   },
+   "len": 611,
+   "tids": [
+    "workspace-menu-trigger",
+    "sidebar-nav-home",
+    "sidebar-nav-search",
+    "sidebar-rail-projects",
+    "sidebar-nav-all-projects",
+    "sidebar-rail-connectors",
+    "sidebar-rail-chats",
+    "sidebar-project-item",
+    "sidebar-project-item-actions",
+    "sidebar-recent-chats-new-chat",
+    "sidebar-user-menu-trigger",
+    "rail-edge-drag-handle"
+   ]
+  },
+  {
+   "rect": {
+    "x": -304,
+    "y": 88,
+    "w": 256,
+    "h": 693
+   },
+   "len": 236,
+   "tids": [
+    "sidebar-nav-home",
+    "sidebar-nav-search",
+    "sidebar-rail-projects",
+    "sidebar-nav-all-projects",
+    "sidebar-rail-connectors",
+    "sidebar-rail-chats",
+    "sidebar-project-item",
+    "sidebar-project-item-actions",
+    "sidebar-recent-chats-new-chat"
+   ]
+  },
+  {
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 1441,
+    "h": 901
+   },
+   "len": 276,
+   "tids": [
+    "rail-edge-drag-handle",
+    "project-editor",
+    "rail-peek-logo",
+    "editor-nav-project-menu",
+    "editor-nav-history-toggle",
+    "editor-nav-sidebar-toggle",
+    "view-switcher-preview",
+    "view-switcher-files",
+    "view-switcher-codeEditor",
+    "view-switcher-more",
+    "preview-url-bar-device-toggle",
+    "preview-url-bar-refresh"
+   ]
+  },
+  {
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 1441,
+    "h": 901
+   },
+   "len": 276,
+   "tids": [
+    "rail-edge-drag-handle",
+    "project-editor",
+    "rail-peek-logo",
+    "editor-nav-project-menu",
+    "editor-nav-history-toggle",
+    "editor-nav-sidebar-toggle",
+    "view-switcher-preview",
+    "view-switcher-files",
+    "view-switcher-codeEditor",
+    "view-switcher-more",
+    "preview-url-bar-device-toggle",
+    "preview-url-bar-refresh"
+   ]
+  },
+  {
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 1441,
+    "h": 901
+   },
+   "len": 276,
+   "tids": [
+    "project-editor",
+    "rail-peek-logo",
+    "editor-nav-project-menu",
+    "editor-nav-history-toggle",
+    "editor-nav-sidebar-toggle",
+    "view-switcher-preview",
+    "view-switcher-files",
+    "view-switcher-codeEditor",
+    "view-switcher-more",
+    "preview-url-bar-device-toggle",
+    "preview-url-bar-refresh",
+    "preview-url-bar-page-trigger"
+   ]
+  },
+  {
+   "rect": {
+    "x": 1,
+    "y": 0,
+    "w": 1440,
+    "h": 901
+   },
+   "len": 276,
+   "tids": [
+    "rail-peek-logo",
+    "editor-nav-project-menu",
+    "editor-nav-history-toggle",
+    "editor-nav-sidebar-toggle",
+    "view-switcher-preview",
+    "view-switcher-files",
+    "view-switcher-codeEditor",
+    "view-switcher-more",
+    "preview-url-bar-device-toggle",
+    "preview-url-bar-refresh",
+    "preview-url-bar-page-trigger",
+    "preview-url-bar-open-new-tab"
+   ]
+  },
+  {
+   "rect": {
+    "x": 1,
+    "y": 0,
+    "w": 1440,
+    "h": 901
+   },
+   "len": 276,
+   "tids": [
+    "rail-peek-logo",
+    "editor-nav-project-menu",
+    "editor-nav-history-toggle",
+    "editor-nav-sidebar-toggle",
+    "view-switcher-preview",
+    "view-switcher-files",
+    "view-switcher-codeEditor",
+    "view-switcher-more",
+    "preview-url-bar-device-toggle",
+    "preview-url-bar-refresh",
+    "preview-url-bar-page-trigger",
+    "preview-url-bar-open-new-tab"
+   ]
+  },
+  {
+   "rect": {
+    "x": 1,
+    "y": 0,
+    "w": 1440,
+    "h": 901
+   },
+   "len": 276,
+   "tids": [
+    "rail-peek-logo",
+    "editor-nav-project-menu",
+    "editor-nav-history-toggle",
+    "editor-nav-sidebar-toggle",
+    "view-switcher-preview",
+    "view-switcher-files",
+    "view-switcher-codeEditor",
+    "view-switcher-more",
+    "preview-url-bar-device-toggle",
+    "preview-url-bar-refresh",
+    "preview-url-bar-page-trigger",
+    "preview-url-bar-open-new-tab"
+   ]
+  },
+  {
+   "rect": {
+    "x": 1,
+    "y": 48,
+    "w": 1440,
+    "h": 853
+   },
+   "len": 173,
+   "tids": [
+    "chat-timeline",
+    "chat-scroll-container",
+    "chat-item-user_message",
+    "user-message-bubble",
+    "chat-item-ai_message",
+    "agent-message",
+    "chat-composer-area",
+    "chat-nudge-overlay",
+    "chat-composer-pending-area",
+    "composer-glow-halo",
+    "chat-composer",
+    "chat-composer-editor"
+   ]
+  },
+  {
+   "rect": {
+    "x": 1,
+    "y": 48,
+    "w": 1440,
+    "h": 853
+   },
+   "len": 173,
+   "tids": [
+    "chat-timeline",
+    "chat-scroll-container",
+    "chat-item-user_message",
+    "user-message-bubble",
+    "chat-item-ai_message",
+    "agent-message",
+    "chat-composer-area",
+    "chat-nudge-overlay",
+    "chat-composer-pending-area",
+    "composer-glow-halo",
+    "chat-composer",
+    "chat-composer-editor"
+   ]
+  },
+  {
+   "rect": {
+    "x": 1,
+    "y": 48,
+    "w": 1440,
+    "h": 853
+   },
+   "len": 173,
+   "tids": [
+    "chat-timeline",
+    "chat-scroll-container",
+    "chat-item-user_message",
+    "user-message-bubble",
+    "chat-item-ai_message",
+    "agent-message",
+    "chat-composer-area",
+    "chat-nudge-overlay",
+    "chat-composer-pending-area",
+    "composer-glow-halo",
+    "chat-composer",
+    "chat-composer-editor"
+   ]
+  },
+  {
+   "rect": {
+    "x": 1,
+    "y": 48,
+    "w": 429,
+    "h": 853
+   },
+   "len": 173,
+   "tids": [
+    "chat-timeline",
+    "chat-scroll-container",
+    "chat-item-user_message",
+    "user-message-bubble",
+    "chat-item-ai_message",
+    "agent-message",
+    "chat-composer-area",
+    "chat-nudge-overlay",
+    "chat-composer-pending-area",
+    "composer-glow-halo",
+    "chat-composer",
+    "chat-composer-editor"
+   ]
+  },
+  {
+   "rect": {
+    "x": 1,
+    "y": 48,
+    "w": 429,
+    "h": 853
+   },
+   "len": 173,
+   "tids": [
+    "chat-timeline",
+    "chat-scroll-container",
+    "chat-item-user_message",
+    "user-message-bubble",
+    "chat-item-ai_message",
+    "agent-message",
+    "chat-composer-area",
+    "chat-nudge-overlay",
+    "chat-composer-pending-area",
+    "composer-glow-halo",
+    "chat-composer",
+    "chat-composer-editor"
+   ]
+  },
+  {
+   "rect": {
+    "x": 1,
+    "y": 48,
+    "w": 429,
+    "h": 853
+   },
+   "len": 173,
+   "tids": [
+    "chat-timeline",
+    "chat-scroll-container",
+    "chat-item-user_message",
+    "user-message-bubble",
+    "chat-item-ai_message",
+    "agent-message",
+    "chat-composer-area",
+    "chat-nudge-overlay",
+    "chat-composer-pending-area",
+    "composer-glow-halo",
+    "chat-composer",
+    "chat-composer-editor"
+   ]
+  },
+  {
+   "rect": {
+    "x": 1,
+    "y": 618,
+    "w": 429,
+    "h": 283
+   },
+   "len": 173,
+   "tids": [
+    "chat-nudge-overlay",
+    "chat-composer-pending-area",
+    "composer-glow-halo",
+    "chat-composer",
+    "chat-composer-editor",
+    "chat-composer-button-row",
+    "chat-input-action-menu-trigger",
+    "chat-input-mode-selector",
+    "chat-input-voice-record",
+    "chat-input-send"
+   ]
+  }
+ ],
+ "tids": [
+  "workspace-menu-trigger",
+  "sidebar-nav-home",
+  "sidebar-nav-search",
+  "sidebar-rail-projects",
+  "sidebar-nav-all-projects",
+  "sidebar-rail-connectors",
+  "sidebar-rail-chats",
+  "sidebar-project-item",
+  "sidebar-project-item-actions",
+  "sidebar-recent-chats-new-chat",
+  "sidebar-user-menu-trigger",
+  "rail-edge-drag-handle",
+  "project-editor",
+  "rail-peek-logo",
+  "editor-nav-project-menu",
+  "editor-nav-history-toggle",
+  "editor-nav-sidebar-toggle",
+  "view-switcher-preview",
+  "view-switcher-files",
+  "view-switcher-codeEditor",
+  "view-switcher-more",
+  "preview-url-bar-device-toggle",
+  "preview-url-bar-refresh",
+  "preview-url-bar-page-trigger",
+  "preview-url-bar-open-new-tab",
+  "collaboration-invite-trigger",
+  "upgrade-button",
+  "chat-timeline",
+  "chat-scroll-container",
+  "chat-item-user_message",
+  "user-message-bubble",
+  "chat-item-ai_message",
+  "agent-message",
+  "chat-composer-area",
+  "chat-nudge-overlay",
+  "chat-composer-pending-area",
+  "composer-glow-halo",
+  "chat-composer",
+  "chat-composer-editor",
+  "chat-composer-button-row",
+  "chat-input-action-menu-trigger",
+  "chat-input-mode-selector",
+  "chat-input-voice-record",
+  "chat-input-send",
+  "editor-panel-resize-handle",
+  "preview-toolbar-mode-selection",
+  "preview-toolbar-mode-text",
+  "preview-toolbar-mode-drawing",
+  "preview-toolbar-mode-comment",
+  "preview-toolbar-options",
+  "preview-toolbar-minimize-button"
+ ],
+ "body": "Skip to chat input 陈 陈芊's Lovable New Search Ctrl K Projects Projects Connectors Chats Projects P Pixel Perfect Picture Pixel Perfect Picture P Pixel Perfect Replica Pixel Perfect Replica M Mouse Tank Tactics Mouse Tank Tactics See all projects Recent chats No chats yet Upgrade to Pro Unlock more features Share Lovable Up to 400 credits per referral 陈 Pixel Perfect Picture Preview Files Code More Preview Files Code More / Homepage Share Upgrade Publish Add credits to keep going Your work is paused because you're out of credits. 5 free credits arrive in 6 hours. Finish up Add credits Tell Lovable what to do instead... Build"
+}

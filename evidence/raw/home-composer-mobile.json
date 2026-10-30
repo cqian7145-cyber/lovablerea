@@ -1,0 +1,31 @@
+{
+  "navVisible": false,
+  "menuButton": [
+    "Toggle navigation menu",
+    "Additional actions",
+    "Transcribe",
+    "Show previous customer story",
+    "Show next customer story",
+    "Show customer story 1",
+    "Show customer story 3",
+    "Show customer story 4",
+    "Show previous customer story",
+    "Show next customer story"
+  ],
+  "scrollWidth": 375,
+  "innerWidth": 390,
+  "composerRects": [
+    {
+      "x": 37,
+      "y": 513,
+      "w": 302,
+      "h": 40
+    },
+    {
+      "x": 37,
+      "y": 9322,
+      "w": 302,
+      "h": 40
+    }
+  ]
+}

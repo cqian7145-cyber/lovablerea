@@ -1,0 +1,10 @@
+# 浏览器会话 profile（含登录态，绝对不提交）
+.cdp-profile/
+# 第三方 REA 源码克隆（不属本研究产物）
+rea-main/
+# 沙箱 ACL 修复的备份与报告
+_acl_reports/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

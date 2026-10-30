@@ -1,0 +1,1547 @@
+[
+  {
+    "name": "home-app",
+    "url": "https://lovable.dev/home",
+    "startedAt": "2026-10-30T17:04:14.966Z",
+    "finalUrl": "https://lovable.dev/home",
+    "title": "App & Website Builder | Build Software in Minutes | Lovable",
+    "text": "Skip to main content\nWe use cookies to enhance your development experience and keep your data secure. Privacy Policy\nOK\nManage preferences\nDo not sell my data\nSolutions\nResources\nCommunity\nEnterprise\nPricing\nSecurity\nLog in\nGet started\nBuild something Lovable\n\nBring a new product, internal tool, or entire company to life.\n\nAsk Lovable\n\n\n\n\nBuild\nOne platform. Endless possibilities.\n\nIf you can describe it, you can build it. Create, run, and manage entire products and businesses from scratch.\n\nYou bring the idea. Lovable brings it to life.\n\nDescribe what you want in plain language. Watch as Lovable builds production-grade software with you in real time.\n\nPreview\nPurpose-built for engineering teams. Triage, track, and resolve issues without slowing down.\nGet started for free\nBug tracking for teams\nthat ship fast\nh1\nRefine your design and deploy\n\nIterate on your creation until you’re happy with the finished product. Then ship your idea and start using it immediately.\n\nAnalytics\nCloud\nConnectors\nSecurity\nAgent integrations\nPayments\nSEO & AI search\nDepend on Lovable, from end to end\n\nLovable handles your end-to-end infrastructure – from hosting and authentication to payments and integrations.\n\nFor building and beyond\n\nLovable runs on enterprise-grade infrastructure – so you can create full-stack software that scales.\n\nHosting, handled\nLovable handles hosting, SSL, and backend infrastructure. Your code and data stay yours. Always.\nYour app stack, connected\nPayments, processed\nSafe and secure, as standard\nWorks wherever, whenever\nTrusted by top brands\n\nTop companies empower their employees to create with Lovable. Join them today and build the software that runs your business.\n\nLearn more\nAdidas\nAsana\nElevenLabs\nZendesk\nWorkday\nNvidia\nThe proof is in production\n\nThese companies built the software they needed with Lovable. Now they run their businesses on it.\n\nSee all customer stories\n\nThese three students created an AI system from the ground up to help anyone learn faster.\n\n“When I realized Lovable could make whatever I wanted, I was like ‘Holy shit, this is the best thing I’ve ever seen in my life’.”\nARR in 30 days\n€130K\nusers signed up in two days\n2500+\nARR partnership announced\n€7.5M\n\nAndreas Melander\n\nCo-founder\n\nRead story\nKlar\nMillions count on Lovable\n\nPeople across the world are using Lovable every day to solve problems and seize opportunities. Join them now and turn ‘someday’ into today.\n\nNew projects built every week\n1.2 million\nProjects built with Lovable\n60 million\nMonthly visits to Lovable-built projects\n900 million\nAI App Builder\nReady to bring your idea to life?\nAsk Lovable to create a landin\n\n\n\n\nBuild\nCompany\nCareers\nPress & media\nEnterprise\nSecurity\nTrust center\n(opens in new window)\nPartnerships\nProduct\nPricing\nStudent discount\nFor work\nSmall businesses\nFounders\nProduct Managers\nDesigners\nMarketers\nSales\nOps\nPeople\nApp builder\nWebsite builder\nAI-powered apps\nPrototyping\nInternal Tools\nDownload apps\nConnections\n(opens in new window)\nChangelog\n(opens in new window)\nStatus\n(opens in new window)\nResources\nLearn\n(opens in new window)\nTemplates\nGuides\nConnectors\nMCP server\nVideos\nBlog\nSupport\nReviews\nSitemap\nLegal\nPrivacy policy\n(opens in new window)\nDo not sell or share my personal information\nCookie settings\nEnterprise terms\n(opens in new window)\nGeneral terms\n(opens in new window)\nDesktop app terms\n(opens in new window)\nDomain registration terms\n(opens in new window)\nDMCA copyright policy\n(opens in new window)\nAccessibility\n(opens in new window)\nPlatform rules\n(opens in new window)\nReport abuse\n(opens in new window)\nReport security concerns\n(opens in new window)\nDPA\n(opens in new window)\nCommunity\nBecome a partner\nHire a Lovable partner\n(opens in new window)\nAffiliates\nCode of conduct\nDiscord\n(opens in new window)\nReddit\n(opens in new window)\nX / Twitter\n(opens in new window)\nYouTube\n(opens in new window)\nLinkedIn\n(opens in new window)\nEN",
+    "headings": [
+      "H2: Build something Lovable",
+      "H2: One platform. Endless possibilities.",
+      "H3: You bring the idea. Lovable brings it to life.",
+      "H3: Refine your design and deploy",
+      "H3: Depend on Lovable, from end to end",
+      "H2: For building and beyond",
+      "H3: Hosting, handled",
+      "H3: Your app stack, connected",
+      "H3: Payments, processed",
+      "H3: Safe and secure, as standard",
+      "H3: Works wherever, whenever",
+      "H3: Hosting, handled",
+      "H3: Your app stack, connected",
+      "H3: Payments, processed",
+      "H3: Safe and secure, as standard",
+      "H3: Works wherever, whenever",
+      "H2: Trusted by top brands",
+      "H2: The proof is in production",
+      "H2: Millions count on Lovable",
+      "H1: AI App Builder",
+      "H2: Ready to bring your idea to life?",
+      "H2: Company",
+      "H2: Product",
+      "H2: Resources",
+      "H2: Legal",
+      "H2: Community"
+    ],
+    "buttons": [
+      "OK",
+      "Manage preferences",
+      "Do not sell my data",
+      "Toggle navigation menu",
+      "Solutions",
+      "Resources",
+      "Additional actions",
+      "Build",
+      "Transcribe",
+      "Hosting, handled",
+      "Your app stack, connected",
+      "Payments, processed",
+      "Safe and secure, as standard",
+      "Works wherever, whenever",
+      "Show previous customer story",
+      "Show next customer story",
+      "Show customer story 1",
+      "Show customer story 3",
+      "Show customer story 4",
+      "Show previous customer story",
+      "Show next customer story",
+      "Additional actions",
+      "Build",
+      "Transcribe",
+      "EN"
+    ],
+    "hosts": [
+      "lovable.dev",
+      "assets.lovable.dev",
+      "o4506071217143808.ingest.us.sentry.io",
+      "api.lovable.dev"
+    ],
+    "apiCalls": [
+      {
+        "m": "POST",
+        "u": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "OPTIONS",
+        "u": "https://api.lovable.dev/consent/policy",
+        "s": 200,
+        "t": "Other"
+      },
+      {
+        "m": "GET",
+        "u": "https://api.lovable.dev/consent/policy",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/auth-shared-leaves-CmFg8fHe.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1c038d93a442abfb368123c39d8307c61b9f50f4e88b307ac5fb3fdb8056a5a7",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/e92a63b641f7839fdf318f4ff33c800e1b523b0f37dcb473d554463730d513ac",
+        "s": 200,
+        "t": "Fetch"
+      }
+    ],
+    "counts": {
+      "requests": 226
+    }
+  },
+  {
+    "name": "login",
+    "url": "https://lovable.dev/login",
+    "startedAt": "2026-10-30T17:04:23.527Z",
+    "finalUrl": "https://lovable.dev/login",
+    "title": "Login",
+    "text": "We use cookies to enhance your development experience and keep your data secure. Privacy Policy\nOK\nManage preferences\nDo not sell my data\nLog in\nContinue with Google\nContinue with GitHub\nContinue with Apple\nOR\nEmail\nContinue\nDon't have an account? Create your account\nSSO available on Business and Enterprise plans\n\nAsk Lovable to build your saas startup.",
+    "headings": [
+      "H1: Log in"
+    ],
+    "buttons": [
+      "OK",
+      "Manage preferences",
+      "Do not sell my data",
+      "Continue with Google",
+      "Continue with GitHub",
+      "Continue with Apple",
+      "Continue"
+    ],
+    "hosts": [
+      "lovable.dev",
+      "o4506071217143808.ingest.us.sentry.io",
+      "api.lovable.dev",
+      "accounts.google.com",
+      "rs.lovable.dev"
+    ],
+    "apiCalls": [
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/i18n-fn/auth--loginSignupTypewriter-CvDiTWRY.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/i18n-fn/auth--auth-DcSt7e9G.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/i18n-fn/auth-1PosrHIk.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "POST",
+        "u": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://api.lovable.dev/consent/policy",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/auth-shared-leaves-CmFg8fHe.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://rs.lovable.dev/sourceConfig?p=npm&v=3.34.3&build=modern&writeKey=30uiF44drV1UnRmUEUVhfQ2L500&lockIntegrationsVersion=true&lockPluginsVersion=true",
+        "s": 200,
+        "t": "XHR"
+      }
+    ],
+    "counts": {
+      "requests": 192
+    }
+  },
+  {
+    "name": "pricing",
+    "url": "https://lovable.dev/pricing",
+    "startedAt": "2026-10-30T17:04:27.829Z",
+    "finalUrl": "https://lovable.dev/pricing",
+    "title": "Lovable Pricing",
+    "text": "Skip to main content\nWe use cookies to enhance your development experience and keep your data secure. Privacy Policy\nOK\nManage preferences\nDo not sell my data\nSolutions\nResources\nCommunity\nEnterprise\nPricing\nSecurity\nLog in\nGet started\nPricing\n\nStart for free. Upgrade to get the capacity that exactly matches your team's needs.\n\nPlans\nMonthly\nYearly\n2 months free\nFree\nDiscover what Lovable can do for you\n\n$0\n\nGet started\nNo credit card needed\nFree grants\nUnlimited collaborators\n5 lovable.app domains\nInvite-only publishing\nCloud\nCommunity support\nPro\nDesigned for fast-moving teams building together in real time.\n\n$25\n\n/ month\n\n100 monthly credits\nGet started\nUnlimited users\nFree grants\nAll Free features\n100 Pro credits\nCredit rollovers\nOn-demand credit top-ups\nUnlimited lovable.app domains\nCustom domains\nUser roles & permissions\nPer-member credit limits\nRemove the Lovable badge\nEmail support\nDesign systems\nBusiness\nAdvanced controls and power features for growing departments\n\n$50\n\n/ month\n\n100 monthly credits\nGet started\nUnlimited users\nFree grants\nAll Pro features\n100 Business credits\nTeam workspace\nRole-based access\nWorkspace publish\nSSO\nSecurity center\nDesign templates\nPriority support\nEnterprise\nBuilt for large orgs needing flexibility, scale, and governance.\nPlatform fee\nBook a demo\nVolume based pricing\nUnlimited users\nAll Business features\nDirectory sync (SCIM)\nAudit logs\nRestrict who publishes and invites\nAuto-retire abandoned apps\nScheduled deep security scans\nSensitive data detection and control\nAdvanced design systems support\nGit sync data residency\nEU inference\nGitHub Enterprise, cloud or self-hosted\nPrivate npm registry\nNamed CSM, onboarding and deployment\nCustom SLA\nLovable for students\n\nVerify student status and get access to up to 50% off Lovable Pro.\n\nGet started\nLovable for campus\n\nBilling and administrative controls for universities and colleges.\n\nContact sales\nLovable for kids\n\nCompliant access & curriculum for schools in partnership with imagi.\n\nLearn more\nSecurity and compliance\nEnterprise-grade security and compliance certifications\nLearn more\nFrequently asked questions\nWhat is Lovable and how does it work?\nWhat is a credit?\nHow do I use credits in Lovable?\nDo credits expire?\nWhat happens to my credits if my subscription ends?\nAre credits refundable?\nWhat is included in free and paid plans?\nHow do I buy credits for a team, class, or community?\nDo you charge per seat or per user?\nHow much does it cost to run my app on Lovable?\nWhy is the Business plan more expensive?\nWho owns the projects and code?\nDo you offer a student discount?\nWhere can I find out more?\nRelated articles\nPlans and credits\nCompany\nCareers\nPress & media\nEnterprise\nSecurity\nTrust center\n(opens in new window)\nPartnerships\nProduct\nPricing\nStudent discount\nFor work\nSmall businesses\nFounders\nProduct Managers\nDesigners\nMarketers\nSales\nOps\nPeople\nApp builder\nWebsite builder\nAI-powered apps\nPrototyping\nInternal Tools\nDownload apps\nConnections\n(opens in new window)\nChangelog\n(opens in new window)\nStatus\n(opens in new window)\nResources\nLearn\n(opens in new window)\nTemplates\nGuides\nConnectors\nMCP server\nVideos\nBlog\nSupport\nReviews\nSitemap\nLegal\nPrivacy policy\n(opens in new window)\nDo not sell or share my personal information\nCookie settings\nEnterprise terms\n(opens in new window)\nGeneral terms\n(opens in new window)\nDesktop app terms\n(opens in new window)\nDomain registration terms\n(opens in new window)\nDMCA copyright policy\n(opens in new window)\nAccessibility\n(opens in new window)\nPlatform rules\n(opens in new window)\nReport abuse\n(opens in new window)\nReport security concerns\n(opens in new window)\nDPA\n(opens in new window)\nCommunity\nBecome a partner\nHire a Lovable partner\n(opens in new window)\nAffiliates\nCode of conduct\nDiscord\n(opens in new window)\nReddit\n(opens in new window)\nX / Twitter\n(opens in new window)\nYouTube\n(opens in new window)\nLinkedIn\n(opens in new window)\nEN",
+    "headings": [
+      "H1: Pricing",
+      "H2: Plans",
+      "H3: Free",
+      "H3: Pro",
+      "H3: Business",
+      "H3: Enterprise",
+      "H3: Lovable for students",
+      "H3: Lovable for campus",
+      "H3: Lovable for kids",
+      "H3: Security and compliance",
+      "H2: Frequently asked questions",
+      "H3: What is Lovable and how does it work?",
+      "H3: What is a credit?",
+      "H3: How do I use credits in Lovable?",
+      "H3: Do credits expire?",
+      "H3: What happens to my credits if my subscription ends?",
+      "H3: Are credits refundable?",
+      "H3: What is included in free and paid plans?",
+      "H3: How do I buy credits for a team, class, or community?",
+      "H3: Do you charge per seat or per user?",
+      "H3: How much does it cost to run my app on Lovable?",
+      "H3: Why is the Business plan more expensive?",
+      "H3: Who owns the projects and code?",
+      "H3: Do you offer a student discount?",
+      "H3: Where can I find out more?",
+      "H3: Related articles",
+      "H2: Company",
+      "H2: Product",
+      "H2: Resources",
+      "H2: Legal",
+      "H2: Community"
+    ],
+    "buttons": [
+      "OK",
+      "Manage preferences",
+      "Do not sell my data",
+      "Toggle navigation menu",
+      "Solutions",
+      "Resources",
+      "Monthly",
+      "Yearly\n2 months free",
+      "Free grants",
+      "Invite-only publishing info",
+      "100 monthly credits",
+      "Free grants",
+      "Credit rollovers info",
+      "100 monthly credits",
+      "Free grants",
+      "Workspace publishing info",
+      "What is Lovable and how does it work?",
+      "What is a credit?",
+      "How do I use credits in Lovable?",
+      "Do credits expire?",
+      "What happens to my credits if my subscription ends?",
+      "Are credits refundable?",
+      "What is included in free and paid plans?",
+      "How do I buy credits for a team, class, or community?",
+      "Do you charge per seat or per user?",
+      "How much does it cost to run my app on Lovable?",
+      "Why is the Business plan more expensive?",
+      "Who owns the projects and code?",
+      "Do you offer a student discount?",
+      "Where can I find out more?",
+      "EN"
+    ],
+    "hosts": [
+      "lovable.dev",
+      "o4506071217143808.ingest.us.sentry.io",
+      "api.lovable.dev",
+      "rs.lovable.dev"
+    ],
+    "apiCalls": [
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/auth-shared-leaves-CmFg8fHe.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "POST",
+        "u": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://api.lovable.dev/consent/policy",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1c038d93a442abfb368123c39d8307c61b9f50f4e88b307ac5fb3fdb8056a5a7",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/e92a63b641f7839fdf318f4ff33c800e1b523b0f37dcb473d554463730d513ac",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://rs.lovable.dev/sourceConfig?p=npm&v=3.34.3&build=modern&writeKey=30uiF44drV1UnRmUEUVhfQ2L500&lockIntegrationsVersion=true&lockPluginsVersion=true",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "s": 200,
+        "t": "XHR"
+      }
+    ],
+    "counts": {
+      "requests": 170
+    }
+  },
+  {
+    "name": "templates",
+    "url": "https://lovable.dev/templates",
+    "startedAt": "2026-10-30T17:04:32.807Z",
+    "finalUrl": "https://lovable.dev/templates",
+    "title": "Website Templates for AI-Powered Apps and Sites | Lovable",
+    "text": "Skip to main content\nWe use cookies to enhance your development experience and keep your data secure. Privacy Policy\nOK\nManage preferences\nDo not sell my data\nSolutions\nResources\nCommunity\nEnterprise\nPricing\nSecurity\nLog in\nGet started\nWebsite and app templates\nBuilt with AI\n\nProduction-ready apps from the Lovable community\n\n228 results\nSkip to templates\nCategory\nAll\nWebsites\nApps\nSubcategory\nPortfolio\nSaaS\nBlog\nInternal Tools\nDashboards\nEditorial\nDeveloper Tools\nMusic\nEcommerce\nProduct Management\nEvents\nProject Management\nEducation\nServices\nBusiness Tools\nResume\nFinance\nLanding Page\nProductivity\nLifestyle\nPresentations\nPersona\nFounders\nMarketers\nDesigners\nSalespeople\nProduct managers\nOperators\nHR teams\nEngineers\nEducators\nStudents\nProject managers\nCommunity builders\nNonprofits\nMedia & publishers\nAll templates (228)\nAI Moodboard Canvas\nDrag-and-drop images with text notes\nApps\nLovable slides\nCode-powered presentation builder\nApps\nHomeware store website template\nDual-image cards with saved wishlist\nWebsites\nLovable Insights\nGoverned metrics, self-serve dashboards\nApps\nDark Creative Portfolio template\nHover-reveal images with parallax hero\nWebsites\nTo-Do List App\nDue dates, starred tasks and wallpapers\nApps\nTherapist Website\nTeam profiles, session rates and forms\nWebsites\nQuiz Builder\nPass marks, timers and answer feedback\nApps\nCaterer Website\nMenus, packages, and inquiry capture\nWebsites\nSurvey Builder\nDrag-and-drop cards with live results\nApps\nFood Truck Website\nWeekly stops and live catering pricing\nWebsites\nStudy Planner\nDrag-and-drop blocks with daily totals\nApps\nPediatrician Website\nDoctor profiles, FAQs and contact form\nWebsites\nWaitlist Page\nPre-launch signups, ranked by referrals\nApps\nReal Estate Website\nListings with filters, journal and inbox\nWebsites\nTip Calculator\nSplit bills at the table\nApps\nFlorist Storefront\nSeasonal catalog with built-in ordering\nWebsites\nJSON Formatter\nFormat, validate and convert instantly\nApps\nCompany\nCareers\nPress & media\nEnterprise\nSecurity\nTrust center\n(opens in new window)\nPartnerships\nProduct\nPricing\nStudent discount\nFor work\nSmall businesses\nFounders\nProduct Managers\nDesigners\nMarketers\nSales\nOps\nPeople\nApp builder\nWebsite builder\nAI-powered apps\nPrototyping\nInternal Tools\nDownload apps\nConnections\n(opens in new window)\nChangelog\n(opens in new window)\nStatus\n(opens in new window)\nResources\nLearn\n(opens in new window)\nTemplates\nGuides\nConnectors\nMCP server\nVideos\nBlog\nSupport\nReviews\nSitemap\nLegal\nPrivacy policy\n(opens in new window)\nDo not sell or share my personal information\nCookie settings\nEnterprise terms\n(opens in new window)\nGeneral terms\n(opens in new window)\nDesktop app terms\n(opens in new window)\nDomain registration terms\n(opens in new window)\nDMCA copyright policy\n(opens in new window)\nAccessibility\n(opens in new window)\nPlatform rules\n(opens in new window)\nReport abuse\n(opens in new window)\nReport security concerns\n(opens in new window)\nDPA\n(opens in new window)\nCommunity\nBecome a partner\nHire a Lovable partner\n(opens in new window)\nAffiliates\nCode of conduct\nDiscord\n(opens in new window)\nReddit\n(opens in new window)\nX / Twitter\n(opens in new window)\nYouTube\n(opens in new window)\nLinkedIn\n(opens in new window)\nEN",
+    "headings": [
+      "H1: Website and app templates Built with AI",
+      "H2: All templates (228)",
+      "H2: Company",
+      "H2: Product",
+      "H2: Resources",
+      "H2: Legal",
+      "H2: Community"
+    ],
+    "buttons": [
+      "OK",
+      "Manage preferences",
+      "Do not sell my data",
+      "Toggle navigation menu",
+      "Solutions",
+      "Resources",
+      "Filters",
+      "More options for AI Moodboard Canvas",
+      "More options for Lovable slides",
+      "More options for Homeware store website template",
+      "More options for Lovable Insights",
+      "More options for Dark Creative Portfolio template",
+      "More options for To-Do List App",
+      "More options for Therapist Website",
+      "More options for Quiz Builder",
+      "More options for Caterer Website",
+      "More options for Survey Builder",
+      "More options for Food Truck Website",
+      "More options for Study Planner",
+      "More options for Pediatrician Website",
+      "More options for Waitlist Page",
+      "More options for Real Estate Website",
+      "More options for Tip Calculator",
+      "More options for Florist Storefront",
+      "More options for JSON Formatter",
+      "More options for Real Estate Agent Site",
+      "More options for Bill Splitter",
+      "More options for Preschool & Daycare Site",
+      "More options for Event Countdown Timer",
+      "More options for Medical Landing Page",
+      "More options for Lead Manager",
+      "More options for Car Dealership Website",
+      "More options for Product Analytics",
+      "More options for SaaS Landing Page",
+      "More options for Reflection Journal",
+      "More options for Shopify Storefront",
+      "More options for Pomodoro Timer",
+      "More options for Shopify Product Catalog",
+      "More options for Personal Asset Tracker",
+      "More options for Fintech SaaS Website",
+      "More options for Voice Post Scheduler",
+      "More options for Agency Website",
+      "More options for Debt Payoff Planner",
+      "More options for Architecture Studio Portfolio",
+      "More options for Flashcard App",
+      "More options for Life Coach Website Builder",
+      "More options for Budget Expense Tracker",
+      "More options for Bakery Order Page",
+      "More options for Note-Taking App",
+      "More options for Motion Artist Portfolio",
+      "More options for Marketing Campaign Hub",
+      "More options for Coffee Order Page",
+      "More options for Budget Dashboard",
+      "More options for Editorial Studio Site",
+      "More options for Customer Health Dashboard",
+      "More options for Event Registration Page Template",
+      "More options for Account Health Dashboard",
+      "More options for Music Listening App",
+      "More options for Sales Attribution Dashboard",
+      "More options for Mono Agency Portfolio"
+    ],
+    "hosts": [
+      "lovable.dev",
+      "api.lovable.dev",
+      "rs.lovable.dev",
+      "o4506071217143808.ingest.us.sentry.io"
+    ],
+    "apiCalls": [
+      {
+        "m": "GET",
+        "u": "https://api.lovable.dev/consent/policy",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1c038d93a442abfb368123c39d8307c61b9f50f4e88b307ac5fb3fdb8056a5a7",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/e92a63b641f7839fdf318f4ff33c800e1b523b0f37dcb473d554463730d513ac",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/auth-shared-leaves-CmFg8fHe.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "GET",
+        "u": "https://rs.lovable.dev/sourceConfig?p=npm&v=3.34.3&build=modern&writeKey=30uiF44drV1UnRmUEUVhfQ2L500&lockIntegrationsVersion=true&lockPluginsVersion=true",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/tpl-prompt-frame-portfolio-be181551.json",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/tpl-to-do-list-app-b72b165c.json",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/tpl-lovable-insights-af6f40b3.json",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/tpl-inspo-canvas-visual-moodboard-creator-template-3292852e.json",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/tpl-lovable-slides-1b6dea24.json",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/tpl-maison-artisan-home-lifestyle-store-template-95c5595e.json",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "POST",
+        "u": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "t": "XHR"
+      }
+    ],
+    "counts": {
+      "requests": 183
+    }
+  },
+  {
+    "name": "connect",
+    "url": "https://lovable.dev/connect",
+    "startedAt": "2026-10-30T17:04:38.620Z",
+    "finalUrl": "https://lovable.dev/connect",
+    "title": "Lovable connectors | Build from what you already use",
+    "text": "Skip to main content\nWe use cookies to enhance your development experience and keep your data secure. Privacy Policy\nOK\nManage preferences\nDo not sell my data\nSolutions\nResources\nCommunity\nEnterprise\nPricing\nSecurity\nLog in\nGet started\nBuild from what\nyou already use\n\nConnect your tools once. Lovable speaks their language, works with them around the clock, and brings full context into every build.\n\nGet started\nSee connectors\n\nFEATURED CONNECTORS\n\nThe Google Suite is live\n\nCalendar, Docs, Drive, Gmail, Sheets, Slides, you name it. Your apps talk to the tools you love.\n\nGmail\nGoogle Calendar\nGoogle Docs\n(opens in a new tab)\nGoogle Drive\nGoogle Sheets\nGoogle Slides\n\nWHY CONNECTORS\n\nYour tools, your workflow\nYour app doesn’t clock out when you do\nConnectors work offline, so automations and background jobs keep running without prompting.\nLovable monitors your connections and flags anything that needs fixing, straight to your inbox.\nBuild with context, not just instructions\nConnect once, and Lovable speaks to your stack while you build.\nYou explain less. Lovable reaches for the right tool at the right time.\nLet your users connect their own tools\nEach person connects their own accounts at sign-in, including their Drive, calendar, and CRM.\nCredentials never touch your app. Lovable’s gateway handles OAuth, token refresh, and revocation.\nWhat you can build\n\nFOR FREELANCERS & SOLOPRENEURS\n\nAgents that keep working while you sleep\n\nWhile you’re offline, your app chases overdue invoices, drafts the follow-up, and reschedules a missed client call.\n\nInvoice paid\n07:56\nCall rescheduled\n06:08\nFollow-up sent\n05:15\nInvoice paid\n03:42\n\nFOR PRODUCT & ENG TEAMS\n\nTools tailored to unblock each teammate\n\nThe agent pulls in Linear, Figma, and Slack, showing each teammate only what they’re allowed to see.\n\nShow me what’s blocked\n3 blocked tickets\n1 frame awaiting review\nScoped to each teammate’s access\n\nFOR INTERNAL OPS TEAMS\n\nApps that flag anomalies and resolve proactively\n\nA scheduled job checks your governed metrics every night and posts anything that breaks its bounds to Slack before anyone has to ask.\n\n05:44\nSummary posted\n03:04\nAnomaly detected\n03:05\nTicket opened\n03:06\nSummary posted\n\nALL CONNECTORS\n\nBrowse every connector\n\n134 live\nNew connectors ship every week.\n\nSkip to the connector list\nSkip past the catalogue\nPersonal productivity\n33\nBusiness & CRM\n15\nCommerce & payments\n14\nAI & automation\n13\nData & analytics\n28\nCommunications\n14\nMaps & media\n5\nSecurity & infrastructure\n12\nFor app users\n33\nShow only connectors your app’s end users can link with their own account.\nPersonal productivity\n33 connectors\n\nNotes, docs, calendars, content.\n\nAzure Graph & Entra API\nAutomate Microsoft 365 and Entra\n(opens in a new tab)\nCalendly\nBuild booking flows and meeting dashboards with Calendly\n(opens in a new tab)\nCanva\nCreate, edit, and manage your Canva designs\n(opens in a new tab)\nContentful\nBuild the front end around your existing content model\nExcalidraw+\nRead and edit your Excalidraw+ scenes and diagrams\n(opens in a new tab)\nFigma MCP\nUse Figma files and design context through the Figma chat connector\n(opens in a new tab)\nFireflies\nSearch meeting transcripts and notes from Fireflies\n(opens in a new tab)\nGmail\nRead, send, and label mail from your team's Gmail\nGoogle Calendar\nRead and write events on your Google Calendar\nGoogle Docs\nCreate and edit Google Docs documents\n(opens in a new tab)\nGoogle Drive\nSearch and read files in your team's Drive\nGoogle Sheets\nRead and write data in any Google Sheet\nGoogle Slides\nRead deck content from your Google Slides\nGranola\nPull action items and decisions from meetings straight into builds\nLoom\nBuild faster with Loom video prompts. By Atlassian.\n(opens in a new tab)\nLovable API\nManage Lovable workspaces and projects — publishing, analytics, billing, and security — from your app\n(opens in a new tab)\nMicrosoft Excel\nWork with spreadsheets and data in Microsoft Excel\n(opens in a new tab)\nMicrosoft OneDrive\nAccess files and folders stored in Microsoft OneDrive\n(opens in a new tab)\nMicrosoft OneNote\nCapture notes and notebooks with Microsoft OneNote\n(opens in a new tab)\nMicrosoft Outlook\nManage email and calendars with Microsoft Outlook\n(opens in a new tab)\nMicrosoft PowerPoint\nCreate presentations with Microsoft PowerPoint\n(opens in a new tab)\nMicrosoft SharePoint\nBrowse SharePoint sites, document libraries, and lists\n(opens in a new tab)\nMicrosoft Teams\nCollaborate in chats and meetings with Microsoft Teams\n(opens in a new tab)\nMicrosoft Word\nCreate and edit documents with Microsoft Word\n(opens in a new tab)\nMiro\nTurn workshop boards into working prototypes\nNotion\nBuild from your team's docs and wikis\n(opens in a new tab)\nPaper MCP\nUse Paper files and design context through the Paper chat connector\n(opens in a new tab)\nSanity\nBuild content-driven apps with your Sanity schema as the blueprint\nStoryblok\nBuild content-driven experiences with Storyblok as your CMS\n(opens in a new tab)\nTally\nCreate forms, fetch submissions, and build form workflows in any app\n(opens in a new tab)\nWispr Flow\nUse your Wispr Flow meeting notes as context while building\n(opens in a new tab)\nWordPress (self-hosted)\nSelf-hosted WordPress sites and content\n(opens in a new tab)\nWordPress.com\nRead posts, pages, and media from your WordPress.com site\nBusiness & CRM\n15 connectors\n\nPipelines, hiring, sprints.\n\nAirtable\nSpreadsheet-database hybrid and automation platform\n(opens in a new tab)\nApollo.io\nSearch, enrich, and engage B2B contacts and companies\n(opens in a new tab)\nAsana\nRead tasks, projects, and assignees from your Asana workspace\nAshby\nRun recruiting workflows and hiring pipelines with Ashby\n(opens in a new tab)\nAtlassian\nTurn Jira specs into working software\n(opens in a new tab)\nAttention\nConversation intelligence for calls, transcripts, and scorecards\n(opens in a new tab)\nClay\nGTM data: people and company search, enrichment routines, and table queries\n(opens in a new tab)\nGong\nAccess call data, transc",
+    "headings": [
+      "H1: Build from what you already use",
+      "H2: The Google Suite is live",
+      "H2: Your tools, your workflow",
+      "H3: Your app doesn’t clock out when you do",
+      "H3: Build with context, not just instructions",
+      "H3: Let your users connect their own tools",
+      "H2: What you can build",
+      "H3: Agents that keep working while you sleep",
+      "H3: Tools tailored to unblock each teammate",
+      "H3: Apps that flag anomalies and resolve proactively",
+      "H2: Browse every connector",
+      "H3: Personal productivity",
+      "H3: Business & CRM",
+      "H3: Commerce & payments",
+      "H3: AI & automation",
+      "H3: Data & analytics",
+      "H3: Communications",
+      "H3: Maps & media",
+      "H3: Security & infrastructure",
+      "H3: No connectors match “”.",
+      "H2: Bring your stack. Ship the tool.",
+      "H2: Frequently asked questions",
+      "H3: How do connectors work in Lovable?",
+      "H3: Which connectors are available?",
+      "H3: How do I add a connector to my project?",
+      "H3: Can I connect a tool that isn’t listed?",
+      "H3: Do connectors use my Lovable credits?",
+      "H2: Ready to bring your idea to life?",
+      "H2: Company",
+      "H2: Product",
+      "H2: Resources",
+      "H2: Legal",
+      "H2: Community"
+    ],
+    "buttons": [
+      "OK",
+      "Manage preferences",
+      "Do not sell my data",
+      "Toggle navigation menu",
+      "Solutions",
+      "Resources",
+      "Play video",
+      "For app users\n33",
+      "Clear filter",
+      "How do connectors work in Lovable?",
+      "Which connectors are available?",
+      "How do I add a connector to my project?",
+      "Can I connect a tool that isn’t listed?",
+      "Do connectors use my Lovable credits?",
+      "Additional actions",
+      "Build",
+      "Transcribe",
+      "EN"
+    ],
+    "hosts": [
+      "lovable.dev",
+      "assets.lovable.dev",
+      "api.lovable.dev",
+      "rs.lovable.dev",
+      "o4506071217143808.ingest.us.sentry.io"
+    ],
+    "apiCalls": [
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/auth-shared-leaves-CmFg8fHe.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "GET",
+        "u": "https://api.lovable.dev/consent/policy",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1c038d93a442abfb368123c39d8307c61b9f50f4e88b307ac5fb3fdb8056a5a7",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/e92a63b641f7839fdf318f4ff33c800e1b523b0f37dcb473d554463730d513ac",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://rs.lovable.dev/sourceConfig?p=npm&v=3.34.3&build=modern&writeKey=30uiF44drV1UnRmUEUVhfQ2L500&lockIntegrationsVersion=true&lockPluginsVersion=true",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "s": 200,
+        "t": "XHR"
+      }
+    ],
+    "counts": {
+      "requests": 200
+    }
+  },
+  {
+    "name": "mcp",
+    "url": "https://lovable.dev/mcp",
+    "startedAt": "2026-10-30T17:04:43.042Z",
+    "finalUrl": "https://lovable.dev/mcp",
+    "title": "Lovable MCP. Build apps from any AI agent",
+    "text": "Skip to main content\nWe use cookies to enhance your development experience and keep your data secure. Privacy Policy\nOK\nManage preferences\nDo not sell my data\nSolutions\nResources\nCommunity\nEnterprise\nPricing\nSecurity\nLog in\nGet started\nModel Context Protocol\nThe MCP built for\nagentic development\n\nBuild, iterate, and deploy full-stack apps on Lovable from the AI client you already work in. Powered by the Model Context Protocol.\n\nassistant — lovable mcp\n›\nYou\n\nUse Lovable to build me a SaaS landing page for an AI receipt scanner. Add a hero, pricing, and a waitlist form wired to a Supabase table.\n\n›\nAssistant\nCalling create_project…\nCalling send_message — “Build the landing page with hero, pricing, waitlist…”\nCalling read_file on src/pages/Index.tsx\nCalling execute_sql — creating waitlist table\n\n✓\nPreview ready at receipt-scanner.lovable.app\n\nConnect your client\nRead the docs\n\nWorks with AI assistants, Cursor, and VS Code · Available on every plan.\n\nEverything an agent needs to ship a real app\n\nThe Lovable MCP server exposes the same primitives Lovable runs on: projects, chat, files, connectors, databases, and deploys, as tools any agent can call.\n\nCreate projects from a prompt\n\nSpin up a new Lovable app from your agent. One tool call, full project scaffolded with React, Tailwind, and shadcn/ui.\n\nIterate via chat\n\nTell Lovable what you want changed. It reads the code, makes the edits, and rebuilds the preview.\n\nRead files, inspect diffs\n\nList files, read source, and review the diff from every agent response.\n\nAdd Lovable connectors\n\nBrowse Lovable's connector catalog and wire up Gmail, Notion, Linear, and more from inside your agent. Your workspace's data plane, configured by chat.\n\nLovable Cloud database\n\nEnable Lovable Cloud, run live SQL, and pull connection info, all from your agent. Reads, writes, and schema changes.\n\nDeploy to production\n\nTrigger a deploy from your agent and get back a live URL. Iterate and share, all programmatically.\n\nWorkspaces & projects\n\nList projects, fetch metadata, manage workspaces. Everything an agent needs to operate across all your Lovable projects.\n\nPersistent knowledge\n\nSet workspace and project knowledge so Lovable follows your standards, brand, and API patterns on every run.\n\nBuilt for agents\n\nTyped tool schemas, structured outputs, and clear error responses. Designed for agents from day one.\n\nConnect your client\n\nPick your client and follow the steps. Authentication uses OAuth, so there are no API keys to manage.\n\nClaude\nClaude Code\nCursor\nVS Code\n\nAdd Lovable through Claude's connector settings. Works in Claude Desktop (macOS and Windows) and on claude.ai.\n\n1\nIn Claude, click on the + sign\n2\nConnectors → Browse Connectors → Search for Lovable\n3\nClick Connect, then log in to Lovable when Claude prompts you\n\nThe Lovable tools appear in the composer's tool menu once authentication is complete.\n\nRead the full docs\nView pricing\nFrequently asked questions\nWhat is MCP?\nWhich clients can I use?\nWhat's the difference between this and Lovable's chat connectors?\nIs it included in my plan?\nDoes using the MCP server consume Lovable credits?\nCan I connect with an API key?\nReady to bring your idea to life?\nAsk Lovable to create a landing page for my...\n\n\n\n\nBuild\nCompany\nCareers\nPress & media\nEnterprise\nSecurity\nTrust center\n(opens in new window)\nPartnerships\nProduct\nPricing\nStudent discount\nFor work\nSmall businesses\nFounders\nProduct Managers\nDesigners\nMarketers\nSales\nOps\nPeople\nApp builder\nWebsite builder\nAI-powered apps\nPrototyping\nInternal Tools\nDownload apps\nConnections\n(opens in new window)\nChangelog\n(opens in new window)\nStatus\n(opens in new window)\nResources\nLearn\n(opens in new window)\nTemplates\nGuides\nConnectors\nMCP server\nVideos\nBlog\nSupport\nReviews\nSitemap\nLegal\nPrivacy policy\n(opens in new window)\nDo not sell or share my personal information\nCookie settings\nEnterprise terms\n(opens in new window)\nGeneral terms\n(opens in new window)\nDesktop app terms\n(opens in new window)\nDomain registration terms\n(opens in new window)\nDMCA copyright policy\n(opens in new window)\nAccessibility\n(opens in new window)\nPlatform rules\n(opens in new window)\nReport abuse\n(opens in new window)\nReport security concerns\n(opens in new window)\nDPA\n(opens in new window)\nCommunity\nBecome a partner\nHire a Lovable partner\n(opens in new window)\nAffiliates\nCode of conduct\nDiscord\n(opens in new window)\nReddit\n(opens in new window)\nX / Twitter\n(opens in new window)\nYouTube\n(opens in new window)\nLinkedIn\n(opens in new window)\nEN",
+    "headings": [
+      "H1: The MCP built for agentic development",
+      "H2: Everything an agent needs to ship a real app",
+      "H2: Create projects from a prompt",
+      "H2: Iterate via chat",
+      "H2: Read files, inspect diffs",
+      "H2: Add Lovable connectors",
+      "H2: Lovable Cloud database",
+      "H2: Deploy to production",
+      "H2: Workspaces & projects",
+      "H2: Persistent knowledge",
+      "H2: Built for agents",
+      "H2: Connect your client",
+      "H2: Frequently asked questions",
+      "H3: What is MCP?",
+      "H3: Which clients can I use?",
+      "H3: What's the difference between this and Lovable's chat connectors?",
+      "H3: Is it included in my plan?",
+      "H3: Does using the MCP server consume Lovable credits?",
+      "H3: Can I connect with an API key?",
+      "H2: Ready to bring your idea to life?",
+      "H2: Company",
+      "H2: Product",
+      "H2: Resources",
+      "H2: Legal",
+      "H2: Community"
+    ],
+    "buttons": [
+      "OK",
+      "Manage preferences",
+      "Do not sell my data",
+      "Toggle navigation menu",
+      "Solutions",
+      "Resources",
+      "Claude",
+      "Claude Code",
+      "Cursor",
+      "VS Code",
+      "What is MCP?",
+      "Which clients can I use?",
+      "What's the difference between this and Lovable's chat connectors?",
+      "Is it included in my plan?",
+      "Does using the MCP server consume Lovable credits?",
+      "Can I connect with an API key?",
+      "Additional actions",
+      "Build",
+      "Transcribe",
+      "EN"
+    ],
+    "hosts": [
+      "lovable.dev",
+      "api.lovable.dev",
+      "rs.lovable.dev",
+      "o4506071217143808.ingest.us.sentry.io"
+    ],
+    "apiCalls": [
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/auth-shared-leaves-CmFg8fHe.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "GET",
+        "u": "https://api.lovable.dev/consent/policy",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1c038d93a442abfb368123c39d8307c61b9f50f4e88b307ac5fb3fdb8056a5a7",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/e92a63b641f7839fdf318f4ff33c800e1b523b0f37dcb473d554463730d513ac",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://rs.lovable.dev/sourceConfig?p=npm&v=3.34.3&build=modern&writeKey=30uiF44drV1UnRmUEUVhfQ2L500&lockIntegrationsVersion=true&lockPluginsVersion=true",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "s": 200,
+        "t": "XHR"
+      }
+    ],
+    "counts": {
+      "requests": 212
+    }
+  },
+  {
+    "name": "build-app-builder",
+    "url": "https://lovable.dev/build/app-builder",
+    "startedAt": "2026-10-30T17:04:47.167Z",
+    "finalUrl": "https://lovable.dev/build/app-builder",
+    "title": "AI App Builder | Create an App from a Prompt | Lovable",
+    "text": "Skip to main content\nWe use cookies to enhance your development experience and keep your data secure. Privacy Policy\nOK\nManage preferences\nDo not sell my data\nSolutions\nResources\nCommunity\nEnterprise\nPricing\nSecurity\nLog in\nGet started\nHome\nAI app & website builder\nApp builder\nAI APP BUILDER\nBuild an app from a single prompt\n\nDescribe what you want and Lovable turns it into a working app, with the interface, database, and logic included.\n\nAsk Lovable to create a landing page for my...\n\n\n\n\nBuild\nBuild real apps, not just prototypes\n\nA prototype shows the idea. A real app runs it. Lovable builds apps with screens, data, logic, authentication, and hosting, all from one chat.\n\nDesign the interface\n\nGenerate the screens your app needs, like dashboards, forms, portals, and admin panels, then refine them as your product takes shape.\n\nAdd data and logic\n\nStore records, handle sign-ups, and define what happens when users submit forms or move through a workflow, with a built-in backend.\n\nLaunch and share instantly\n\nHosting is included. Publish your app in a click and share it with users, teammates, or your community.\n\nSecurity built in\n\nLovable's security scanning reviews your app for common vulnerabilities as you build, so it stays protected from the start.\n\nHow to create an app with AI\n\nGo from idea to a live app in five simple steps.\n\nSTEP 01\nDescribe the app you want to build\n\nTell Lovable what you have in mind, in plain language. Be as detailed or as brief as you like.\n\nSTEP 02\nWatch it build\n\nLovable turns your idea into a working application, with pages, logic, and core user flows you can explore right away.\n\nSTEP 03\nRefine with full control\n\nAdjust layouts, tweak copy, and evolve workflows by chatting, or edit the code directly when you want precision.\n\nSTEP 04\nConnect your tools\n\nLink payments, email, databases, and more with built-in integrations that make your app useful from day one.\n\nSTEP 05\nPublish your app\n\nGo live in a click, share it with users, gather feedback, and keep improving as your ideas grow.\n\nExplore more app builders\n\nPick a builder made for the kind of app you have in mind\n\nNo-code app builder\n\nDescribe what you want in plain language and Lovable builds a working app. No programming skills needed.\n\nMobile app builder\n\nDescribe your app and Lovable builds a mobile-first web app that looks and works great on any phone. No coding required.\n\niOS app builder\n\nDescribe your idea and Lovable builds an app designed for iPhone. It runs in Safari and opens from the home screen.\n\nAndroid app builder\n\nDescribe your idea and Lovable builds an app designed for Android phones. It runs in Chrome and opens from the home screen.\n\nAI chatbot builder\n\nDescribe what your chatbot should do and Lovable builds the chat experience, the AI behind it, and a place to host it.\n\nDashboard builder\n\nDescribe the metrics you track and Lovable builds a dashboard with charts, filters, and your data connected.\n\nDatabase builder\n\nDescribe the data you manage and Lovable builds a database app with tables, forms, and views your team can use.\n\nSaaS builder\n\nDescribe your product and Lovable builds a SaaS app with user accounts, a database, and subscription billing.\n\nGet started with a template\n\nStart from a proven structure instead of a blank prompt\n\nView all\nLovable slides\nCode-powered presentation builder\nBrand Kit Extractor\nPalette contrast scores, token export\nQR Code Generator\nNine types, live preview, 3 sizes\nLovable Insights\nGoverned metrics, self-serve dashboards\nConnect the tools your app needs\n\nAdd payments, email, maps, AI voice, and more with a prompt\n\nBrowse all integrations\nShopify\n(opens in a new tab)\nStripe\nGoogle Search Console\n(opens in a new tab)\nFirecrawl\n(opens in a new tab)\nGoogle Maps\nResend\n(opens in a new tab)\nElevenLabs\n(opens in a new tab)\nGoogle Sheets\nGmail\nGoogle Drive\nKeep learning about app building\n\nGuides from the Lovable blog on planning, building, and launching apps\n\nannouncements\nThe Lovable mobile app is here\n\nLovable is now available on iOS and Android.\n\nJohanna Ydergård\n•\nApril 27, 2026\nDevelopment 101\nHow to Develop an App With AI (Step-by-Step Guide)\n\nLearn how to develop an app using AI and no-code tools with a step-by-step approach, from idea to launch.\n\nStephane\n•\nFebruary 28, 2025\nInside Lovable\nBuilding apps using TanStack Start\n\nStarting May 13, new projects are Server-Side Rendered (SSR) and powered by TanStack Start. This post is for anyone wondering what changed - what's different, why we picked TanStack Start and what it means for the apps Lovable generates.\n\nFabian Hedin\n•\nJune 1, 2026\nAnnouncements\nGo beyond building apps with Lovable\n\nYou can now analyze data, create and edit files, generate business docs, and turn things like spreadsheets into working apps without ever leaving Lovable.\n\nGemma Casey-Swift\n•\nMarch 19, 2026\nAnnouncements\nLovable apps can now work with your users' connected tools\n\nApp user connectors let each person using your Lovable app connect their own tools, so it runs on their data with the permissions they already have.\n\nFernanda Chouza\n•\nJuly 29, 2026\nFrequently asked questions\nWhat is an AI app builder?\nWhat types of apps can I build with Lovable?\nHow much does it cost to create an app?\nDo I need to know how to code?\nHow long does it take to build an app?\nReady to bring your idea to life?\nAsk Lovable to create a landing page for my...\n\n\n\n\nBuild\nCompany\nCareers\nPress & media\nEnterprise\nSecurity\nTrust center\n(opens in new window)\nPartnerships\nProduct\nPricing\nStudent discount\nFor work\nSmall businesses\nFounders\nProduct Managers\nDesigners\nMarketers\nSales\nOps\nPeople\nApp builder\nWebsite builder\nAI-powered apps\nPrototyping\nInternal Tools\nDownload apps\nConnections\n(opens in new window)\nChangelog\n(opens in new window)\nStatus\n(opens in new window)\nResources\nLearn\n(opens in new window)\nTemplates\nGuides\nConnectors\nMCP server\nVideos\nBlog\nSupport\nReviews\nSitemap\nLegal\nPrivacy policy\n(opens in new window)\nDo not sell or share my personal informatio",
+    "headings": [
+      "H1: AI APP BUILDER",
+      "H2: Build an app from a single prompt",
+      "H2: Build real apps, not just prototypes",
+      "H2: Design the interface",
+      "H2: Add data and logic",
+      "H2: Launch and share instantly",
+      "H2: Security built in",
+      "H2: How to create an app with AI",
+      "H3: Describe the app you want to build",
+      "H3: Watch it build",
+      "H3: Refine with full control",
+      "H3: Connect your tools",
+      "H3: Publish your app",
+      "H2: Explore more app builders",
+      "H3: No-code app builder",
+      "H3: Mobile app builder",
+      "H3: iOS app builder",
+      "H3: Android app builder",
+      "H3: AI chatbot builder",
+      "H3: Dashboard builder",
+      "H3: Database builder",
+      "H3: SaaS builder",
+      "H2: Get started with a template",
+      "H2: Connect the tools your app needs",
+      "H2: Keep learning about app building",
+      "H2: The Lovable mobile app is here",
+      "H2: How to Develop an App With AI (Step-by-Step Guide)",
+      "H2: Building apps using TanStack Start",
+      "H2: Go beyond building apps with Lovable",
+      "H2: Lovable apps can now work with your users' connected tools",
+      "H2: Frequently asked questions",
+      "H3: What is an AI app builder?",
+      "H3: What types of apps can I build with Lovable?",
+      "H3: How much does it cost to create an app?",
+      "H3: Do I need to know how to code?",
+      "H3: How long does it take to build an app?",
+      "H2: Ready to bring your idea to life?",
+      "H2: Company",
+      "H2: Product",
+      "H2: Resources"
+    ],
+    "buttons": [
+      "OK",
+      "Manage preferences",
+      "Do not sell my data",
+      "Toggle navigation menu",
+      "Solutions",
+      "Resources",
+      "Show more",
+      "Additional actions",
+      "Build",
+      "Transcribe",
+      "Previous slide",
+      "Next slide",
+      "Previous slide",
+      "Next slide",
+      "What is an AI app builder?",
+      "What types of apps can I build with Lovable?",
+      "How much does it cost to create an app?",
+      "Do I need to know how to code?",
+      "How long does it take to build an app?",
+      "Additional actions",
+      "Build",
+      "Transcribe",
+      "EN"
+    ],
+    "hosts": [
+      "lovable.dev",
+      "assets.lovable.dev",
+      "api.lovable.dev",
+      "rs.lovable.dev",
+      "o4506071217143808.ingest.us.sentry.io"
+    ],
+    "apiCalls": [
+      {
+        "m": "GET",
+        "u": "https://api.lovable.dev/consent/policy",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/auth-shared-leaves-CmFg8fHe.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1c038d93a442abfb368123c39d8307c61b9f50f4e88b307ac5fb3fdb8056a5a7",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/e92a63b641f7839fdf318f4ff33c800e1b523b0f37dcb473d554463730d513ac",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://rs.lovable.dev/sourceConfig?p=npm&v=3.34.3&build=modern&writeKey=30uiF44drV1UnRmUEUVhfQ2L500&lockIntegrationsVersion=true&lockPluginsVersion=true",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "s": 200,
+        "t": "XHR"
+      }
+    ],
+    "counts": {
+      "requests": 213
+    }
+  },
+  {
+    "name": "security",
+    "url": "https://lovable.dev/security",
+    "startedAt": "2026-10-30T17:04:51.875Z",
+    "finalUrl": "https://lovable.dev/security",
+    "title": "Security at Lovable | Build Apps Faster",
+    "text": "Skip to main content\nWe use cookies to enhance your development experience and keep your data secure. Privacy Policy\nOK\nManage preferences\nDo not sell my data\nSolutions\nResources\nCommunity\nEnterprise\nPricing\nSecurity\nLog in\nGet started\nSecure by design\n\nChoose where your data lives, enforce SSO and role-based access, control publishing with approvals, and keep your code and prompts out of model training.\n\nTrust center\nReport an issue\n\nTrusted by teams at leading companies\n\nEnterprise security controls\nAccess and control\n\nLovable integrates with SAML and OIDC providers including Okta, Azure AD, and Google. SCIM supports automated provisioning and deprovisioning. Permissions are role-based and enforced server-side across viewing, editing, approving, and publishing.\n\nGuardrails for building & publishing\n\nEditing, approval, and publishing are separate permissions. Public access is controlled by role and environment settings, so teams can move quickly without risking accidental exposure.\n\nSecrets are handled securely\n\nSecrets are encrypted at rest and access-controlled by role. They are not exposed in plaintext in logs or interfaces. Access is limited to authorized environments and actions.\n\nData residency\n\nLovable Cloud supports regional data hosting in the EU, US, and Asia Pacific. Customer data remains in the region you select and does not move across regions by default. We're transparent about our infrastructure and subprocessors, so you always know where your data lives and how it's handled.\n\nEnterprise and Business plan data is not used to train models\n\nFree and Pro plan subscribers can opt out of model training in their account settings. When we work with AI providers, contractual agreements restrict training and retention of customer data by the third parties. Your work stays your work, and you are in control.\n\nIsolation by design\n\nEach workspace and project is logically separated. Customer data is not accessible across accounts. Environment boundaries are explicitly defined and evaluated before changes are published, ensuring separation between development and production.\n\nContinuous monitoring & abuse detection\n\nLovable continuously monitors platform activity for misuse, anomalous behavior, and compromise. Automated systems enforce rate limits and detect abuse across users and workspaces, with high-risk activity reviewed by our trust and safety team.\n\nAutomatic security scanning\n\nLovable runs a basic security scan automatically every time you publish, checking database configurations, RLS rules, cloud project settings, and known misconfiguration patterns in about 10-15 seconds. For deeper coverage, the deep security scan is available on demand and takes about 3 minutes. Workspace admins can enable auto-fix to let the agent resolve non-breaking findings during basic scans, and can block publishing on critical findings. Business and Enterprise workspaces can schedule recurring deep scans across all projects.\n\nProtected infrastructure\n\nLovable Cloud is protected by web application firewall (WAF) controls, network isolation, encrypted data storage, and adaptive rate limiting at the IP, user, and workspace level.\n\nFounder security\nAI penetration testing\n\nGet an audit-ready report for SOC 2, ISO 27001, and investor due diligence, proving your app is secure.\n\nRead more\nYour guide to security as a Lovable founder\n\nWhat investors actually look for in a technical due diligence review — and how to pass it.\n\nRead more\nFind vulnerabilities before they find you\n\nA basic security scan runs automatically before every publish. Run a deep AI-powered scan on demand to analyze your full codebase. Dependency checks run continuously in the background as you build.\n\nCompliant and certified\nFrequently asked questions\nWhere is customer data stored?\nIs customer data used to train AI?\nIs Lovable multi-tenant, and how is customer data isolated?\nWhich subprocessors does Lovable use?\nDoes Lovable access or clone our source code?\nDoes Lovable require access to our CI/CD pipelines or production infrastructure?\nHow are publishing controls enforced?\nHow does Lovable enforce role-based access control (RBAC)?\nDoes Lovable support least-privilege access?\nHow are secrets and API credentials managed?\nDoes Lovable perform automated security scanning?\nIs Lovable SOC 2 or GDPR compliant?\nReady to bring your idea to life?\nAsk Lovable to create a landing page for my...\n\n\n\n\nBuild\nCompany\nCareers\nPress & media\nEnterprise\nSecurity\nTrust center\n(opens in new window)\nPartnerships\nProduct\nPricing\nStudent discount\nFor work\nSmall businesses\nFounders\nProduct Managers\nDesigners\nMarketers\nSales\nOps\nPeople\nApp builder\nWebsite builder\nAI-powered apps\nPrototyping\nInternal Tools\nDownload apps\nConnections\n(opens in new window)\nChangelog\n(opens in new window)\nStatus\n(opens in new window)\nResources\nLearn\n(opens in new window)\nTemplates\nGuides\nConnectors\nMCP server\nVideos\nBlog\nSupport\nReviews\nSitemap\nLegal\nPrivacy policy\n(opens in new window)\nDo not sell or share my personal information\nCookie settings\nEnterprise terms\n(opens in new window)\nGeneral terms\n(opens in new window)\nDesktop app terms\n(opens in new window)\nDomain registration terms\n(opens in new window)\nDMCA copyright policy\n(opens in new window)\nAccessibility\n(opens in new window)\nPlatform rules\n(opens in new window)\nReport abuse\n(opens in new window)\nReport security concerns\n(opens in new window)\nDPA\n(opens in new window)\nCommunity\nBecome a partner\nHire a Lovable partner\n(opens in new window)\nAffiliates\nCode of conduct\nDiscord\n(opens in new window)\nReddit\n(opens in new window)\nX / Twitter\n(opens in new window)\nYouTube\n(opens in new window)\nLinkedIn\n(opens in new window)\nEN",
+    "headings": [
+      "H1: Secure by design",
+      "H2: Enterprise security controls",
+      "H3: Access and control",
+      "H2: Guardrails for building & publishing",
+      "H2: Secrets are handled securely",
+      "H3: Data residency",
+      "H2: Enterprise and Business plan data is not used to train models",
+      "H2: Isolation by design",
+      "H3: Continuous monitoring & abuse detection",
+      "H2: Automatic security scanning",
+      "H2: Protected infrastructure",
+      "H2: Founder security",
+      "H3: AI penetration testing",
+      "H2: Your guide to security as a Lovable founder",
+      "H2: Find vulnerabilities before they find you",
+      "H2: Compliant and certified",
+      "H2: Frequently asked questions",
+      "H3: Where is customer data stored?",
+      "H3: Is customer data used to train AI?",
+      "H3: Is Lovable multi-tenant, and how is customer data isolated?",
+      "H3: Which subprocessors does Lovable use?",
+      "H3: Does Lovable access or clone our source code?",
+      "H3: Does Lovable require access to our CI/CD pipelines or production infrastructure?",
+      "H3: How are publishing controls enforced?",
+      "H3: How does Lovable enforce role-based access control (RBAC)?",
+      "H3: Does Lovable support least-privilege access?",
+      "H3: How are secrets and API credentials managed?",
+      "H3: Does Lovable perform automated security scanning?",
+      "H3: Is Lovable SOC 2 or GDPR compliant?",
+      "H2: Ready to bring your idea to life?",
+      "H2: Company",
+      "H2: Product",
+      "H2: Resources",
+      "H2: Legal",
+      "H2: Community"
+    ],
+    "buttons": [
+      "OK",
+      "Manage preferences",
+      "Do not sell my data",
+      "Toggle navigation menu",
+      "Solutions",
+      "Resources",
+      "Pause animation",
+      "Where is customer data stored?",
+      "Is customer data used to train AI?",
+      "Is Lovable multi-tenant, and how is customer data isolated?",
+      "Which subprocessors does Lovable use?",
+      "Does Lovable access or clone our source code?",
+      "Does Lovable require access to our CI/CD pipelines or production infrastructure?",
+      "How are publishing controls enforced?",
+      "How does Lovable enforce role-based access control (RBAC)?",
+      "Does Lovable support least-privilege access?",
+      "How are secrets and API credentials managed?",
+      "Does Lovable perform automated security scanning?",
+      "Is Lovable SOC 2 or GDPR compliant?",
+      "Additional actions",
+      "Build",
+      "Transcribe",
+      "EN"
+    ],
+    "hosts": [
+      "lovable.dev",
+      "o4506071217143808.ingest.us.sentry.io",
+      "api.lovable.dev",
+      "rs.lovable.dev"
+    ],
+    "apiCalls": [
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/auth-shared-leaves-CmFg8fHe.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "POST",
+        "u": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://api.lovable.dev/consent/policy",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1c038d93a442abfb368123c39d8307c61b9f50f4e88b307ac5fb3fdb8056a5a7",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/e92a63b641f7839fdf318f4ff33c800e1b523b0f37dcb473d554463730d513ac",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://rs.lovable.dev/sourceConfig?p=npm&v=3.34.3&build=modern&writeKey=30uiF44drV1UnRmUEUVhfQ2L500&lockIntegrationsVersion=true&lockPluginsVersion=true",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "t": "XHR"
+      }
+    ],
+    "counts": {
+      "requests": 210
+    }
+  },
+  {
+    "name": "docs-welcome",
+    "url": "https://docs.lovable.dev/introduction/welcome",
+    "startedAt": "2026-10-30T17:04:55.752Z",
+    "finalUrl": "https://docs.lovable.dev/introduction/welcome",
+    "title": "Welcome to Lovable - Lovable Documentation",
+    "text": "Documentation Index\n\nFetch the complete documentation index at: /llms.txt\n\nUse this file to discover all available pages before exploring further.\n\nSkip to main content\nLovable Documentation home page\nSearch...\nCtrl K\nAsk Assistant\nCtrl+I\nSupport\nBlog\nStart building for free\nDocumentation\nAPI Reference\nChangelog\nGetting started\nWelcome to Lovable\nCreate an account\nQuick start\nDashboard overview\nEnterprise\nLovable platforms\nUse Lovable from other tools\nBuild\nProjects\nChats\nThe agent\nContext & instructions\nFile generation\nDesign\nBackend\nAI for your app\nTest your app\nSecure your app\nnpm packages\nBuild secrets\nENT\nManaged registry\nENT\nConnect\nConnectors\nConnector catalog\nConnect any API\nGit sync\nCollaborate\nCollaboration\nShare a project\nProject comments\nProject access\nDeploy & host\nHosting\nPublish\nCustom domains\nTransfer a domain\nPublishing domain\nENT\nBranded app URLs\nOwnership & portability\nGrow & optimize\nGrowth tools\nSEO and AEO\nAnalytics\nAds\nPayments\nEmails\nAgent integrations\nProject monitoring\nWorkspace & account\nWorkspace\nOrganizations\nAccess\nSecurity\nYour account\nPlans & billing\nSubscription plans\nChange or cancel your subscription\nInvoices and billing\nCredits and usage\nCredit top-ups\nUsage limits & alerts\nLow balance and recovery\nGuides & reference\nGuides\nFAQ\nGlossary\nVideos and courses\nSupport policy\nOn this page\nCore concepts\nWhy use Lovable\nWho Lovable is for\nWhat you can build with Lovable\nSecurity, privacy, and compliance\nCertifications and standards\nAccess and identity\nPlatform security and governance\nLegal and data protection\nHow Lovable fits into your workflow\nGet help\nGetting started\nWelcome to Lovable\nCopy page\n\nLovable is a full-stack AI development platform for building, iterating on, and deploying web applications using natural language, with real code, security, and enterprise governance.\n\nLovable lets individuals and teams build production-grade web applications using natural language. You describe what you want to build, and Lovable generates a working application that includes frontend, backend, database, authentication, and integrations, all backed by editable code.\nLovable supports the full lifecycle of modern product development, from early exploration and prototyping to deployment and ongoing operation.\nApplications are built inside shared workspaces, where a group of people builds from one plan and a shared pool of credits, each working on one or more of their own projects. Each project represents a single application and produces a codebase that can be synced to GitHub, GitLab, or Bitbucket with Git sync and integrated into existing engineering workflows. The platform is built to help people move faster while maintaining ownership, security, and operational control.\nYou can start for free, and plans are priced by credits, not by projects or seats. See Subscription plans.\nStart building for free\nCreate a free account with email, Google, GitHub, or Apple, and start building immediately.\nQuick start\nBuild and publish your first app in about ten minutes.\nBrowse Lovable templates\nStart from a ready-made app you can remix on any plan.\nLearn in the Lovable Academy\nFree video walkthroughs and a guided learning path from the Lovable team.\n​\nCore concepts\nFour terms come up everywhere in Lovable:\nAccount: Your personal identity on Lovable. You log in with one account and use it across every workspace you belong to.\nWorkspace: Where you and your team work. A workspace holds projects, members, billing, and a shared pool of credits.\nProject: One app. Each project holds its project chat, preview, code, and version history, and lives in exactly one workspace.\nChats: Conversations with Lovable outside your projects, for thinking through ideas, asking about your apps, and working with connected tools. When something needs building, a chat sends the work to a project.\n​\nWhy use Lovable\nLovable makes it easier to go from an idea to working software.\nFaster iteration\nMove from idea to working software by building through natural language instead of starting from a blank codebase.\nCollaboration when you need it\nWork solo or with a team. Lovable supports shared workspaces so people across roles can contribute in one place when collaboration matters.\nCode ownership and flexibility\nKeep full ownership of your code and integrate Lovable into existing workflows.\nBuilt with enterprise needs in mind\nSecurity, privacy, and governance capabilities are built into the platform from the start.\n​\nWho Lovable is for\nLovable is used by teams inside companies, by technical teams and agencies, across enterprises, and by people building on their own.\nTeams in companies\nProduct managers and designers turning prototypes into internal tools the business runs on\nOperations, sales, marketing, finance, and HR teams replacing spreadsheets and per-seat software with their own apps\nMarketers building landing pages, campaign sites, and dashboards\nTechnical teams and agencies\nDevelopers using Lovable to quickly set up projects, internal tools, and early prototypes\nEngineering teams reviewing, extending, and maintaining generated code through GitHub, GitLab, or Bitbucket\nAgencies and consultancies delivering client projects where code ownership and portability matter\nEnterprises\nTeams building internal tools or business-critical applications used across the organization\nOrganizations building and operating applications with security, compliance, and governance requirements\nCompanies integrating AI-assisted development into established engineering workflows\nIndividual builders\nFounders and entrepreneurs launching products and reaching their first customers\nIndependent makers building side projects, prototypes, or small products on their own\nStudents and educators working on coursework, learning projects, or experiments\n​\nWhat you can build with Lovable\nLovable supports a broad range of web applications, from early exploration to production systems, and also creates the presentations, documents, and visual assets",
+    "headings": [
+      "H2: Documentation Index",
+      "H3: Getting started",
+      "H3: Build",
+      "H3: Connect",
+      "H3: Collaborate",
+      "H3: Deploy & host",
+      "H3: Grow & optimize",
+      "H3: Workspace & account",
+      "H3: Plans & billing",
+      "H3: Guides & reference",
+      "H2: On this page",
+      "H1: Welcome to Lovable",
+      "H2: Start building for free",
+      "H2: Quick start",
+      "H2: Browse Lovable templates",
+      "H2: Learn in the Lovable Academy",
+      "H2: ​ Core concepts",
+      "H2: ​ Why use Lovable",
+      "H2: ​ Who Lovable is for",
+      "H2: ​ What you can build with Lovable",
+      "H2: ​ Security, privacy, and compliance",
+      "H3: ​ Certifications and standards",
+      "H3: ​ Access and identity",
+      "H3: ​ Platform security and governance",
+      "H3: ​ Legal and data protection",
+      "H2: ​ How Lovable fits into your workflow",
+      "H2: Quick start",
+      "H2: Idea to product",
+      "H2: Projects",
+      "H2: Connectors",
+      "H2: Prompting basics",
+      "H2: Glossary",
+      "H2: ​ Get help"
+    ],
+    "buttons": [
+      "Maximize assistant panel",
+      "Close assistant panel",
+      "Add attachment",
+      "Send message",
+      "Search...\nCtrl K",
+      "Ask Assistant\nCtrl+I",
+      "Change theme preference",
+      "Search...",
+      "Toggle assistant panel",
+      "More actions",
+      "NavigationGetting startedWelcome to Lovable",
+      "Lovable platforms",
+      "Use Lovable from other tools",
+      "Projects",
+      "The agent",
+      "Context & instructions",
+      "Design",
+      "Backend",
+      "AI for your app",
+      "Test your app",
+      "Secure your app",
+      "Connectors",
+      "Connector catalog",
+      "Git sync",
+      "Ownership & portability",
+      "Workspace",
+      "Organizations",
+      "Access",
+      "Security",
+      "Your account",
+      "Guides",
+      "On this page",
+      "Copy page",
+      "More actions",
+      "Copy pageCopy page",
+      "More actions",
+      "Expand image: Welcome Lovable Dashboard",
+      "Yes",
+      "No",
+      "Send message"
+    ],
+    "hosts": [
+      "docs.lovable.dev",
+      "mintcdn.com",
+      "d3gk2c5xim1je2.cloudfront.net",
+      "leaves.mintlify.com"
+    ],
+    "apiCalls": [
+      {
+        "m": "OPTIONS",
+        "u": "https://leaves.mintlify.com/api/search/lovable-f9060f1e",
+        "s": "FAILED",
+        "t": "Other"
+      },
+      {
+        "m": "GET",
+        "u": "https://docs.lovable.dev/_mintlify/assistant/siteconfig",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "POST",
+        "u": "https://leaves.mintlify.com/api/search/lovable-f9060f1e",
+        "s": "FAILED",
+        "t": "Fetch"
+      }
+    ],
+    "counts": {
+      "requests": 57
+    }
+  },
+  {
+    "name": "docs-changelog",
+    "url": "https://docs.lovable.dev/changelog",
+    "startedAt": "2026-10-30T17:05:03.664Z",
+    "finalUrl": "https://docs.lovable.dev/changelog",
+    "title": "Lovable changelog - Lovable Documentation",
+    "text": "Documentation Index\n\nFetch the complete documentation index at: /llms.txt\n\nUse this file to discover all available pages before exploring further.\n\nSkip to main content\nLovable Documentation home page\nSearch...\nCtrl K\nAsk Assistant\nCtrl+I\nSupport\nBlog\nStart building for free\nDocumentation\nAPI Reference\nChangelog\nChangelog\nOn this page\nOct 28, 2026\nOct 27, 2026\nOct 26, 2026\nOct 22, 2026\nOct 21, 2026\nOct 20, 2026\nOct 19, 2026\nOct 18, 2026\nOct 17, 2026\nOct 16, 2026\nOct 15, 2026\nOct 14, 2026\nOct 13, 2026\nOct 12, 2026\nOct 9, 2026\nOct 8, 2026\nOct 7, 2026\nOct 6, 2026\nOct 5, 2026\nOct 2, 2026\nOct 1, 2026\nSep 30, 2026\nSep 29, 2026\nSep 25, 2026\nSep 24, 2026\nSep 23, 2026\nSep 22, 2026\nSep 21, 2026\nSep 20, 2026\nSep 19, 2026\nSep 18, 2026\nSep 17, 2026\nSep 16, 2026\nSep 15, 2026\nSep 11, 2026\nSep 10, 2026\nSep 9, 2026\nSep 8, 2026\nSep 7, 2026\nSep 4, 2026\nSep 3, 2026\nSep 2, 2026\nSep 1, 2026\nAug 31, 2026\nAug 30, 2026\nAug 28, 2026\nAug 27, 2026\nAug 26, 2026\nAug 25, 2026\nAug 24, 2026\nAug 21, 2026\nAug 20, 2026\nAug 19, 2026\nAug 18, 2026\nAug 17, 2026\nAug 16, 2026\nAug 14, 2026\nAug 13, 2026\nAug 12, 2026\nAug 11, 2026\nAug 10, 2026\nAug 7, 2026\nAug 6, 2026\nAug 3, 2026\nJul 31, 2026\nJul 30, 2026\nJul 29, 2026\nJul 28, 2026\nJul 27, 2026\nJul 25, 2026\nJul 24, 2026\nJul 23, 2026\nJul 22, 2026\nJul 21, 2026\nJul 17, 2026\nJul 16, 2026\nJul 15, 2026\nJul 14, 2026\nJul 13, 2026\nJul 10, 2026\nJul 9, 2026\nJul 8, 2026\nJul 7, 2026\nJul 6, 2026\nJul 3, 2026\nJul 2, 2026\nJul 1, 2026\nJun 30, 2026\nJun 29, 2026\nJun 26, 2026\nJun 25, 2026\nJun 24, 2026\nJun 23, 2026\nJun 22, 2026\nJun 18, 2026\nJun 17, 2026\nJun 16, 2026\nJun 15, 2026\nJun 10, 2026\nJun 9, 2026\nJun 8, 2026\nJun 5, 2026\nJun 4, 2026\nJun 3, 2026\nJun 2, 2026\nJun 1, 2026\nMay 29, 2026\nMay 28, 2026\nMay 27, 2026\nMay 26, 2026\nMay 25, 2026\nMay 24, 2026\nMay 21, 2026\nMay 18, 2026\nApr 24, 2026\nApr 2, 2026\nMar 16, 2026\nFeb 23, 2026\nFeb 5, 2026\nJan 16, 2026\nDec 23, 2025\nDec 10, 2025\nNov 26, 2025\nNov 5, 2025\nOct 6, 2025\nSep 1, 2025\nAug 11, 2025\nJun 26, 2025\nJun 4, 2025\nMay 24, 2025\nMay 9, 2025\nMay 2, 2025\nApr 25, 2025\nApr 17, 2025\nApr 11, 2025\nApr 4, 2025\nMar 28, 2025\nMar 21, 2025\nMar 14, 2025\nMar 7, 2025\nFeb 28, 2025\nFeb 21, 2025\nFeb 12, 2025\nFeb 7, 2025\nJan 28, 2025\nJan 18, 2025\nJan 6, 2025\nDec 11, 2024\nDec 3, 2024\nLovable changelog\nCopy page\n\nLovable changelog and product updates. Stay up to date with new features, improvements, and bug fixes shipped in Lovable.\n\n​\nOct 28, 2026\n​\nGet an email before your credits run out\nWorkspace admins and owners now get an email when your credits are likely to run out before your monthly credits refill. The email shows the expected run-out date and the refill date, so you can add credits before the run-out date. Lovable bases the estimate on your workspace’s recent Run credits usage, so credits you spend building are not part of it. Lovable sends no email while auto top-up is enabled and not paused.\n​\nRedesigned Share menu\nThe Share menu in your project has a simpler layout. The Workspace access row sets what the rest of your workspace can do with the project. The invite link has one setting for its access level, with Copy next to it. Preview links are listed by name, and you edit or delete a link from its row.\n​\nSet up two-factor authentication from the dashboard banner\nThe banner on your dashboard now opens the two-factor authentication setup dialog directly. Lovable shows the banner if you log in with email and password and have not set up two-factor authentication. In the dialog, choose an authenticator app or your phone.\n​\nOct 27, 2026\n​\nEvents & hooks for your workspace\nWorkspace admins and owners on Business and Enterprise plans can now extend their workspace with their own services using Events & Hooks. Events notify your HTTPS endpoint when a project is created, published, transferred to another workspace, or deleted. Hooks let your endpoint allow or block an action first, such as checking a message sent in a project’s chat for sensitive data before Lovable processes it. Find it in your workspace settings.\n​\nConnect your app to Scrive\nYou can now connect your Lovable app to Scrive for e-signatures and electronic identification (eID). Scrive eSign sends documents for signature and tracks their signing status. Scrive eID Hub verifies who your app’s users are with national eIDs such as BankID and MitID. It fits contract sending portals, onboarding with signed agreements, and identity-verified sign-ups. Add it from Connectors, or ask Lovable in a project to connect it.\n​\nRedesigned sidebar\nThe sidebar now organizes your projects and chats into three sections: Pinned, Projects, and Recent chats. Pinned replaces Starred and shows the projects and chats you pinned, with the most recently pinned first. Projects and Recent chats each link to their full list.\n​\nKnowledge is now Instructions\nIn workspace and project settings, Knowledge is now Instructions. Workspace knowledge and project knowledge are now called workspace instructions and project instructions. They work the same way, so nothing changes for your projects.\n​\nOct 26, 2026\n​\nManage IdP group mappings in one place\nWorkspace admins and owners on Business and Enterprise plans now map IdP groups to workspace roles in the Provisioning groups section of the workspace’s Identity settings. On Enterprise plans, SCIM provisioning uses the same mappings. Workspace owners can also map a group to the Owner role.\n​\nRedesigned connector pages\nEach connector’s page now has a Connect button that creates the first connection type the connector supports. More options lists the other types. The connector’s connections appear in one Connections list, where the Visibility column shows whether each one is Private or Shared. You can sort the list by name, visibility, or number of projects.\n​\nScroll through all files in the Files tab\nYour project’s Files tab now loads more files as you scroll, so you can browse a large project’s files in one list.\n​\nOct 22, 2026\n​\nClearer Privacy & security settings\nThe Privacy & security settings have rew",
+    "headings": [
+      "H2: Documentation Index",
+      "H2: On this page",
+      "H1: Lovable changelog",
+      "H3: ​ Get an email before your credits run out",
+      "H3: ​ Redesigned Share menu",
+      "H3: ​ Set up two-factor authentication from the dashboard banner",
+      "H3: ​ Events & hooks for your workspace",
+      "H3: ​ Connect your app to Scrive",
+      "H3: ​ Redesigned sidebar",
+      "H3: ​ Knowledge is now Instructions",
+      "H3: ​ Manage IdP group mappings in one place",
+      "H3: ​ Redesigned connector pages",
+      "H3: ​ Scroll through all files in the Files tab",
+      "H3: ​ Clearer Privacy & security settings",
+      "H3: ​ Folder access applies to personal folders only",
+      "H3: ​ Gemini 2.5 chat models are retired for your app’s AI features",
+      "H3: ​ See adoption by department without SCIM",
+      "H3: ​ Group your workspaces into an organization",
+      "H3: ​ Let Lovable create your Supabase project",
+      "H3: ​ App + chat connectors: LlamaParse Platform and n8n",
+      "H3: ​ Seedream 5 Pro and Seedance 2.5 for your app’s AI features",
+      "H3: ​ Redesigned More menu",
+      "H3: ​ Connect your app to Cube",
+      "H3: ​ Faster dictation",
+      "H3: ​ Request edit access to a project you can only view",
+      "H3: ​ Request a higher workspace role",
+      "H3: ​ Jump to your last chat in the desktop app",
+      "H3: ​ Require approval or block publishing with workspace policies",
+      "H3: ​ Review publish requests and findings in the Action center",
+      "H3: ​ Add OIDC sign-in to your app",
+      "H3: ​ Lovable writes and runs tests for the rules you change",
+      "H3: ​ Connect your app to Pledge",
+      "H3: ​ GPT Transcribe for your app’s speech-to-text features",
+      "H3: ​ Formatted Markdown previews in the Files tab",
+      "H3: ​ Larger document previews in the Files tab",
+      "H3: ​ Removed: tabs in the desktop app",
+      "H3: ​ Export audit logs to your SIEM or cloud storage",
+      "H3: ​ Use Lovable from Claude through your company’s SSO",
+      "H3: ​ Login pages include Sign in with Lovable by default",
+      "H3: ​ GPT-6.1 Sol for your app’s AI features"
+    ],
+    "buttons": [
+      "Maximize assistant panel",
+      "Close assistant panel",
+      "Add attachment",
+      "Send message",
+      "Search...\nCtrl K",
+      "Ask Assistant\nCtrl+I",
+      "Change theme preference",
+      "Search...",
+      "Toggle assistant panel",
+      "More actions",
+      "NavigationLovable changelog",
+      "On this page",
+      "Copy page",
+      "More actions",
+      "Copy pageCopy page",
+      "More actions",
+      "Oct 28, 2026",
+      "Oct 27, 2026",
+      "Oct 26, 2026",
+      "Oct 22, 2026",
+      "Oct 21, 2026",
+      "Oct 20, 2026",
+      "Oct 19, 2026",
+      "Oct 18, 2026",
+      "Oct 17, 2026",
+      "Oct 16, 2026",
+      "Oct 15, 2026",
+      "Oct 14, 2026",
+      "Oct 13, 2026",
+      "Oct 12, 2026",
+      "Oct 9, 2026",
+      "Oct 8, 2026",
+      "Oct 7, 2026",
+      "Oct 6, 2026",
+      "Oct 5, 2026",
+      "Oct 2, 2026",
+      "Oct 1, 2026",
+      "Sep 30, 2026",
+      "Sep 29, 2026",
+      "Sep 25, 2026",
+      "Sep 24, 2026",
+      "Sep 23, 2026",
+      "Sep 22, 2026",
+      "Sep 21, 2026",
+      "Sep 20, 2026",
+      "Sep 19, 2026",
+      "Sep 18, 2026",
+      "Sep 17, 2026",
+      "Sep 16, 2026",
+      "Sep 15, 2026",
+      "Sep 11, 2026",
+      "Sep 10, 2026",
+      "Sep 9, 2026",
+      "Sep 8, 2026",
+      "Sep 7, 2026",
+      "Sep 4, 2026",
+      "Sep 3, 2026",
+      "Sep 2, 2026",
+      "Sep 1, 2026",
+      "Aug 31, 2026"
+    ],
+    "hosts": [
+      "docs.lovable.dev",
+      "mintcdn.com",
+      "d3gk2c5xim1je2.cloudfront.net",
+      "leaves.mintlify.com"
+    ],
+    "apiCalls": [
+      {
+        "m": "OPTIONS",
+        "u": "https://leaves.mintlify.com/api/search/lovable-f9060f1e",
+        "s": "FAILED",
+        "t": "Other"
+      },
+      {
+        "m": "GET",
+        "u": "https://docs.lovable.dev/_mintlify/assistant/siteconfig",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "POST",
+        "u": "https://leaves.mintlify.com/api/search/lovable-f9060f1e",
+        "s": "FAILED",
+        "t": "Fetch"
+      }
+    ],
+    "counts": {
+      "requests": 67
+    }
+  },
+  {
+    "name": "community",
+    "url": "https://lovable.dev/community",
+    "startedAt": "2026-10-30T17:05:13.914Z",
+    "finalUrl": "https://lovable.dev/community",
+    "title": "Join the Lovable Community | Lovable Discord or Browse Events",
+    "text": "Skip to main content\nWe use cookies to enhance your development experience and keep your data secure. Privacy Policy\nOK\nManage preferences\nDo not sell my data\nSolutions\nResources\nCommunity\nEnterprise\nPricing\nSecurity\nLog in\nGet started\nJoin the community\nWelcome to the\nLovable community\n\nBuild the future with thousands of creators, founders, and dreamers. Whether you're brand new or a professional vibe coder, there's a place for you here.\n\nBrowse events\nJoin Lovable on Discord\nConnect with 160K+ \nbuilders online or in person. Get real-time help, share what you're building, \nattend events near you \nor host your own— whether you're learning, building, or growing alongside others.\nJoin IRL\nExplore events\nJoin online\nJoin online community\nBecome a community leader\nApply to programs\n\nHackathons, buildathons, workshops.\nEvery event looks different, but they all share the same energy: a room full of people shipping something real. Every event is organized and hosted by community members, with support from Lovable.\n\n0K+\nDiscord members\n0+\nCommunity leaders\n0+\nEvents hosted globally\n0+\nCountries with Ambassadors\nJoin or host a Lovable community event near you\nApply here\nReal builders, real community, real impact\nPartner with Lovable\n\nPartnerships are for organizations who want to formally collaborate with Lovable: educators, incubators, content creators, and teams exploring product integrations. If you're building content, teaching others, running a course or accelerator, or exploring how Lovable fits into your ecosystem, reach out to our Partnerships team.\n\nExplore partnerships\nFrequently asked questions\nHow do I join the Lovable community?\nDo I need to be technical to get involved?\nWhat's the difference between Ambassador and Campus Leader?\nHow do I find or host a Lovable event?\nCan I be part of multiple community programs?\nHow active is the community?\nDo I need to speak English to participate?\nWhat does it cost?\nI have a question not listed here.\nReady to bring your idea to life?\nAsk Lovable to create a landing page for my...\n\n\n\n\nBuild\nCompany\nCareers\nPress & media\nEnterprise\nSecurity\nTrust center\n(opens in new window)\nPartnerships\nProduct\nPricing\nStudent discount\nFor work\nSmall businesses\nFounders\nProduct Managers\nDesigners\nMarketers\nSales\nOps\nPeople\nApp builder\nWebsite builder\nAI-powered apps\nPrototyping\nInternal Tools\nDownload apps\nConnections\n(opens in new window)\nChangelog\n(opens in new window)\nStatus\n(opens in new window)\nResources\nLearn\n(opens in new window)\nTemplates\nGuides\nConnectors\nMCP server\nVideos\nBlog\nSupport\nReviews\nSitemap\nLegal\nPrivacy policy\n(opens in new window)\nDo not sell or share my personal information\nCookie settings\nEnterprise terms\n(opens in new window)\nGeneral terms\n(opens in new window)\nDesktop app terms\n(opens in new window)\nDomain registration terms\n(opens in new window)\nDMCA copyright policy\n(opens in new window)\nAccessibility\n(opens in new window)\nPlatform rules\n(opens in new window)\nReport abuse\n(opens in new window)\nReport security concerns\n(opens in new window)\nDPA\n(opens in new window)\nCommunity\nBecome a partner\nHire a Lovable partner\n(opens in new window)\nAffiliates\nCode of conduct\nDiscord\n(opens in new window)\nReddit\n(opens in new window)\nX / Twitter\n(opens in new window)\nYouTube\n(opens in new window)\nLinkedIn\n(opens in new window)\nEN",
+    "headings": [
+      "H1: Welcome to the Lovable community",
+      "H2: Join IRL",
+      "H2: Join online",
+      "H2: Become a community leader",
+      "H2: Join or host a Lovable community event near you",
+      "H2: Real builders, real community, real impact",
+      "H2: Partner with Lovable",
+      "H2: Frequently asked questions",
+      "H3: How do I join the Lovable community?",
+      "H3: Do I need to be technical to get involved?",
+      "H3: What's the difference between Ambassador and Campus Leader?",
+      "H3: How do I find or host a Lovable event?",
+      "H3: Can I be part of multiple community programs?",
+      "H3: How active is the community?",
+      "H3: Do I need to speak English to participate?",
+      "H3: What does it cost?",
+      "H3: I have a question not listed here.",
+      "H2: Ready to bring your idea to life?",
+      "H2: Company",
+      "H2: Product",
+      "H2: Resources",
+      "H2: Legal",
+      "H2: Community"
+    ],
+    "buttons": [
+      "OK",
+      "Manage preferences",
+      "Do not sell my data",
+      "Toggle navigation menu",
+      "Solutions",
+      "Resources",
+      "How do I join the Lovable community?",
+      "Do I need to be technical to get involved?",
+      "What's the difference between Ambassador and Campus Leader?",
+      "How do I find or host a Lovable event?",
+      "Can I be part of multiple community programs?",
+      "How active is the community?",
+      "Do I need to speak English to participate?",
+      "What does it cost?",
+      "I have a question not listed here.",
+      "Additional actions",
+      "Build",
+      "Transcribe",
+      "EN"
+    ],
+    "hosts": [
+      "lovable.dev",
+      "api.lovable.dev",
+      "rs.lovable.dev",
+      "o4506071217143808.ingest.us.sentry.io"
+    ],
+    "apiCalls": [
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/auth-shared-leaves-CmFg8fHe.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "GET",
+        "u": "https://api.lovable.dev/consent/policy",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1c038d93a442abfb368123c39d8307c61b9f50f4e88b307ac5fb3fdb8056a5a7",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/dfe4826ec5345271293b5e0dd740a09da67bcedb8f7ce5dc6f18dce98fb89684",
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/e92a63b641f7839fdf318f4ff33c800e1b523b0f37dcb473d554463730d513ac",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://rs.lovable.dev/sourceConfig?p=npm&v=3.34.3&build=modern&writeKey=30uiF44drV1UnRmUEUVhfQ2L500&lockIntegrationsVersion=true&lockPluginsVersion=true",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "s": 200,
+        "t": "XHR"
+      }
+    ],
+    "counts": {
+      "requests": 203
+    }
+  },
+  {
+    "name": "blog",
+    "url": "https://lovable.dev/blog",
+    "startedAt": "2026-10-30T17:05:18.939Z",
+    "finalUrl": "https://lovable.dev/blog",
+    "title": "Blog - Lovable",
+    "text": "Skip to main content\nWe use cookies to enhance your development experience and keep your data secure. Privacy Policy\nOK\nManage preferences\nDo not sell my data\nSolutions\nResources\nCommunity\nEnterprise\nPricing\nSecurity\nLog in\nGet started\nBlog\n\nCompiled notes from the Lovable team\n\nLatest\nAnnouncements\nChangelog\nTechnical blog\nInside Lovable\nDevelopment 101\nReports\nTutorials\nStories\nAnnouncements\nHello from Lovable's new London home\n\nWe're opening our first London office, our second engineering, product, and design hub after Stockholm. Here's what the London team is building, and what the UK is building with Lovable.\n\nLovable\n•\nOctober 29, 2026\nAnnouncements\nYour workspace has undead apps\n\nForgotten projects can stay published, connected to data, and unowned. This Halloween, hunt them down in our free game, and see how Enterprise admins can clean up abandoned projects automatically.\n\nTalia Moyal\n•\nOctober 27, 2026\nDevelopment 101\nLovable’s compliance and your app: what’s covered, what’s your responsibility\n\nLovable’s SOC 2, ISO 27001, GDPR, and AIUC-1 commitments cover the platform, not the apps you build. Here’s what each one means for your project and how to think about your own compliance.\n\nTalia Moyal\n•\nOctober 21, 2026\nAnnouncements\nEnterprise features October roundup\n\nThis month's Enterprise releases help central teams take AI-built apps to production: deploy in your own AWS or Azure account, EU inference, Organizations, workspace policies and approvals, the Action center, the Lovable API, and audit log exports.\n\nRohan Ranjan\n•\nOctober 20, 2026\nAnnouncements\nThe AI you already use, now powering the apps you create\n\nGPT-Live, the latest Claude models, Gemini 4 Argon, Gemini Omni, Lyria, Perplexity, Firecrawl, Parallel and Jev are now in Lovable. Describe what you want to build and add voice, reasoning, video, music and live web research to your app.\n\nGemma Casey-Swift\n•\nOctober 15, 2026\nAnnouncements\nDeploy on Azure: keep your Lovable apps in your own subscription\n\nDeploy on Azure is now in private preview, so your apps and their data can run in your own Azure subscription. Here's every way to build with Lovable on Microsoft today, from fully inside your Microsoft environment to fully managed by Lovable.\n\nMalavika Balachandran Tadeusz & Rohan Ranjan\n•\nOctober 15, 2026\nInside Lovable\nWhat financial services marketing teams need to know about data, access, and security before publishing\n\nHow financial services marketing teams can assess the risk of an app, control who sees which data, and check what matters before publishing with Lovable.\n\nTalia Moyal\n•\nOctober 15, 2026\nAnnouncements\nFrom building your app to growing it: Lovable now helps you find customers\n\nAsk Lovable how to grow your app, and it creates a growth plan and helps you carry it out across Google Search, YouTube, Google Maps, Google Ads, Facebook, and Instagram.\n\nLovable\n•\nOctober 14, 2026\nAnnouncements\nDeploy your Lovable apps in your own AWS account\n\nYour teams keep building with Lovable. The apps they create, and the data behind them, can now run inside your own AWS account. Available in private preview for Enterprise customers.\n\nMalavika Balachandran Tadeusz & Rohan Ranjan\n•\nOctober 14, 2026\nAnnouncements\nEU inference: control where AI processes your requests\n\nEnterprise teams can route supported AI model requests to European endpoints, both while building in Lovable and in the AI features of their published apps.\n\nTalia Moyal\n•\nOctober 12, 2026\nAnnouncements\nA vulnerability in TanStack Start: what we found and what we did to protect your apps\n\nOur security team found a vulnerability (CVE-2026-102989) in TanStack Start, reported it to the maintainers, and protected hosted apps with firewall rules while a fix was prepared. Here is what it means for your app.\n\nTalia Moyal\n•\nSeptember 30, 2026\nAnnouncements\nLovable + Microsoft: run the apps you build inside your company's Microsoft tenant\n\nLovable now works with Microsoft so the apps your team builds run inside your company's Microsoft tenant, with Entra sign-in and IT controls.\n\nStephanie Toh\n•\nSeptember 28, 2026\nAnnouncements\nYou can now chat with Lovable for free\n\nYou can now chat with Lovable for free. Ask it which idea is worth building. Have it turn customer feedback into a plan. Put it to work on an app you’ve already launched.\n\nSeptember 24, 2026\nTechnical blog\nInside Chats: How Lovable's Agents Work Together\n\nHow Lovable's agents work together through trajectories, inboxes, and activations—the Git-inspired event log and Agent Control Plane behind Chats, streaming, forking, and agents that survive deploys.\n\nRouzbeh Delavari\n•\nSeptember 24, 2026\nAnnouncements\nFaster builds, same quality: Opus 5.5 now in Lovable\nSeptember 22, 2026\nAnnouncements\nLovable is a founding member of the Blueprint Alliance\n\nLovable joins AWS, CrowdStrike, Databricks, Docker, Google Cloud, Okta, Proofpoint, Salesforce, ServiceNow, Wiz, and Zscaler as a founding member of the Blueprint Alliance.\n\nTalia Moyal\n•\nSeptember 22, 2026\nAnnouncements\nLovable acquires Sutro to make software easier to explain and easier to trust\n\nLovable has acquired Sutro. Founder Tomas Halgas and three Sutro engineers join Lovable to make how software works understandable to the people building with it.\n\nSeptember 18, 2026\nAnnouncements\nLovable + Salesforce: build the apps your team needs, where your team already works\n\nLovable now works with Salesforce so the apps and agents your team builds run wherever your team already works: Headless 360, Slack, and installable agents.\n\nSeptember 15, 2026\nTechnical blog\nFaster previews, soon powered by OJ\n\nLovable previews are moving to OJ, a Rust-native dev server that starts them several times faster on a fraction of the memory. We are rolling it out gradually, and today OJ is open source in the Lovable GitHub organization.\n\nRaphael Amorim\n•\nSeptember 15, 2026\nStories\nHow Kedde used Lovable to challenge Stockholm’s zone-based logistics system\n\nGroundworks contractor Kedde built",
+    "headings": [
+      "H1: Blog",
+      "H2: Hello from Lovable's new London home",
+      "H2: Your workspace has undead apps",
+      "H2: Lovable’s compliance and your app: what’s covered, what’s your responsibility",
+      "H2: Enterprise features October roundup",
+      "H2: The AI you already use, now powering the apps you create",
+      "H2: Deploy on Azure: keep your Lovable apps in your own subscription",
+      "H2: What financial services marketing teams need to know about data, access, and security before publishing",
+      "H2: From building your app to growing it: Lovable now helps you find customers",
+      "H2: Deploy your Lovable apps in your own AWS account",
+      "H2: EU inference: control where AI processes your requests",
+      "H2: A vulnerability in TanStack Start: what we found and what we did to protect your apps",
+      "H2: Lovable + Microsoft: run the apps you build inside your company's Microsoft tenant",
+      "H2: You can now chat with Lovable for free",
+      "H2: Inside Chats: How Lovable's Agents Work Together",
+      "H2: Faster builds, same quality: Opus 5.5 now in Lovable",
+      "H2: Lovable is a founding member of the Blueprint Alliance",
+      "H2: Lovable acquires Sutro to make software easier to explain and easier to trust",
+      "H2: Lovable + Salesforce: build the apps your team needs, where your team already works",
+      "H2: Faster previews, soon powered by OJ",
+      "H2: How Kedde used Lovable to challenge Stockholm’s zone-based logistics system",
+      "H2: Introducing the Lovable Partner Program",
+      "H2: Introducing drafts: an easier way to collaborate and explore new ideas",
+      "H2: Lovable now builds with Fable 5.1",
+      "H2: How we made Lovable apps work with the rest of your stack",
+      "H2: How to get your app verified for third-party data access",
+      "H2: How we migrated lovable.dev away from Next.js and turned it into another Lovable app",
+      "H2: MCP 101: What it is and how it works in Lovable",
+      "H2: We just raised $400M in Series C funding to help people run their businesses",
+      "H2: The model picker is a dead end",
+      "H2: Lovable + Cerebras: investing in infrastructure that keeps up with your ideas",
+      "H2: A dedicated security page for every business built on Lovable",
+      "H2: Lovable apps can now work with your users' connected tools",
+      "H2: How Lovable secures connected data in production apps",
+      "H2: Enterprise features July roundup",
+      "H2: How we run swarms of AI hacking agents against ourselves in a game of capture the flag",
+      "H2: Lovable is the first coding agent platform to earn AIUC-1 certification",
+      "H2: Your Lovable app now works inside ChatGPT and Claude",
+      "H2: $85,000 in tokens later: What I learned from scaling agentic coding at Lovable",
+      "H2: How Nursa built a new product in 48 hours and changed how its entire company ships software"
+    ],
+    "buttons": [
+      "OK",
+      "Manage preferences",
+      "Do not sell my data",
+      "Toggle navigation menu",
+      "Solutions",
+      "Resources",
+      "EN"
+    ],
+    "hosts": [
+      "lovable.dev",
+      "api.lovable.dev",
+      "rs.lovable.dev",
+      "o4506071217143808.ingest.us.sentry.io"
+    ],
+    "apiCalls": [
+      {
+        "m": "GET",
+        "u": "https://api.lovable.dev/consent/policy",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1c038d93a442abfb368123c39d8307c61b9f50f4e88b307ac5fb3fdb8056a5a7",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/_serverFn/e92a63b641f7839fdf318f4ff33c800e1b523b0f37dcb473d554463730d513ac",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "GET",
+        "u": "https://lovable.dev/assets/auth-shared-leaves-CmFg8fHe.js",
+        "s": 200,
+        "t": "Script"
+      },
+      {
+        "m": "GET",
+        "u": "https://rs.lovable.dev/sourceConfig?p=npm&v=3.34.3&build=modern&writeKey=30uiF44drV1UnRmUEUVhfQ2L500&lockIntegrationsVersion=true&lockPluginsVersion=true",
+        "s": 200,
+        "t": "XHR"
+      },
+      {
+        "m": "POST",
+        "u": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+        "s": 200,
+        "t": "Fetch"
+      },
+      {
+        "m": "POST",
+        "u": "https://rs.lovable.dev/v1/batch",
+        "t": "XHR"
+      }
+    ],
+    "counts": {
+      "requests": 146
+    }
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "state": "watch_end",
+  "log": [
+    {
+      "t": "2026-10-30T17:33:03.290Z",
+      "evt": "attached"
+    },
+    {
+      "t": "2026-10-30T17:33:08.585Z",
+      "evt": "opened",
+      "state": "waiting_for_human",
+      "url": "https://lovable.dev/login"
+    },
+    {
+      "t": "2026-10-30T17:33:13.618Z",
+      "evt": "poll",
+      "state": "waiting_for_human",
+      "url": "/login",
+      "title": "Login",
+      "text": "We use cookies to enhance your development experience and keep your data secure. Privacy Policy OK Manage preferences Do not sell my data Log in Continue with Google Continue with GitHub Continue with",
+      "loginButtons": 4
+    },
+    {
+      "t": "2026-10-30T17:35:38.906Z",
+      "evt": "poll",
+      "state": "waiting_for_human",
+      "url": "/getting-started",
+      "title": "Getting started | Lovable",
+      "text": "Skip to main content We use cookies to enhance your development experience and keep your data secure. Privacy Policy OK Manage preferences Do not sell my data",
+      "loginButtons": 0
+    },
+    {
+      "t": "2026-10-30T17:35:43.922Z",
+      "evt": "poll",
+      "state": "waiting_for_human",
+      "url": "/dashboard",
+      "title": "Home | Lovable",
+      "text": "Skip to main content 陈 陈芊's Lovable New Search Ctrl K Projects Projects Connectors Chats Projects P Pixel Perfect Picture Pixel Perfect Picture Waiting for approval P Pixel Perfect Replica Pixel Perfe",
+      "loginButtons": 0
+    },
+    {
+      "t": "2026-10-30T17:35:43.923Z",
+      "evt": "logged_in",
+      "state": "logged_in",
+      "url": "/dashboard",
+      "title": "Home | Lovable",
+      "text": "Skip to main content 陈 陈芊's Lovable New Search Ctrl K Projects Projects Connectors Chats Projects P Pixel Perfect Picture Pixel Perfect Picture Waiting for approval P Pixel Perfect Replica Pixel Perfe",
+      "loginButtons": 0
+    },
+    {
+      "t": "2026-10-30T17:35:44.279Z",
+      "evt": "watch_end",
+      "state": "watch_end"
+    }
+  ]
+}

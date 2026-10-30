@@ -1,0 +1,3015 @@
+[
+  {
+    "url": "https://lovable.dev/",
+    "label": "desktop",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "startedAt": "2026-10-30T17:00:59.366Z",
+    "challengeAfterMs": 0,
+    "finalUrl": "https://lovable.dev/",
+    "title": "App & Website Builder | Build Software in Minutes | Lovable",
+    "stillChallenge": false,
+    "textLength": 3924,
+    "summary": {
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+        "theme-color": "#fcfbf8",
+        "csp-nonce": "05Vkb4ZO3N0zklDJDpt3ww==",
+        "description": "Describe what you want in plain language and Lovable builds it: full-stack apps, websites and internal tools. Start free.",
+        "robots": "index, follow",
+        "og:title": "App & Website Builder | Build Software in Minutes | Lovable",
+        "og:description": "Describe what you want in plain language and Lovable builds it: full-stack apps, websites and internal tools. Start free.",
+        "og:type": "website",
+        "og:site_name": "Lovable",
+        "og:locale": "en_US",
+        "og:image": "https://lovable.dev/img/opengraph-image.png",
+        "twitter:card": "summary_large_image",
+        "twitter:title": "App & Website Builder | Build Software in Minutes | Lovable",
+        "twitter:description": "Describe what you want in plain language and Lovable builds it: full-stack apps, websites and internal tools. Start free.",
+        "twitter:creator": "@Lovable",
+        "twitter:image": "https://lovable.dev/img/opengraph-image.png"
+      },
+      "scripts": [
+        "https://lovable.dev/assets/index-DaWAvAnJ.js"
+      ],
+      "styles": [
+        "https://lovable.dev/assets/globals-BgmDYl1F.css",
+        "https://lovable.dev/assets/fonts-yKhYizLu.css",
+        "https://lovable.dev/assets/index-4PBh0cLs.css",
+        "https://lovable.dev/assets/app-shared-BCkUO16J.css",
+        "https://lovable.dev/assets/app-boot-LZ075GGe.css",
+        "https://lovable.dev/assets/ui-password-input-BI-t7jJ0.css",
+        "https://lovable.dev/assets/dashboard-shared-PAOUoimL.css",
+        "https://lovable.dev/assets/dashboard-boot-shared-Boe2Kd3I.css",
+        "https://lovable.dev/assets/app-lazy-shared-DBNxXqt-.css"
+      ],
+      "preloads": [
+        "https://lovable.dev/assets/HomePage-fNb4o3_v.js",
+        "https://lovable.dev/assets/home-page-shared-DlhkQkGc.js",
+        "https://lovable.dev/assets/i18n-fn/homePage-CuwgfEUz.js",
+        "https://lovable.dev/assets/create-form-shared-D_gg7sBx.js",
+        "https://lovable.dev/assets/dashboard-shared-DXm3j71W.js",
+        "https://lovable.dev/assets/i18n-fn/marketing--homePage-BbN-0s43.js",
+        "https://lovable.dev/assets/i18n-fn/createForm-C9YWy1wl.js",
+        "https://lovable.dev/assets/login-shared-leaves-D7ocaS-s.js",
+        "https://lovable.dev/assets/ui-alert-C7sT6j5k.js",
+        "https://lovable.dev/assets/settings-shared-leaves-CMKbm4b2.js",
+        "https://lovable.dev/assets/ui-split-button-MP45u7sy.js",
+        "https://lovable.dev/assets/dashboard-icons-CrBZObrU.js",
+        "https://lovable.dev/assets/ui-shared-leaves-eEPTrd2f.js",
+        "https://lovable.dev/assets/route-shared-leaves-CsBgYvui.js",
+        "https://lovable.dev/assets/ui-icon-sidebar-BHmgHMje.js",
+        "https://lovable.dev/assets/ui-icon-gift-BgPuZ0lN.js",
+        "https://lovable.dev/assets/i18n-fn/create-form--createForm-p501QEn2.js",
+        "https://lovable.dev/assets/hook-typewriter-Beg_8CQs.js",
+        "https://lovable.dev/assets/vendor-base-ui-lazy-BsT_qRdJ.js",
+        "https://lovable.dev/assets/ui-password-input-uu2SDD1u.js",
+        "https://lovable.dev/assets/marketing-landing-app-shared-Cnk8kQ5b.js",
+        "https://lovable.dev/assets/vendor-base-ui-chrome-D6zJntFf.js",
+        "https://lovable.dev/assets/vendor-hook-form-BLQXKauk.js",
+        "https://lovable.dev/assets/index-DaWAvAnJ.js",
+        "https://lovable.dev/assets/app-boot-6sD_1shz.js",
+        "https://lovable.dev/assets/vendor-motion-DwXY1EMP.js",
+        "https://lovable.dev/assets/vendor-react-Fx2PtaaM.js",
+        "https://lovable.dev/assets/rolldown-runtime-CSz5w8F5.js",
+        "https://lovable.dev/assets/vendor-protobuf-BvDTVJFg.js",
+        "https://lovable.dev/assets/vendor-firebase-IHs4l-D7.js",
+        "https://lovable.dev/assets/vendor-firebase-core-ChSZSTvC.js",
+        "https://lovable.dev/assets/vendor-overlay-WeHoSqo7.js",
+        "https://lovable.dev/assets/flag-catalog-D_ohadnl.js",
+        "https://lovable.dev/assets/i18n-fn/_eager-Cm415-Dn.js",
+        "https://lovable.dev/assets/vendor-tanstack-D6yZ0yGH.js",
+        "https://lovable.dev/assets/vendor-sync-store-hJwz-_Wy.js",
+        "https://lovable.dev/assets/app-shared-Db1aCW-1.js",
+        "https://lovable.dev/assets/vendor-datefns-PYvVVSwq.js",
+        "https://lovable.dev/assets/vendor-schema-CqY_I52z.js",
+        "https://lovable.dev/assets/vendor-es-toolkit-CQNapaF9.js",
+        "https://lovable.dev/assets/vendor-util-bDkZRKmn.js",
+        "https://lovable.dev/assets/vendor-base-ui-eager-BEgWHTBu.js",
+        "https://lovable.dev/assets/vendor-floating-ui-D0AC_O_Q.js",
+        "https://lovable.dev/assets/vendor-base-ui-field-Cn_B3UdU.js",
+        "https://lovable.dev/assets/_marketing-GxtPNYD3.js",
+        "https://lovable.dev/assets/_marketing-BhDQHK74.js",
+        "https://lovable.dev/assets/marketing-home-shared-DUEIbfef.js",
+        "https://lovable.dev/assets/CameraPlainVariable-c48bd243-BhPypTEq.woff2",
+        "https://lovable.dev/assets/VoiceSoundCuesHost-BQn5fChi.js",
+        "https://lovable.dev/assets/VoiceSoundCuesHost-B8IHaroq.js",
+        "https://lovable.dev/assets/app-lazy-shared-CVRZYwTL.js",
+        "https://lovable.dev/assets/i18n-fn/x-PPvLPvQ6.js",
+        "https://lovable.dev/assets/i18n-fn/builderChrome-BoSIg4vh.js",
+        "https://lovable.dev/assets/i18n-fn/editor-BkGJToHk.js",
+        "https://lovable.dev/assets/i18n-fn/mentionDropdown-O0E_o9Oo.js",
+        "https://lovable.dev/assets/i18n-fn/previewInteractionToolbar-DBiNMcX1.js",
+        "https://lovable.dev/assets/i18n-fn/publish-C5q0LSQy.js",
+        "https://lovable.dev/assets/i18n-fn/security-CRHHiXRP.js",
+        "https://lovable.dev/assets/i18n-fn/seoReview-D5c3zfNj.js",
+        "https://lovable.dev/assets/i18n-fn/settings-CqH4zhu8.js",
+        "https://lovable.dev/assets/i18n-fn/_misc-BfhbDV2c.js",
+        "https://lovable.dev/assets/dashboard-boot-shared-C3xkdAOt.js",
+        "https://lovable.dev/assets/i18n-fn/creditLimitReached-DVsx6ECS.js",
+        "https://lovable.dev/assets/i18n-fn/dashboard-uEHDKXsM.js",
+        "https://lovable.dev/assets/i18n-fn/editorNav-UVYshguj.js",
+        "https://lovable.dev/assets/i18n-fn/filesBrowse-D-hobMYP.js",
+        "https://lovable.dev/assets/i18n-fn/projectFilters-Bjm-56Yg.js",
+        "https://lovable.dev/assets/i18n-fn/projectMenu-DCofL8nk.js",
+        "https://lovable.dev/assets/i18n-fn/share-CL0NvY0-.js",
+        "https://lovable.dev/assets/i18n-fn/workspaceChat-C5Ra_1qg.js",
+        "https://lovable.dev/assets/i18n-fn/files--filesBrowse-CUygyaWZ.js",
+        "https://lovable.dev/assets/i18n-fn/files--filesCollections-BkoMEHxU.js",
+        "https://lovable.dev/assets/i18n-fn/files--filesView-CIrsjSdG.js",
+        "https://lovable.dev/assets/dashboard-boot-icons-FUqTWbDS.js",
+        "https://lovable.dev/assets/vendor-radix-lazy-BcZ7vF7y.js",
+        "https://lovable.dev/assets/vendor-tslib-CeDFfI6J.js",
+        "https://lovable.dev/assets/auth-shared-leaves-CmFg8fHe.js",
+        "https://lovable.dev/assets/i18n-fn/x--xChangesetCard-_QzcCZl6.js",
+        "https://lovable.dev/assets/i18n-fn/x--xChangesetField-BUS1D3hb.js",
+        "https://lovable.dev/assets/i18n-fn/x--xChangesetOutcome-CfRUwO4m.js",
+        "https://lovable.dev/assets/i18n-fn/x--xSetupCard-BuSuj1dX.js",
+        "https://lovable.dev/assets/i18n-fn/x--googleXCreateCard-CqTcqGro.js",
+        "https://lovable.dev/assets/i18n-fn/drafts--draftDialog-B6xhcv6C.js",
+        "https://lovable.dev/assets/i18n-fn/drafts--editorNav-qVh8KCBR.js",
+        "https://lovable.dev/assets/marketing-landing-app-shared-B9OZcEVb.js",
+        "https://lovable.dev/assets/voiceSessionStore-D-Gb86r3.js",
+        "https://lovable.dev/assets/i18n-fn/chat--workspaceChatVoice-W2RP377m.js",
+        "https://lovable.dev/assets/editor-leaves-DEp7jeUv.js",
+        "https://lovable.dev/assets/useWorkspaceChatTitle-CKuWWDmf.js",
+        "https://lovable.dev/assets/editor-leaves-CWGfo_Mq.js",
+        "https://lovable.dev/assets/VoiceOrb-DgE-DMHt.js",
+        "https://lovable.dev/assets/voiceSessionTypes-B34t1HaQ.js",
+        "https://lovable.dev/assets/voiceSoundCues-Djm47ljS.js",
+        "https://lovable.dev/assets/pendingChatAction-njZB9x-W.js",
+        "https://lovable.dev/assets/app-shared-editor-DddFpfvg.js",
+        "https://lovable.dev/assets/app-lazy-surfaces-D99rc_9P.js",
+        "https://lovable.dev/assets/i18n-fn/tools-h_1PHf69.js",
+        "https://lovable.dev/assets/usePendingCheckIn-D7K3nA8P.js",
+        "https://lovable.dev/assets/editor-leaves-BDd-z0T0.js",
+        "https://lovable.dev/assets/HashPromptProcessor-CJkK73hv.js",
+        "https://lovable.dev/assets/ChatInputTiptap-DyZLjqEs.js",
+        "https://lovable.dev/assets/i18n-fn/chat--pastedText-DJ78icfF.js",
+        "https://lovable.dev/assets/useIsLovableAIEnabledForWorkspace-C6ebZ4Wk.js",
+        "https://lovable.dev/assets/vendor-editor-core-yRANuKn8.js",
+        "https://lovable.dev/assets/vendor-editor-BXFvOS0x.js",
+        "https://lovable.dev/assets/connectorPillNavigationSources-BUz_PC0P.js",
+        "https://lovable.dev/assets/usePastedTextArtifacts-B7VWioC4.js",
+        "https://lovable.dev/assets/WorkspaceFileMention-BeocXLW0.js",
+        "https://lovable.dev/assets/useMentionSuggestion-B4S5dyIz.js",
+        "https://lovable.dev/assets/useCatalogDocumentPage-TGlC7_ly.js",
+        "https://lovable.dev/assets/embedFilename-D50FBds7.js",
+        "https://lovable.dev/assets/slashCommandArmedContext-vso1_Anq.js",
+        "https://lovable.dev/assets/CollectionMentionPill-3GnA2aE4.js",
+        "https://lovable.dev/assets/fileChatPrompt-fD7Hbd9G.js",
+        "https://lovable.dev/assets/securityFindingMention-Dpzme3d2.js",
+        "https://lovable.dev/assets/sentMessageHistory-B7ar9KNt.js",
+        "https://lovable.dev/assets/yieldsFocusToComposer-EPlolPrf.js",
+        "https://lovable.dev/assets/plus-menu-CLEEdfz2.js",
+        "https://lovable.dev/assets/i18n-fn/supabaseSharedInstanceWarning-CvHW868a.js",
+        "https://lovable.dev/assets/ZipContentsPreview-L4jOkLNh.js",
+        "https://lovable.dev/assets/sources-BIxJHa0i.js",
+        "https://lovable.dev/assets/i18n-fn/create-form--plusMenu-C2jwRgPk.js",
+        "https://lovable.dev/assets/useComposerSketch-LTQE2ndG.js",
+        "https://lovable.dev/assets/useAddAnnotationToChat-7BIVHdre.js",
+        "https://lovable.dev/assets/imageInputCompressionJobs-CS_WEPPI.js",
+        "https://lovable.dev/assets/ChatFileAttachmentsProvider-CS6rbCBL.js",
+        "https://lovable.dev/assets/i18n-fn/figImport-lRZQoX5J.js",
+        "https://lovable.dev/assets/clipboardImage-BwrYazHY.js",
+        "https://lovable.dev/assets/SketchDialogFrame-SjtWvv-H.js",
+        "https://lovable.dev/assets/useDesignAssets-DYIifL74.js",
+        "https://lovable.dev/assets/useSupabaseOrganizations-CLit1bkP.js",
+        "https://lovable.dev/assets/workspaceChatModelSubMenu-Bys8ysbX.js",
+        "https://lovable.dev/assets/i18n-fn/connected-computer--connectedComputer-B8XYQEJ4.js",
+        "https://lovable.dev/assets/computerSetup-D8xQAOR3.js",
+        "https://lovable.dev/assets/useComputerChange-C3NPPXnl.js",
+        "https://lovable.dev/assets/SharedInstanceWarning-ijYR89ho.js",
+        "https://lovable.dev/assets/useSupabaseConnection-C40DnjSL.js",
+        "https://lovable.dev/assets/util-B1hWnMQa.js",
+        "https://lovable.dev/assets/ProjectStatus-DsUBNwkY.js",
+        "https://lovable.dev/assets/SupabaseOrganization-BYnjCYR7.js",
+        "https://lovable.dev/assets/inputActionMenu-DRYuB579.js",
+        "https://lovable.dev/assets/es-CpGQ2qhN.js",
+        "https://lovable.dev/assets/ModelOverridePill-CdSQwwi0.js",
+        "https://lovable.dev/assets/ComposerPillReveal-DlPURuTf.js",
+        "https://lovable.dev/assets/WorkspaceChatModelPicker-DpuuhyxE.js",
+        "https://lovable.dev/assets/FigmaIcon-BnEOsWNK.js",
+        "https://lovable.dev/assets/availableLibraryProjects-BqJ7xD-V.js",
+        "https://lovable.dev/assets/AiPromptChatFirstRow-CPync6uS.js",
+        "https://lovable.dev/assets/useHasUsedChatMode-C_pmILGV.js",
+        "https://lovable.dev/assets/workspaceChatListHooks-DqoBw3Oh.js",
+        "https://lovable.dev/assets/useRemovedRecentChats-kYP04Ijf.js",
+        "https://lovable.dev/assets/hiddenChatsFlag-CHoj0LlW.js",
+        "https://lovable.dev/assets/useWorkspaceChatMutations-DgrN8yvR.js",
+        "https://lovable.dev/assets/i18n-fn/chat--chatIcon-CtjUWpVe.js",
+        "https://lovable.dev/assets/i18n-fn/chat--workspaceChat-h5SXz7LH.js",
+        "https://lovable.dev/assets/HomeBelowFold-1PVka4yz.js",
+        "https://lovable.dev/assets/HomeMetrics-CaWP18jM.js",
+        "https://lovable.dev/assets/useDocumentHidden-MnAaSBGj.js",
+        "https://lovable.dev/assets/create-form-rhIDTxAb.js",
+        "https://lovable.dev/assets/ActiveWorkspaceOfferEngine-DHSysR6i.js",
+        "https://lovable.dev/assets/useResurrectionGift-oDIX6UmA.js",
+        "https://lovable.dev/assets/useCampaignSeen-BV99zAsa.js",
+        "https://lovable.dev/assets/visit-BDvmaKBc.js",
+        "https://lovable.dev/assets/ChangeNoticeEngine-B0mUY9OR.js",
+        "https://lovable.dev/assets/ConsentUI-DFZuiy0u.js",
+        "https://lovable.dev/assets/i18n-fn/consentX-DN3hmGWA.js",
+        "https://lovable.dev/assets/i18n-fn/consentPreferences-Bk94XMb0.js",
+        "https://lovable.dev/assets/ConsentPreferencesForm-gZuJnJhN.js",
+        "https://lovable.dev/assets/HomeCases-JKvZMBJK.js",
+        "https://lovable.dev/assets/marketing-landing-app-vendor-cXHq0iqM.js",
+        "https://lovable.dev/assets/marketing-landing-app-icons-CEjhr9i8.js",
+        "https://lovable.dev/assets/HomeCases.constants-CTK08pkG.js",
+        "https://lovable.dev/assets/HomeCasesMobileCard-R6BtRPRH.js",
+        "https://lovable.dev/assets/entranceMotion-CTiUixGr.js",
+        "https://lovable.dev/assets/DeletedProjectDialog-BIvqcjrf.js",
+        "https://lovable.dev/assets/DeletedProjectDialog-CPnDgclA.js",
+        "https://lovable.dev/assets/useRestoreProject-BnBBbTq1.js",
+        "https://lovable.dev/assets/deleteRestoreLimit-Y_LXGT5E.js",
+        "https://lovable.dev/assets/githubRepoHelpers-DTqfv8Es.js",
+        "https://lovable.dev/assets/sentry-client-Dk7exQvO.js",
+        "https://lovable.dev/assets/vendor-sentry-DMYBbyUZ.js",
+        "https://lovable.dev/assets/diagnosticsTracing-D4c7Ex7Y.js",
+        "https://lovable.dev/assets/MaliciousExtensionReporter-C239icmU.js",
+        "https://lovable.dev/assets/FullStoryInitializerWrapper-D7Mb-Khu.js",
+        "https://lovable.dev/assets/ImpactProvider-J9AAJoZr.js",
+        "https://lovable.dev/assets/SurveyPopover-V1Il-Qlk.js",
+        "https://lovable.dev/assets/i18n-fn/surveyPopover-DJmVnSTx.js",
+        "https://lovable.dev/assets/ThankYouCard-tI7ry4Uv.js",
+        "https://lovable.dev/assets/surveyQueries-DMdzGnOG.js",
+        "https://lovable.dev/assets/SurveyQuestionnaire-CdolizN1.js",
+        "https://lovable.dev/assets/i18n-fn/gettingStarted-BoJmrG_q.js",
+        "https://lovable.dev/assets/stepped-card-CbVkEMg7.js",
+        "https://lovable.dev/assets/castle.umd-BziypBlb.js",
+        "https://lovable.dev/assets/route-BPwnROAK.js",
+        "https://lovable.dev/assets/blog-DG_wmzVS.js",
+        "https://lovable.dev/assets/i18n-fn/marketing--blogPage-BAZejGk8.js",
+        "https://lovable.dev/assets/editor-leaves-DNoTN8Yf.js",
+        "https://lovable.dev/assets/marketing-landing-app-shared-Dotf99kA.js",
+        "https://lovable.dev/assets/partners-BprWqzFq.js",
+        "https://lovable.dev/assets/i18n-fn/marketing--partnersPage-CiwlvYc2.js",
+        "https://lovable.dev/assets/hairline-divider-aPxTAYBJ.js"
+      ],
+      "headings": [
+        "H2: Build something Lovable",
+        "H2: One platform. Endless possibilities.",
+        "H3: You bring the idea. Lovable brings it to life.",
+        "H3: Refine your design and deploy",
+        "H3: Depend on Lovable, from end to end",
+        "H2: For building and beyond",
+        "H3: Hosting, handled",
+        "H3: Your app stack, connected",
+        "H3: Payments, processed",
+        "H3: Safe and secure, as standard",
+        "H3: Works wherever, whenever",
+        "H3: Hosting, handled",
+        "H3: Your app stack, connected",
+        "H3: Payments, processed",
+        "H3: Safe and secure, as standard",
+        "H3: Works wherever, whenever",
+        "H2: Trusted by top brands",
+        "H2: The proof is in production",
+        "H2: Millions count on Lovable",
+        "H1: AI App Builder",
+        "H2: Ready to bring your idea to life?",
+        "H2: Company",
+        "H2: Product",
+        "H2: Resources",
+        "H2: Legal",
+        "H2: Community"
+      ],
+      "nav": [
+        {
+          "t": "Community",
+          "h": "https://lovable.dev/community"
+        },
+        {
+          "t": "Enterprise",
+          "h": "https://lovable.dev/enterprise-landing"
+        },
+        {
+          "t": "Pricing",
+          "h": "https://lovable.dev/pricing"
+        },
+        {
+          "t": "Security",
+          "h": "https://lovable.dev/security"
+        },
+        {
+          "t": "",
+          "h": "https://lovable.dev/home"
+        },
+        {
+          "t": "Careers",
+          "h": "https://lovable.dev/careers"
+        },
+        {
+          "t": "Press & media",
+          "h": "https://lovable.dev/brand"
+        },
+        {
+          "t": "Enterprise",
+          "h": "https://lovable.dev/enterprise-landing"
+        },
+        {
+          "t": "Security",
+          "h": "https://lovable.dev/security"
+        },
+        {
+          "t": "Trust center\n(opens in new window)",
+          "h": "https://trust.lovable.dev/"
+        },
+        {
+          "t": "Partnerships",
+          "h": "https://lovable.dev/partners"
+        },
+        {
+          "t": "Pricing",
+          "h": "https://lovable.dev/pricing"
+        },
+        {
+          "t": "Student discount",
+          "h": "https://lovable.dev/students"
+        },
+        {
+          "t": "For work",
+          "h": "https://lovable.dev/for-work"
+        },
+        {
+          "t": "Small businesses",
+          "h": "https://lovable.dev/small-business"
+        },
+        {
+          "t": "Founders",
+          "h": "https://lovable.dev/founders"
+        },
+        {
+          "t": "Product Managers",
+          "h": "https://lovable.dev/product-managers"
+        },
+        {
+          "t": "Designers",
+          "h": "https://lovable.dev/designers"
+        },
+        {
+          "t": "Marketers",
+          "h": "https://lovable.dev/marketers"
+        },
+        {
+          "t": "Sales",
+          "h": "https://lovable.dev/sales"
+        },
+        {
+          "t": "Ops",
+          "h": "https://lovable.dev/ops"
+        },
+        {
+          "t": "People",
+          "h": "https://lovable.dev/people"
+        },
+        {
+          "t": "App builder",
+          "h": "https://lovable.dev/build/app-builder"
+        },
+        {
+          "t": "Website builder",
+          "h": "https://lovable.dev/build/website-builder"
+        },
+        {
+          "t": "AI-powered apps",
+          "h": "https://lovable.dev/use-cases/ai-apps"
+        },
+        {
+          "t": "Prototyping",
+          "h": "https://lovable.dev/prototypes"
+        },
+        {
+          "t": "Internal Tools",
+          "h": "https://lovable.dev/tools"
+        },
+        {
+          "t": "Download apps",
+          "h": "https://lovable.dev/download"
+        },
+        {
+          "t": "Connections\n(opens in new window)",
+          "h": "https://docs.lovable.dev/integrations/introduction"
+        },
+        {
+          "t": "Changelog\n(opens in new window)",
+          "h": "https://docs.lovable.dev/changelog"
+        },
+        {
+          "t": "Status\n(opens in new window)",
+          "h": "https://status.lovable.dev/"
+        },
+        {
+          "t": "Learn\n(opens in new window)",
+          "h": "https://docs.lovable.dev/introduction/welcome"
+        },
+        {
+          "t": "Templates",
+          "h": "https://lovable.dev/templates"
+        },
+        {
+          "t": "Guides",
+          "h": "https://lovable.dev/guides"
+        },
+        {
+          "t": "Connectors",
+          "h": "https://lovable.dev/connect"
+        },
+        {
+          "t": "MCP server",
+          "h": "https://lovable.dev/mcp"
+        },
+        {
+          "t": "Videos",
+          "h": "https://lovable.dev/videos"
+        },
+        {
+          "t": "Blog",
+          "h": "https://lovable.dev/blog"
+        },
+        {
+          "t": "Support",
+          "h": "https://lovable.dev/support"
+        },
+        {
+          "t": "Reviews",
+          "h": "https://lovable.dev/reviews"
+        },
+        {
+          "t": "Sitemap",
+          "h": "https://lovable.dev/sitemap"
+        },
+        {
+          "t": "Privacy policy\n(opens in new window)",
+          "h": "https://lovable.dev/privacy"
+        },
+        {
+          "t": "Do not sell or share my personal information",
+          "h": "https://lovable.dev/do-not-sell-or-share-my-personal-information"
+        },
+        {
+          "t": "Cookie settings",
+          "h": "https://lovable.dev/cookie-policy"
+        },
+        {
+          "t": "Enterprise terms\n(opens in new window)",
+          "h": "https://lovable.dev/legal"
+        },
+        {
+          "t": "General terms\n(opens in new window)",
+          "h": "https://lovable.dev/terms"
+        },
+        {
+          "t": "Desktop app terms\n(opens in new window)",
+          "h": "https://lovable.dev/desktop-app-terms"
+        },
+        {
+          "t": "Domain registration terms\n(opens in new window)",
+          "h": "https://lovable.dev/domain-registration-terms"
+        },
+        {
+          "t": "DMCA copyright policy\n(opens in new window)",
+          "h": "https://lovable.dev/dmca"
+        },
+        {
+          "t": "Accessibility\n(opens in new window)",
+          "h": "https://lovable.dev/accessibility"
+        },
+        {
+          "t": "Platform rules\n(opens in new window)",
+          "h": "https://lovable.dev/platform-rules"
+        },
+        {
+          "t": "Report abuse\n(opens in new window)",
+          "h": "https://lovable.dev/abuse"
+        },
+        {
+          "t": "Report security concerns\n(opens in new window)",
+          "h": "https://lovable.dev/security-issues"
+        },
+        {
+          "t": "DPA\n(opens in new window)",
+          "h": "https://lovable.dev/data-processing-agreement"
+        },
+        {
+          "t": "Become a partner",
+          "h": "https://lovable.dev/partners"
+        },
+        {
+          "t": "Hire a Lovable partner\n(opens in new window)",
+          "h": "https://lovable-partner-directory.lovable.app/"
+        },
+        {
+          "t": "Affiliates",
+          "h": "https://lovable.dev/partners/affiliates"
+        },
+        {
+          "t": "Code of conduct",
+          "h": "https://lovable.dev/community-code-of-conduct"
+        },
+        {
+          "t": "Discord\n(opens in new window)",
+          "h": "https://discord.com/invite/lovable-dev"
+        },
+        {
+          "t": "Reddit\n(opens in new window)",
+          "h": "https://reddit.com/r/lovable"
+        },
+        {
+          "t": "X / Twitter\n(opens in new window)",
+          "h": "https://twitter.com/Lovable"
+        },
+        {
+          "t": "YouTube\n(opens in new window)",
+          "h": "https://www.youtube.com/@lovable"
+        },
+        {
+          "t": "LinkedIn\n(opens in new window)",
+          "h": "https://www.linkedin.com/company/lovable-dev/"
+        }
+      ],
+      "buttons": [
+        "OK",
+        "Manage preferences",
+        "Do not sell my data",
+        "Toggle navigation menu",
+        "Solutions",
+        "Resources",
+        "Additional actions",
+        "Build",
+        "Transcribe",
+        "Hosting, handled",
+        "Your app stack, connected",
+        "Payments, processed",
+        "Safe and secure, as standard",
+        "Works wherever, whenever",
+        "Show previous customer story",
+        "Show next customer story",
+        "Show customer story 1",
+        "Show customer story 3",
+        "Show customer story 4",
+        "Show previous customer story",
+        "Show next customer story",
+        "Additional actions",
+        "Build",
+        "Transcribe",
+        "EN"
+      ],
+      "imgs": [
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-hosting-v11.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-stack-v6.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-payments-v6.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-safe-v10.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-safe-mobile-v10.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-wherever-v11.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-wherever-mobile-v11.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-hosting-v11.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-stack-v6.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-payments-v6.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-safe-v10.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-safe-mobile-v10.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-wherever-v11.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/platform/home-platform-wherever-mobile-v11.svg",
+          "alt": "",
+          "w": 896,
+          "h": 580
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/cases/logos/home-cases-logo-exprealty.svg",
+          "alt": "eXp Realty logo",
+          "w": 80,
+          "h": 40
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/cases/logos/home-cases-logo-klar.svg",
+          "alt": "Klar logo",
+          "w": 64,
+          "h": 64
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/cases/logos/home-cases-logo-sciongroup.svg",
+          "alt": "The Scion Group logo",
+          "w": 79,
+          "h": 32
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/cases/logos/home-cases-logo-nursa.svg",
+          "alt": "Nursa logo",
+          "w": 133,
+          "h": 28
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/cases/logos/home-cases-logo-exprealty.svg",
+          "alt": "",
+          "w": 80,
+          "h": 40
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/cases/logos/home-cases-logo-klar.svg",
+          "alt": "Klar logo",
+          "w": 64,
+          "h": 64
+        },
+        {
+          "src": "https://lovable.dev/cdn-cgi/image/width=96,f=auto,fit=scale-down/https://assets.lovable.dev/content/home/cases/avatars/home-cases-avatar-andreas-melander.png",
+          "alt": "",
+          "w": 0,
+          "h": 0
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/cases/logos/home-cases-logo-sciongroup.svg",
+          "alt": "",
+          "w": 79,
+          "h": 32
+        },
+        {
+          "src": "https://assets.lovable.dev/content/home/cases/logos/home-cases-logo-nursa.svg",
+          "alt": "",
+          "w": 133,
+          "h": 28
+        },
+        {
+          "src": "https://lovable.dev/cdn-cgi/image/width=1920,f=auto,fit=scale-down,quality=50/img/background/pulse.webp",
+          "alt": "",
+          "w": 900,
+          "h": 907
+        }
+      ],
+      "framework": {
+        "next": false,
+        "nextApp": false,
+        "react": false,
+        "vite": false,
+        "nuxt": false,
+        "astro": false,
+        "remix": false,
+        "svelte": false,
+        "tailwind": true,
+        "cloudflare": false
+      },
+      "cssVars": {
+        "--font-sans": "\"Camera Plain Variable\", ui-sans-serif, system-ui, sans-serif",
+        "--font-mono": "\"Roboto Mono Variable\", monospace"
+      },
+      "bodyFont": "\"Camera Plain Variable\", ui-sans-serif, system-ui, sans-serif",
+      "bodyBg": "oklch(0.9699 0 107)",
+      "bodyColor": "oklch(0.1 0 0)",
+      "htmlFontSize": "16px",
+      "fonts": [
+        "Camera Plain Variable 100 900 loaded",
+        "Camera Plain Variable 400 unloaded",
+        "Roboto Mono Variable 100 700 unloaded",
+        "Roboto Mono Variable 100 700 unloaded",
+        "Roboto Mono Variable 100 700 unloaded",
+        "Roboto Mono Variable 100 700 unloaded",
+        "Roboto Mono Variable 100 700 unloaded",
+        "Roboto Mono Variable 100 700 unloaded"
+      ],
+      "lang": "en",
+      "storageKeys": {
+        "local": [
+          "has_seen_attach_image_modal",
+          "editor-store-create-form",
+          "lovable-use-tailscale",
+          "__cuid",
+          "editor-mode-store:last"
+        ],
+        "session": [
+          "active-workspace-offer-visit"
+        ]
+      },
+      "cookieNames": [
+        "USER_COUNTRY",
+        "USER_CURRENCY",
+        "LOCALE",
+        "__dpl",
+        "rs_visitor_id",
+        "__cuid",
+        "__cuid"
+      ]
+    },
+    "network": [
+      {
+        "url": "https://lovable.dev/",
+        "status": 200,
+        "type": "Document",
+        "mime": "text/html",
+        "size": 45923,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/",
+        "type": "Document"
+      },
+      {
+        "url": "https://lovable.dev/assets/globals-BgmDYl1F.css",
+        "status": 200,
+        "type": "Stylesheet",
+        "mime": "text/css",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/fonts-yKhYizLu.css",
+        "status": 200,
+        "type": "Stylesheet",
+        "mime": "text/css",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/index-4PBh0cLs.css",
+        "status": 200,
+        "type": "Stylesheet",
+        "mime": "text/css",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/app-boot-LZ075GGe.css",
+        "status": 200,
+        "type": "Stylesheet",
+        "mime": "text/css",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/app-shared-BCkUO16J.css",
+        "status": 200,
+        "type": "Stylesheet",
+        "mime": "text/css",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/rolldown-runtime-CSz5w8F5.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-tanstack-D6yZ0yGH.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-react-Fx2PtaaM.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/flag-catalog-D_ohadnl.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-overlay-WeHoSqo7.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-firebase-IHs4l-D7.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-protobuf-BvDTVJFg.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-motion-DwXY1EMP.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-sync-store-hJwz-_Wy.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-base-ui-field-Cn_B3UdU.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-base-ui-eager-BEgWHTBu.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-util-bDkZRKmn.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-es-toolkit-CQNapaF9.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-schema-CqY_I52z.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-firebase-core-ChSZSTvC.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-datefns-PYvVVSwq.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-floating-ui-D0AC_O_Q.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/HomePage-fNb4o3_v.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 364,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/home-page-shared-DlhkQkGc.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1806,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/homePage-CuwgfEUz.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1689,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/create-form-shared-D_gg7sBx.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 46507,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/dashboard-shared-DXm3j71W.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 126020,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/marketing--homePage-BbN-0s43.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2404,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/createForm-C9YWy1wl.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 932,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/login-shared-leaves-D7ocaS-s.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 7940,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ui-alert-C7sT6j5k.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 7013,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/settings-shared-leaves-CMKbm4b2.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 24796,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ui-split-button-MP45u7sy.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 3878,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/dashboard-icons-CrBZObrU.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 6471,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ui-shared-leaves-eEPTrd2f.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 9860,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/route-shared-leaves-CsBgYvui.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 25854,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ui-icon-sidebar-BHmgHMje.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2594,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ui-icon-gift-BgPuZ0lN.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1051,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/create-form--createForm-p501QEn2.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 6114,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/hook-typewriter-Beg_8CQs.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1060,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-base-ui-lazy-BsT_qRdJ.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 36357,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ui-password-input-uu2SDD1u.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 4479,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/marketing-landing-app-shared-Cnk8kQ5b.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 556,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-base-ui-chrome-D6zJntFf.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 17302,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-hook-form-BLQXKauk.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 11668,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/index-DaWAvAnJ.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 293,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/app-boot-6sD_1shz.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 95937,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/_eager-Cm415-Dn.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 30234,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/app-shared-Db1aCW-1.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 365920,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/_marketing-GxtPNYD3.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 407,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/_marketing-BhDQHK74.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 514,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/marketing-home-shared-DUEIbfef.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 451,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ui-password-input-BI-t7jJ0.css",
+        "status": 200,
+        "type": "Stylesheet",
+        "mime": "text/css",
+        "size": 1085,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/dashboard-shared-PAOUoimL.css",
+        "status": 200,
+        "type": "Stylesheet",
+        "mime": "text/css",
+        "size": 2378,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://api.lovable.dev/consent/policy",
+        "status": 200,
+        "type": "Other",
+        "mime": "",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://api.lovable.dev/consent/policy",
+        "status": 200,
+        "type": "Fetch",
+        "mime": "application/json",
+        "size": 764,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/VoiceSoundCuesHost-BQn5fChi.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 320,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/VoiceSoundCuesHost-B8IHaroq.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 696,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/app-lazy-shared-CVRZYwTL.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 276268,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/x-PPvLPvQ6.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1043,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/builderChrome-BoSIg4vh.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1549,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/editor-BkGJToHk.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1006,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/mentionDropdown-O0E_o9Oo.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1186,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/previewInteractionToolbar-DBiNMcX1.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1028,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/publish-C5q0LSQy.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1574,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/security-CRHHiXRP.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1495,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/seoReview-D5c3zfNj.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1224,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/settings-CqH4zhu8.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 5973,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/_misc-BfhbDV2c.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 22446,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/dashboard-boot-shared-C3xkdAOt.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 69007,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/creditLimitReached-DVsx6ECS.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2151,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/dashboard-uEHDKXsM.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1642,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/editorNav-UVYshguj.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2197,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/filesBrowse-D-hobMYP.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1121,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/projectFilters-Bjm-56Yg.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1824,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/projectMenu-DCofL8nk.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1189,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/share-CL0NvY0-.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1042,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/workspaceChat-C5Ra_1qg.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1277,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/files--filesBrowse-CUygyaWZ.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1714,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/files--filesCollections-BkoMEHxU.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2284,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/files--filesView-CIrsjSdG.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1466,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/dashboard-boot-shared-Boe2Kd3I.css",
+        "status": 200,
+        "type": "Stylesheet",
+        "mime": "text/css",
+        "size": 2164,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/dashboard-boot-icons-FUqTWbDS.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 8996,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-radix-lazy-BcZ7vF7y.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 29910,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-tslib-CeDFfI6J.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 806,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/auth-shared-leaves-CmFg8fHe.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1162,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/x--xChangesetCard-_QzcCZl6.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2046,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/x--xChangesetField-BUS1D3hb.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1231,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/x--xChangesetOutcome-CfRUwO4m.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 943,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/x--xSetupCard-BuSuj1dX.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1290,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/x--googleXCreateCard-CqTcqGro.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1523,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/drafts--draftDialog-B6xhcv6C.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1201,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/drafts--editorNav-qVh8KCBR.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1319,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/marketing-landing-app-shared-B9OZcEVb.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 842,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/app-lazy-shared-DBNxXqt-.css",
+        "status": 200,
+        "type": "Stylesheet",
+        "mime": "text/css",
+        "size": 2333,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/voiceSessionStore-D-Gb86r3.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 14739,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/chat--workspaceChatVoice-W2RP377m.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1786,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/editor-leaves-DEp7jeUv.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 7487,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useWorkspaceChatTitle-CKuWWDmf.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 507,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/editor-leaves-CWGfo_Mq.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 3002,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/VoiceOrb-DgE-DMHt.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1609,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/voiceSessionTypes-B34t1HaQ.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 715,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/voiceSoundCues-Djm47ljS.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 3264,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/pendingChatAction-njZB9x-W.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2570,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/app-shared-editor-DddFpfvg.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 24456,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/app-lazy-surfaces-D99rc_9P.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 42301,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/tools-h_1PHf69.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1209,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/usePendingCheckIn-D7K3nA8P.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 605,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/editor-leaves-BDd-z0T0.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2936,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/HashPromptProcessor-CJkK73hv.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 643,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ChatInputTiptap-DyZLjqEs.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 10497,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/chat--pastedText-DJ78icfF.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2428,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useIsLovableAIEnabledForWorkspace-C6ebZ4Wk.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 589,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-editor-core-yRANuKn8.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 81300,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-editor-BXFvOS0x.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 11579,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/connectorPillNavigationSources-BUz_PC0P.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 547,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/usePastedTextArtifacts-B7VWioC4.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2448,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/WorkspaceFileMention-BeocXLW0.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 22330,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useMentionSuggestion-B4S5dyIz.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 10426,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useCatalogDocumentPage-TGlC7_ly.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 4650,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/embedFilename-D50FBds7.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 697,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/slashCommandArmedContext-vso1_Anq.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 454,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/CollectionMentionPill-3GnA2aE4.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 812,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/fileChatPrompt-fD7Hbd9G.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 689,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/securityFindingMention-Dpzme3d2.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 663,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/sentMessageHistory-B7ar9KNt.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 620,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/yieldsFocusToComposer-EPlolPrf.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 351,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/plus-menu-CLEEdfz2.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 14488,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/supabaseSharedInstanceWarning-CvHW868a.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 928,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ZipContentsPreview-L4jOkLNh.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1217,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/sources-BIxJHa0i.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 3901,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/create-form--plusMenu-C2jwRgPk.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1263,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useComposerSketch-LTQE2ndG.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 3143,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useAddAnnotationToChat-7BIVHdre.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2351,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/imageInputCompressionJobs-CS_WEPPI.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1611,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ChatFileAttachmentsProvider-CS6rbCBL.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 8206,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/figImport-lRZQoX5J.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1054,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/clipboardImage-BwrYazHY.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 900,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/SketchDialogFrame-SjtWvv-H.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 973,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useDesignAssets-DYIifL74.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1036,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useSupabaseOrganizations-CLit1bkP.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1053,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/workspaceChatModelSubMenu-Bys8ysbX.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1684,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/connected-computer--connectedComputer-B8XYQEJ4.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2087,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/computerSetup-D8xQAOR3.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1657,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useComputerChange-C3NPPXnl.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 773,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/SharedInstanceWarning-ijYR89ho.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 796,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useSupabaseConnection-C40DnjSL.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1355,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/util-B1hWnMQa.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 388,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ProjectStatus-DsUBNwkY.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 465,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/SupabaseOrganization-BYnjCYR7.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 456,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/inputActionMenu-DRYuB579.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 5150,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/es-CpGQ2qhN.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 14797,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ModelOverridePill-CdSQwwi0.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 936,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ComposerPillReveal-DlPURuTf.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 528,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/WorkspaceChatModelPicker-DpuuhyxE.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 913,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/FigmaIcon-BnEOsWNK.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 922,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/availableLibraryProjects-BqJ7xD-V.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 391,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/AiPromptChatFirstRow-CPync6uS.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 982,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useHasUsedChatMode-C_pmILGV.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 406,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/workspaceChatListHooks-DqoBw3Oh.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2261,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useRemovedRecentChats-kYP04Ijf.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 382,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/hiddenChatsFlag-CHoj0LlW.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 633,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useWorkspaceChatMutations-DgrN8yvR.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1256,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/chat--chatIcon-CtjUWpVe.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 904,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/chat--workspaceChat-h5SXz7LH.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 6216,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/HomeBelowFold-1PVka4yz.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 10825,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/HomeMetrics-CaWP18jM.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 7111,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useDocumentHidden-MnAaSBGj.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 444,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/create-form-rhIDTxAb.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 321,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ActiveWorkspaceOfferEngine-DHSysR6i.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2929,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useResurrectionGift-oDIX6UmA.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 4982,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useCampaignSeen-BV99zAsa.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 807,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/visit-BDvmaKBc.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 765,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ChangeNoticeEngine-B0mUY9OR.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 5260,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/metrics-Cp_cpx-h.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 397,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/app-DAQ3wne9.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 353,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/emailVerified-DDJeRAxN.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 455,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/_serverFn/1c038d93a442abfb368123c39d8307c61b9f50f4e88b307ac5fb3fdb8056a5a7",
+        "status": 200,
+        "type": "Fetch",
+        "mime": "application/json",
+        "size": 424,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd",
+        "status": 200,
+        "type": "Fetch",
+        "mime": "application/json",
+        "size": 745,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/_serverFn/e92a63b641f7839fdf318f4ff33c800e1b523b0f37dcb473d554463730d513ac",
+        "status": 200,
+        "type": "Fetch",
+        "mime": "application/json",
+        "size": 326,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ConsentUI-DFZuiy0u.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2042,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/consentX-DN3hmGWA.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 947,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/consentPreferences-Bk94XMb0.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1341,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ConsentPreferencesForm-gZuJnJhN.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1486,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/HomeCases-JKvZMBJK.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2795,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/marketing-landing-app-vendor-cXHq0iqM.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 7498,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/marketing-landing-app-icons-CEjhr9i8.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 3726,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/HomeCases.constants-CTK08pkG.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1014,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/HomeCasesMobileCard-R6BtRPRH.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2030,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/entranceMotion-CTiUixGr.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 481,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/DeletedProjectDialog-BIvqcjrf.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 316,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/DeletedProjectDialog-CPnDgclA.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 832,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/useRestoreProject-BnBBbTq1.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 674,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/deleteRestoreLimit-Y_LXGT5E.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 528,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/githubRepoHelpers-DTqfv8Es.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 516,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/sentry-client-Dk7exQvO.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 5784,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/vendor-sentry-DMYBbyUZ.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 43676,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/diagnosticsTracing-D4c7Ex7Y.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 537,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/collectWebVitals-D7TAoj1I.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 6629,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/MaliciousExtensionReporter-C239icmU.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1639,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/FullStoryInitializerWrapper-D7Mb-Khu.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1302,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ImpactProvider-J9AAJoZr.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1040,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/SurveyPopover-V1Il-Qlk.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1657,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/surveyPopover-DJmVnSTx.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1073,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/ThankYouCard-tI7ry4Uv.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 741,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/surveyQueries-DMdzGnOG.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 665,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/SurveyQuestionnaire-CdolizN1.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 3680,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/gettingStarted-BoJmrG_q.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1019,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/stepped-card-CbVkEMg7.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 661,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/castle.umd-BziypBlb.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 185649,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0",
+        "status": 200,
+        "type": "Fetch",
+        "mime": "application/json",
+        "size": 300,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "blob:https://lovable.dev/b3011005-ba1c-4d8b-aaf0-fc81992c69f4",
+        "type": "Script"
+      },
+      {
+        "url": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22299.9999967759294%22%20height%3D%221433.9999845889424%22%20viewBox%3D%220%200%20300%201434%22%3E%0A%20%20%20%20%3CforeignObject%20x%3D%220%22%20y%3D%220%22%20width%3D%22300%22%20height%3D%221434%22%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20style%3D%22accent-color%3Aauto",
+        "status": 200,
+        "type": "Image",
+        "mime": "image/svg+xml",
+        "size": 0,
+        "protocol": "data"
+      },
+      {
+        "url": "blob:https://lovable.dev/6a46a114-4621-4266-a69f-344e01105dd0",
+        "type": "Script"
+      },
+      {
+        "url": "blob:https://lovable.dev/94bf4081-81e7-4097-b30e-65ecfb86a915",
+        "type": "Script"
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAABnklEQVR4AQSAWUjTYQDAf3y5t1C77KmspIfqYY2WqWs0I0rsIEgRu0wmZfsnrGxm0dAOkxIVk0pGBGWrTUURPBCFISLiMfBkeG14K+pwgghen4hzEXflyWSd9Myp5Y35Clnc0yoL1p/L/5pgaUq3SPvwTxn92SFFyfEpRr88YOz+Y/wzA4xF1rHv+jiKP5fmo4Klm7E8Vb9EWM/P06lcZTjtF999t9ifYEZXn4UraIrYmsuEv/My+SkUoYvOo2nbiKo3iarqI1SkJPH7kJGgNT2XLIt07XHQNmJHeG3lxBxrIKc7CvOzHs6o/hCzkU9haiIFHR8xrD",
+        "status": 200,
+        "type": "Image",
+        "mime": "image/png",
+        "size": 0,
+        "protocol": "data"
+      },
+      {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAQAElEQVR4AexdCZhU1ZX+q5sdWR01GMVoNApGZYSgBjMCNrjjEp3o+H0OToiOOoz7uNOvEWPCTOIXEzCMGsUYhcDw6ahxZJHWUcAEBgOJCppkVOIWpEEWAemu/H9VvbZoqqqrqt+rest53NP3vruce85/7//uva+6mhrYZQgYAnkRMILkhcYKDAHACGKzwBAogIARpAA4VmQIGEFsDhgCBRDwkSAFerUiQyAkCBhBQjJQZmZ1EDCCVAd36zUkCBhBQjJQZmZ1EDCCVAd36zUkCBRNkCSQDIx0wJaixyWJaPwr3uEoDC99KNrhoioWTZCitFklQyBiCB",
+        "status": 200,
+        "type": "Image",
+        "mime": "image/png",
+        "size": 0,
+        "protocol": "data"
+      },
+      {
+        "url": "https://lovable.dev/assets/esm-u3JdbO5w.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 45702,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://rs.lovable.dev/sourceConfig?p=npm&v=3.34.3&build=modern&writeKey=30uiF44drV1UnRmUEUVhfQ2L500&lockIntegrationsVersion=true&lockPluginsVersion=true",
+        "status": 200,
+        "type": "XHR",
+        "mime": "application/json",
+        "size": 3741,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://rs.lovable.dev/sourceConfig?p=npm&v=3.34.3&build=modern&writeKey=30uiF44drV1UnRmUEUVhfQ2L500&lockIntegrationsVersion=true&lockPluginsVersion=true",
+        "status": 200,
+        "type": "Other",
+        "mime": "",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/route-BPwnROAK.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 372,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/blog-DG_wmzVS.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2523,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/marketing--blogPage-BAZejGk8.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1462,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/editor-leaves-DNoTN8Yf.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 2002,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/marketing-landing-app-shared-Dotf99kA.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1048,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/_serverFn/960cc66a71d078757b2eec27064092121d8bf493c0108a2d557e0b0dfb73999c?payload=%7B%22t%22%3A%7B%22t%22%3A10%2C%22i%22%3A0%2C%22p%22%3A%7B%22k%22%3A%5B%22data%22%5D%2C%22v%22%3A%5B%7B%22t%22%3A10%2C%22i%22%3A1%2C%22p%22%3A%7B%22k%22%3A%5B%22category%22%5D%2C%22v%22%3A%5B%7B%22t%22%3A2%2C%22s%22%3A1%7D%5D%7D%2C%22o%22%3A0%7D%5D%7D%2C%22o%22%3A0%7D%2C%22f%22%3A127%2C%22m%22%3A",
+        "status": 200,
+        "type": "Fetch",
+        "mime": "application/json",
+        "size": 23972,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/partners-BprWqzFq.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 3569,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/i18n-fn/marketing--partnersPage-CiwlvYc2.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 1633,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/assets/hairline-divider-aPxTAYBJ.js",
+        "status": 200,
+        "type": "Script",
+        "mime": "text/javascript",
+        "size": 451,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://rs.lovable.dev/v1/batch",
+        "status": 200,
+        "type": "XHR",
+        "mime": "text/plain",
+        "size": 371,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://rs.lovable.dev/v1/batch",
+        "status": 200,
+        "type": "Other",
+        "mime": "",
+        "size": 0,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      }
+    ],
+    "console": [
+      {
+        "type": "debug",
+        "args": [
+          "Error"
+        ]
+      },
+      {
+        "type": "log",
+        "args": [
+          "Initializing RudderStack Analytics"
+        ]
+      },
+      {
+        "type": "debug",
+        "args": [
+          "Error"
+        ]
+      }
+    ],
+    "errors": [],
+    "perf": {
+      "domContentLoaded": 2174,
+      "load": 4402,
+      "transferSize": 42795,
+      "resources": 241,
+      "js": 158,
+      "css": 9
+    }
+  },
+  {
+    "url": "https://lovable.dev/",
+    "label": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844,
+      "mobile": true
+    },
+    "startedAt": "2026-10-30T17:01:12.750Z",
+    "challengeAfterMs": 0,
+    "finalUrl": "https://lovable.dev/",
+    "title": "请稍候…",
+    "stillChallenge": false,
+    "textLength": 113,
+    "summary": {
+      "meta": {
+        "robots": "noindex,nofollow",
+        "viewport": "width=device-width,initial-scale=1"
+      },
+      "scripts": [
+        "https://lovable.dev/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a52bfb36d92f75b7",
+        "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit"
+      ],
+      "styles": [],
+      "preloads": [],
+      "headings": [
+        "H1: lovable.dev",
+        "H2: 正在进行安全验证",
+        "H2: 验证成功。正在等待 lovable.dev 响应"
+      ],
+      "nav": [],
+      "buttons": [],
+      "imgs": [
+        {
+          "src": "https://lovable.dev/favicon.ico",
+          "alt": "lovable.dev 图标",
+          "w": 73,
+          "h": 74
+        }
+      ],
+      "framework": {
+        "next": false,
+        "nextApp": false,
+        "react": false,
+        "vite": false,
+        "nuxt": false,
+        "astro": false,
+        "remix": false,
+        "svelte": false,
+        "tailwind": false,
+        "cloudflare": false
+      },
+      "cssVars": {},
+      "bodyFont": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "bodyBg": "rgb(0, 0, 0)",
+      "bodyColor": "rgb(242, 242, 242)",
+      "htmlFontSize": "16px",
+      "fonts": [],
+      "lang": "zh-cn",
+      "storageKeys": {
+        "local": [
+          "__cuid",
+          "editor-store-create-form",
+          "has_seen_attach_image_modal",
+          "rudder_30uiF44drV1UnRmUEUVhfQ2L500.0590b237-fb02-4acd-a411-521751adc37b.queue",
+          "rl_session",
+          "lovable-use-tailscale",
+          "rudder_30uiF44drV1UnRmUEUVhfQ2L500.0590b237-fb02-4acd-a411-521751adc37b.batchQueue",
+          "rudder_30uiF44drV1UnRmUEUVhfQ2L500.0590b237-fb02-4acd-a411-521751adc37b.ack",
+          "rudder_30uiF44drV1UnRmUEUVhfQ2L500.0590b237-fb02-4acd-a411-521751adc37b.inProgress",
+          "editor-mode-store:last"
+        ],
+        "session": []
+      },
+      "cookieNames": [
+        "USER_COUNTRY",
+        "USER_CURRENCY",
+        "LOCALE",
+        "__dpl",
+        "rs_visitor_id",
+        "__cuid",
+        "__cuid",
+        "rl_anonymous_id"
+      ]
+    },
+    "network": [
+      {
+        "url": "https://lovable.dev/",
+        "status": 403,
+        "type": "Document",
+        "mime": "text/html",
+        "size": 4810,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a52bfb36d92f75b7",
+        "status": 200,
+        "type": "Script",
+        "mime": "application/javascript",
+        "size": 185289,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "blob:https://lovable.dev/4d04aae0-6382-418e-abf3-5a43e0074381",
+        "type": "Script"
+      },
+      {
+        "url": "https://challenges.cloudflare.com/turnstile/v0/g/c787ce48cf6b/api.js?onload=Kncsd9&render=explicit",
+        "status": 200,
+        "type": "Script",
+        "mime": "application/javascript",
+        "size": 28444,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "https://lovable.dev/cdn-cgi/challenge-platform/h/g/fo/3478207723:1793376665:IF4_Op9GcjNUhsTNyUDJaYxu05TFOXgYzcOq88fJsUo/a52bfb36d92f75b7/Z3LQr1pPZCEX1wx45QBThawC4zGTVuqSu11Os6F2QBA-1793379679-1.2.1.1-deKwqnj4CVa7hr.yKJxHTWwMx6B0mNSrXTjQQGnY4RK3uy_jEG0zGfAM1_T3rWxK",
+        "status": 200,
+        "type": "XHR",
+        "mime": "text/plain",
+        "size": 83169,
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      },
+      {
+        "url": "blob:https://lovable.dev/e3926e93-069b-40fd-9dea-ab89bd06bb70",
+        "type": "Script"
+      },
+      {
+        "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/dft0d/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto",
+        "status": 200,
+        "type": "Document",
+        "mime": "text/html",
+        "protocol": "h2",
+        "ip": "127.0.0.1"
+      }
+    ],
+    "console": [],
+    "errors": [],
+    "perf": {
+      "domContentLoaded": 541,
+      "load": 3959,
+      "transferSize": 3732,
+      "resources": 6,
+      "js": 2,
+      "css": 0
+    }
+  }
+]

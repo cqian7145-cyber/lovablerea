@@ -1,0 +1,326 @@
+{
+ "url": "https://lovable.dev/projects/053a133e-76d8-4c7c-b418-2ab5f486a673",
+ "dialogs": [
+  {
+   "role": "tabpanel",
+   "tid": null,
+   "text": "",
+   "rect": {
+    "x": 1,
+    "y": 96,
+    "w": 429,
+    "h": 805
+   }
+  }
+ ],
+ "tids": [
+  "workspace-menu-trigger",
+  "sidebar-nav-home",
+  "sidebar-nav-search",
+  "sidebar-rail-projects",
+  "sidebar-nav-all-projects",
+  "sidebar-rail-connectors",
+  "sidebar-rail-chats",
+  "sidebar-project-item",
+  "sidebar-project-item-actions",
+  "sidebar-recent-chats-new-chat",
+  "sidebar-user-menu-trigger",
+  "rail-edge-drag-handle",
+  "project-editor",
+  "rail-peek-logo",
+  "editor-nav-project-menu",
+  "editor-nav-history-toggle",
+  "editor-nav-sidebar-toggle",
+  "view-switcher-preview",
+  "view-switcher-files",
+  "view-switcher-codeEditor",
+  "view-switcher-more",
+  "preview-url-bar-device-toggle",
+  "preview-url-bar-refresh",
+  "preview-url-bar-page-trigger",
+  "preview-url-bar-open-new-tab",
+  "collaboration-invite-trigger",
+  "upgrade-button",
+  "chat-composer-area",
+  "chat-nudge-overlay",
+  "chat-composer-pending-area",
+  "composer-glow-halo",
+  "chat-composer",
+  "chat-composer-editor",
+  "chat-composer-button-row",
+  "chat-input-action-menu-trigger",
+  "chat-input-mode-selector",
+  "chat-input-voice-record",
+  "chat-input-send",
+  "editor-panel-resize-handle",
+  "preview-toolbar-mode-selection",
+  "preview-toolbar-mode-text",
+  "preview-toolbar-mode-drawing",
+  "preview-toolbar-mode-comment",
+  "preview-toolbar-options",
+  "preview-toolbar-minimize-button"
+ ],
+ "buttons": [
+  {
+   "t": "陈\n陈芊's Lovable",
+   "tid": "workspace-menu-trigger",
+   "aria": "陈芊's Lovable workspace menu"
+  },
+  {
+   "t": "Search\nCtrl\nK",
+   "tid": "sidebar-nav-search",
+   "aria": null
+  },
+  {
+   "t": "Connectors",
+   "tid": "sidebar-rail-connectors",
+   "aria": null
+  },
+  {
+   "t": "Projects",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": "Filter projects"
+  },
+  {
+   "t": "",
+   "tid": "sidebar-project-item-actions",
+   "aria": "Project actions"
+  },
+  {
+   "t": "",
+   "tid": "sidebar-project-item-actions",
+   "aria": "Project actions"
+  },
+  {
+   "t": "",
+   "tid": "sidebar-project-item-actions",
+   "aria": "Project actions"
+  },
+  {
+   "t": "Recent chats",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "Upgrade to Pro\nUnlock more features",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "Share Lovable\n\nUp to 400 credits per referral",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "陈",
+   "tid": "sidebar-user-menu-trigger",
+   "aria": "Account menu"
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": "Halloween game"
+  },
+  {
+   "t": "",
+   "tid": "rail-peek-logo",
+   "aria": "Open sidebar"
+  },
+  {
+   "t": "Pixel Perfect Picture",
+   "tid": "editor-nav-project-menu",
+   "aria": null
+  },
+  {
+   "t": "",
+   "tid": "editor-nav-history-toggle",
+   "aria": "Hide history"
+  },
+  {
+   "t": "",
+   "tid": "editor-nav-sidebar-toggle",
+   "aria": "Hide chat panel"
+  },
+  {
+   "t": "Preview",
+   "tid": "view-switcher-preview",
+   "aria": "Preview"
+  },
+  {
+   "t": "Files",
+   "tid": "view-switcher-files",
+   "aria": "Files"
+  },
+  {
+   "t": "Code",
+   "tid": "view-switcher-codeEditor",
+   "aria": "Code"
+  },
+  {
+   "t": "More",
+   "tid": "view-switcher-more",
+   "aria": "More"
+  },
+  {
+   "t": "",
+   "tid": "preview-url-bar-device-toggle",
+   "aria": "Desktop view"
+  },
+  {
+   "t": "",
+   "tid": "preview-url-bar-refresh",
+   "aria": "Refresh"
+  },
+  {
+   "t": "Homepage",
+   "tid": "preview-url-bar-page-trigger",
+   "aria": "Homepage — current page, switch pages"
+  },
+  {
+   "t": "Share",
+   "tid": "collaboration-invite-trigger",
+   "aria": null
+  },
+  {
+   "t": "Upgrade",
+   "tid": "upgrade-button",
+   "aria": null
+  },
+  {
+   "t": "Publish",
+   "tid": null,
+   "aria": "Publish"
+  },
+  {
+   "t": "History",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "Bookmarks",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": "More actions"
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": "Revert"
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": "Bookmark in history"
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": "Select elements"
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": "Edit text inline"
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": "Draw annotation"
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": "Add a comment"
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": "Undo"
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": "Redo"
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": null
+  },
+  {
+   "t": "",
+   "tid": null,
+   "aria": "Close"
+  },
+  {
+   "t": "",
+   "tid": "preview-toolbar-mode-selection",
+   "aria": "Select elements"
+  },
+  {
+   "t": "",
+   "tid": "preview-toolbar-mode-text",
+   "aria": "Edit text inline"
+  },
+  {
+   "t": "",
+   "tid": "preview-toolbar-mode-drawing",
+   "aria": "Draw annotation"
+  },
+  {
+   "t": "",
+   "tid": "preview-toolbar-mode-comment",
+   "aria": "Add a comment"
+  },
+  {
+   "t": "",
+   "tid": "preview-toolbar-options",
+   "aria": "Toolbar options"
+  },
+  {
+   "t": "",
+   "tid": "preview-toolbar-minimize-button",
+   "aria": "Minimize toolbar"
+  }
+ ],
+ "body": "Skip to chat input 陈 陈芊's Lovable New Search Ctrl K Projects Projects Connectors Chats Projects P Pixel Perfect Picture Pixel Perfect Picture P Pixel Perfect Replica Pixel Perfect Replica M Mouse Tank Tactics Mouse Tank Tactics See all projects Recent chats No chats yet Upgrade to Pro Unlock more features Share Lovable Up to 400 credits per referral 陈 Pixel Perfect Picture Preview Files Code More Preview Files Code More / Homepage Share Upgrade Publish History Bookmarks"
+}

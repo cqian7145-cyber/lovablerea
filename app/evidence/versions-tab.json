@@ -1,0 +1,6 @@
+{
+  "projectId": "prj_12e69074bfe7",
+  "clicked": "clicked",
+  "rows": 2,
+  "text": "Foundry\nWORKSPACE\n← All projects\nFILES\n.gitignore\nindex.html\nmeta.json\nsrc/App.jsx\nsrc/main.jsx\nsrc/style.css\nHEAD f5e572e\nSmoke test\nbuild ok · 47ms\nRefresh preview\nDescribe the app you want. The agent writes files, builds, and the preview reloads.\nSend\nCmd/Ctrl + Enter\n2 versions\nPreview\nFiles\nVersions\nsandbox: local esbuild\nf5e572e\nChange the hero paragraph to mention single-origin beans shipped weekly.\nRevert\nab4778e\nBuild a landing page for a coffee subscription called Night Owl Roasters\nRevert"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "http://127.0.0.1:3100/p/prj_12e69074bfe7",
+  "title": "Foundry — AI app builder",
+  "iframe": {
+    "src": "/api/preview/prj_12e69074bfe7/?v=1793418426525",
+    "w": 755,
+    "h": 790,
+    "sandbox": "allow-scripts allow-same-origin allow-forms allow-popups"
+  },
+  "inner": {
+    "title": "App",
+    "text": "Night Owl Roasters\nFeatures\nPricing\nStart free\n\nBUILT FROM A PROMPT\n\nNight Owl Roasters\n\nSingle-origin beans shipped weekly\n\nOpen the app\nSee how it works\nShip in minutes\n\nDescribe the product once and get a working interface you can iterate on.\n\nOwn the code\n\nEvery change is a plain file plus a com",
+    "nodes": 37
+  },
+  "tabs": [
+    "Preview",
+    "Files",
+    "Versions"
+  ],
+  "topbar": "Smoke test\nbuild ok · 47ms\nRefresh preview"
+}

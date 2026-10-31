@@ -1,0 +1,8 @@
+{
+  "projectId": "prj_6e04481c5136",
+  "prompt": "Change the hero paragraph to mention single-origin beans shipped weekly.",
+  "ok": true,
+  "changed": true,
+  "before": "Night Owl Roasters\nFeatures\nPricing\nStart free\n\nBUILT FROM A PROMPT\n\nNight Owl Roasters\n\nlanding page for a coffee subscription called Night Owl Roasters.\n\nOpen the app\nSee how it works\nShip in minutes\n\nDescribe the product once and get a working interface you can iterate on.\n\nOwn the code\n\nEvery change is a plain file plus a commit, so nothing is locked away.\n\nLive preview\n\nThe sandbox rebuilds i",
+  "after": "Night Owl Roasters\nFeatures\nPricing\nStart free\n\nBUILT FROM A PROMPT\n\nNight Owl Roasters\n\nSingle-origin beans shipped weekly\n\nOpen the app\nSee how it works\nShip in minutes\n\nDescribe the product once and get a working interface you can iterate on.\n\nOwn the code\n\nEvery change is a plain file plus a commit, so nothing is locked away.\n\nLive preview\n\nThe sandbox rebuilds in place and the preview reloads"
+}

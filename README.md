@@ -16,6 +16,24 @@
 | `notes/` | 公开文档（322 页 Markdown）整理出的 Workflow / Platform / API 笔记 |
 | `evidence/raw/` | 原始证据 JSON（DOM 结构、资源计时、网络记录）与截图 |
 | `tools/` | 零依赖 CDP 取证工具（Node 24 内置 WebSocket/fetch） |
+| `app/` | **可运行的原创 MVP**：Foundry，一个 Next.js AI 应用构建器（prompt → 文件 → 构建 → 实时预览 → 版本回滚），见 `app/README.md` |
+
+## 可运行 MVP（app/Foundry）
+
+`app/` 是把 `05_ARCHITECTURE_PROPOSAL.md` 落地的最小实现，可离线跑通完整闭环：
+
+```powershell
+cd app
+npm install
+npm run dev          # http://127.0.0.1:3100
+node scripts/smoke.mjs                                   # 建项目 → 一轮对话 → 构建 → 资源 200
+node tools/drive.mjs <projectId> "Change the hero paragraph to mention single-origin beans."
+```
+
+- 无 `DEEPSEEK_API_KEY` 时使用确定性 mock provider（写真实落地页），有 key 时走 DeepSeek function calling。
+- 沙箱在 `D:\foundry-projects\<prj_id>`，独立 git 仓库；每次回合 = 一次提交；Versions 可回滚。
+- 截图证据：`app/evidence/workspace.png`、`workspace-after-turn.png`、`versions-tab.png`。
+- 安全边界与已知限制见 `app/README.md`（无 shell 工具、路径白名单、预览 iframe sandbox）。
 
 ## 证据分级约定
 

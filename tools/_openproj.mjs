@@ -1,0 +1,10 @@
+﻿import { Chrome } from "./cdp.mjs";
+const c = await Chrome.attach({ port: 9333 });
+const t = await c.listTargets();
+console.log("BEFORE", t.map(x => x.type + " " + String(x.url).slice(0, 80)).join(" || "));
+const p = await c.newPage({ width: 1440, height: 900 });
+const r = await p.goto("https://lovable.dev/projects/053a133e-76d8-4c7c-b418-2ab5f486a673", { settle: 12000 });
+console.log("GOTO", r && r.url, r && r.title);
+await new Promise(r2 => setTimeout(r2, 5000));
+const t2 = await c.listTargets();
+console.log("AFTER", t2.filter(x => x.type === "page" || x.type === "iframe").map(x => x.type + " " + String(x.url).slice(0, 90)).join(" || "));

@@ -8,3 +8,7 @@ node_modules/
 *.log
 .DS_Store
 Thumbs.db
+app/node_modules/
+app/.next/
+app/projects/
+foundry-projects/

@@ -101,10 +101,17 @@ export class Chrome {
   }
 
   // Attach to an already-open tab (e.g. the one a human logged into).
-  async attachToTarget(targetId, { width = 1440, height = 900, mobile = false, scale = 1 } = {}) {
+  async attachToTarget(targetId, { width = 1440, height = 900, mobile = false, scale = 1, noViewport = false } = {}) {
     const { sessionId } = await this.send('Target.attachToTarget', { targetId, flatten: true });
     const page = new Page(this, targetId, sessionId);
-    await page.init({ width, height, mobile, scale });
+    if (!noViewport) {
+      try {
+        await page.init({ width, height, mobile, scale });
+      } catch (e) {
+        // iframe / OOPIF targets reject Emulation + Page domain commands; DOM access still works
+        page.viewportError = String(e && e.message || e);
+      }
+    }
     return page;
   }
 
@@ -151,6 +158,18 @@ export class Page {
         ts: params.timestamp,
       };
       this.requests.push(r);
+    } else if (method === 'Network.webSocketCreated') {
+      this.wsUrls = this.wsUrls || new Map();
+      this.wsUrls.set(params.requestId, params.url);
+      this.requests.push({ id: 'ws:' + params.requestId, url: params.url, method: 'WS', type: 'WebSocket' });
+    } else if (method === 'Network.webSocketFrameReceived' || method === 'Network.webSocketFrameSent') {
+      const url = this.wsUrls?.get(params.requestId) || '';
+      this.wsFrames.push({
+        dir: method.includes('Received') ? 'in' : 'out',
+        op: params.response.opcode,
+        url,
+        data: String(params.response.payloadData || '').slice(0, 4000),
+      });
     } else if (method === 'Network.responseReceived') {
       const r = this.requests.find((x) => x.id === params.requestId);
       if (r) {

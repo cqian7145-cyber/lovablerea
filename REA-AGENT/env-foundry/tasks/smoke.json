@@ -1,0 +1,15 @@
+[
+  {
+    "id": "env",
+    "type": "deploy_env",
+    "env_id": "foundry-app",
+    "sandbox_type": "local"
+  },
+  {
+    "id": "serve",
+    "type": "env_outcome_verifier",
+    "env_id": "foundry-app",
+    "file_artifact_id": "check_foundry-app",
+    "verifier_id": "serve"
+  }
+]
